@@ -37,7 +37,7 @@ permalink: /info
 
 # Welcome
 
-Welcome to [{{ site.data.social.twitch }}](https://twitch.tv/snouu{{ site.data.social.twitch }})'s stream.
+Welcome to [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s stream.
 This stream uses the mod
 [Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) to provide an
 interactive experience. There's a lot to the mod that may seem complicated to even more experienced
