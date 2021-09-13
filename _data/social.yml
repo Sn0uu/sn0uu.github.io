@@ -1,13 +1,13 @@
 # Icons on the footer
 rss: false
-email_address:
+email_address: snouugames@gmail.com
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github:
+github: Sn0uu
 instagram:
 keybase:
 linkedin:
@@ -16,23 +16,23 @@ reddit:
 soundcloud:
 stack_overflow:
 stack_exchange:
-steam:
+steam: CanadianSnow
 tumblr:
 twitter:
 vimeo:
 wordpress:
 youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+twitch: snouu
 tiktok:
 
 # Share button options
 share:
-  facebook: true
-  twitter: true
+  facebook: false
+  twitter: flase
   tumblr:
   pinterest:
   pocket:
-  reddit: true
+  reddit: false
   linkedin:
   wordpress:
   email: true
