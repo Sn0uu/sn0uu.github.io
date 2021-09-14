@@ -6,22 +6,10 @@
     "version": "1.1.1.0"
   },
   {
-    "author": "Samboy063",
-    "name": "BetterLoading",
-    "steamId": "1999454301",
-    "version": "3.2.0.1"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "9.0.0"
-  },
-  {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Andreas Pardeike",
@@ -42,20 +30,14 @@
     "version": "4.7.272"
   },
   {
-    "author": "Mlie",
-    "name": "AnimalHarvestingSpot (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Revolus",
     "name": "Animals are fun",
     "steamId": "2108362126",
     "version": "2020.5.30.0"
   },
   {
-    "author": "Inglix",
-    "name": "Apparel Tainted Only When Corpse Rots",
+    "author": "Shinzy",
+    "name": "Apparello 2",
     "steamId": null,
     "version": null
   },
@@ -64,6 +46,12 @@
     "name": "Architect Icons",
     "steamId": "1195427067",
     "version": "1.2.0.0"
+  },
+  {
+    "author": "jeonggihun",
+    "name": "Archotech Brain",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Razor 2.3",
@@ -82,12 +70,6 @@
     "name": "Backup Power",
     "steamId": "2084493662",
     "version": "1.10.175"
-  },
-  {
-    "author": "Meltup",
-    "name": "Beautiful Outdoors",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "lbmaian",
@@ -114,16 +96,16 @@
     "version": null
   },
   {
-    "author": "Falconne",
-    "name": "Better Workbench Management",
-    "steamId": "935982361",
-    "version": "0.5.0.0"
-  },
-  {
     "author": "AUTOMATIC",
     "name": "Bionic icons",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
   },
   {
     "author": "Ratys",
@@ -132,16 +114,52 @@
     "version": "1.3.0.0"
   },
   {
+    "author": "YAYO",
+    "name": "HAR Fix for Yayo Animation",
+    "steamId": "2579147061",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Spanky_H",
+    "name": "Bun Race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
     "version": "1.3.3102.1"
   },
   {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Callouts",
+    "steamId": "2362736503",
+    "version": "1.2.1"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
     "version": "2.2.0.0"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.3.842.0"
+  },
+  {
+    "author": "5katz",
+    "name": "Chatting on Comms",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hatti",
@@ -156,6 +174,18 @@
     "version": "4.33.649"
   },
   {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Atlas and  aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "3.0.0.3"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
@@ -168,10 +198,16 @@
     "version": "1.1.32"
   },
   {
-    "author": "Spdskatr and  CaesarV6",
-    "name": "Damage Indicators [1.3]",
-    "steamId": "2016331497",
-    "version": "1.0.0.0"
+    "author": "Troopersmith1 - Linq- deathrat",
+    "name": "Death Rattle Continued [1.2+]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "merthsoft",
@@ -198,16 +234,46 @@
     "version": null
   },
   {
+    "author": "Jecrell and lbmaian",
+    "name": "Doors Expanded",
+    "steamId": "1316188771",
+    "version": "1.4.0.2"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
     "version": "1.3.767"
   },
   {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mlie",
     "name": "Egg Incubator",
     "steamId": "2505566813",
     "version": "1.0.4.0"
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": "935982361",
+    "version": "0.5.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Everybody Gets One",
+    "steamId": "1687566130",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "KiameV (supporting) & Why_is_that (original)",
+    "name": "Expanded Roofing",
+    "steamId": "2568893936",
+    "version": "1.3.0"
   },
   {
     "author": "Kosaro",
@@ -246,6 +312,12 @@
     "version": "1.0.2"
   },
   {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
     "author": "Ykara (Updated for 1.1 by Ogliss)",
     "name": "Harvest Everything!",
     "steamId": null,
@@ -268,18 +340,6 @@
     "name": "Heated Floors",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "YAYO",
-    "name": "HAR Fix for Yayo Animation",
-    "steamId": "2579147061",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
   },
   {
     "author": "Orion",
@@ -330,6 +390,12 @@
     "version": null
   },
   {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "juanlopez2008",
     "name": "LightsOut",
     "steamId": null,
@@ -340,6 +406,12 @@
     "name": "Locks",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Looting Manager",
+    "steamId": "2002001082",
+    "version": "1.0.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -366,16 +438,16 @@
     "version": null
   },
   {
-    "author": "Nunahur Al-Shamikh",
-    "name": "Medieval Prosthetics",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "NotFood",
     "name": "MendAndRecycle",
     "steamId": "735241897",
     "version": "1.0.1.0"
+  },
+  {
+    "author": "Neceros (Original) and  Mario",
+    "name": "Metal Don't Burn (UNOFFICIAL 1.3 PATCH)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Haplo",
@@ -501,7 +573,7 @@
     "author": "Andreas Pardeike and  BleuSquid",
     "name": "Puppeteer",
     "steamId": "2594873651",
-    "version": "1.6.0.0"
+    "version": "1.6.1.0"
   },
   {
     "author": "legodude17",
@@ -588,14 +660,26 @@
     "version": "2021.0.1.6"
   },
   {
+    "author": "Ogam,  Taranchuk and  Fumblesneeze",
+    "name": "Rimedieval - Ice add-on",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roolo and Updated by Ogliss",
     "name": "RunAndGun",
     "steamId": null,
     "version": null
   },
   {
-    "author": "SheiFoxy",
-    "name": "SF Grim Reality",
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Set Owner for Prisoner Beds",
     "steamId": null,
     "version": null
   },
@@ -615,7 +699,7 @@
     "author": "Mlie",
     "name": "Show Me Your Hands",
     "steamId": "2475965842",
-    "version": "1.0.45.0"
+    "version": "1.0.46.0"
   },
   {
     "author": "PeteTimesSix",
@@ -702,6 +786,12 @@
     "version": "1.3.1"
   },
   {
+    "author": "saschahi",
+    "name": "ToolkitAddon - More Stuff",
+    "steamId": "2594931182",
+    "version": "1.1.1"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
@@ -732,28 +822,46 @@
     "version": "1.3.0.0"
   },
   {
-    "author": "the_heye",
-    "name": "Twitch Chat",
-    "steamId": "2075845400",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "hodlhodl",
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
     "version": "1.0.0.0"
   },
   {
-    "author": "Mlie",
-    "name": "Utility Hands",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Erin and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Endangered",
+    "steamId": "2366589898",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Ice Sheet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tundra",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Non-Lethal",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "bodlosh",
@@ -822,6 +930,12 @@
     "version": "1.0.7865.41688"
   },
   {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Faction Control",
+    "steamId": "1509102551",
+    "version": "1.0.7915.33200"
+  },
+  {
     "author": "XeoNovaDan (original) & KiameV (current)",
     "name": "[KV] Hand 'n' Footwear",
     "steamId": null,
@@ -832,6 +946,12 @@
     "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Show Hair With Hats or Hide All Hats",
+    "steamId": "1180826364",
+    "version": "1.0.0.0"
   },
   {
     "author": "KittahKhan",
@@ -904,5 +1024,11 @@
     "name": "[Ry]Rimcraft Weaponry",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Ghost_Rolly",
+    "name": "Rim73 - Performance and Optimisations",
+    "steamId": "2573814850",
+    "version": "1.0.0.0"
   }
 ]

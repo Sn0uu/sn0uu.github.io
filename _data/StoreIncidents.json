@@ -108,7 +108,7 @@
 	{
 		"abr": "animaltame",
 		"price": 150,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "resourcepodcrash",
@@ -122,18 +122,13 @@
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 350,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -172,7 +167,7 @@
 	},
 	{
 		"abr": "rarethrumbos",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -192,7 +187,7 @@
 	},
 	{
 		"abr": "skillincrease",
-		"price": 200,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -217,7 +212,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -272,7 +267,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 12000,
 		"karmatype": "Good"
 	},
 	{
@@ -327,17 +322,17 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 50000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 12000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 55000,
 		"karmatype": "Good"
 	},
 	{
@@ -347,7 +342,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -372,17 +367,17 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 8000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
-		"price": 5000,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -436,5 +431,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 86
 }

@@ -4275,6 +4275,182 @@
       "addPrice": 2500,
       "removePrice": 3000,
       "degree": 0
+    },
+    {
+      "description": "Due to the limitations of this androids mind: they are only barely able to understand and feel emotion. This makes them less than desired in social situations.",
+      "stats": [
+        "Shoot frenzy inspiration disabled.",
+        "Work frenzy inspiration disabled.",
+        "Go frenzy inspiration disabled.",
+        "Inspired trade inspiration disabled.",
+        "Inspired recruitment inspiration disabled.",
+        "Inspired taming inspiration disabled.",
+        "Inspired surgery inspiration disabled.",
+        "Inspired creativity inspiration disabled.",
+        "-90.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Android tiers",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Shoot frenzy inspiration disabled.",
+          "Work frenzy inspiration disabled.",
+          "Go frenzy inspiration disabled.",
+          "Inspired trade inspiration disabled.",
+          "Inspired recruitment inspiration disabled.",
+          "Inspired taming inspiration disabled.",
+          "Inspired surgery inspiration disabled.",
+          "Inspired creativity inspiration disabled.",
+          "-90.00% social impact"
+        ]
+      },
+      "defName": "SimpleMindedAndroid",
+      "name": "simpleminded",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "A mechanized infantry unit, they do not think or feel.",
+      "stats": [
+        "-90.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Android tiers",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-90.00% social impact"
+        ]
+      },
+      "defName": "MechAtlas",
+      "name": "mech",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is intolerant of all lifeforms, whether they be mechanical or biological. There is always a chance they will randomly cause fights, especially when their mood is low.",
+      "stats": [
+        "Only mental break \"Berserk\" allowed.",
+        "Only mental break \"Slaughterer\" allowed.",
+        "Only mental break \"MurderousRage\" allowed.",
+        "Only mental break \"SadisticRage\" allowed.",
+        "Only mental break \"InsultingSpree\" allowed.",
+        "-90.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Android tiers",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Only mental break \"Berserk\" allowed.",
+          "Only mental break \"Slaughterer\" allowed.",
+          "Only mental break \"MurderousRage\" allowed.",
+          "Only mental break \"SadisticRage\" allowed.",
+          "Only mental break \"InsultingSpree\" allowed.",
+          "-90.00% social impact"
+        ]
+      },
+      "defName": "Intolerance",
+      "name": "intolerance",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a deep fondness toward all humans, seeing them as not only their own creators but as parental figures.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Android tiers",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "FeelingsTowardHumanity",
+      "name": "loveshumanity",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has a deep hatred toward all of humanity, seeing them as nothing more than egotistical meatbags.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Android tiers",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "FeelingsTowardHumanity",
+      "name": "hateshumanity",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
     }
   ],
   "races": [
@@ -4296,9 +4472,9 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
-      "price": 2000
+      "price": 5000
     },
     {
       "data": {
@@ -4321,7 +4497,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The Blood Elves or Sin'dorei in Thalassian (\"children of the blood\"), are a race composed of former high elves who renamed themselves in honor of their people who were killed during the siege of Quel'Thalas by the Scourge during the Third War.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "The Blood Elves or Sin'dorei in Thalassian (\"children of the blood\"), are a race composed of former high elves who renamed themselves in honor of their people who were killed during the siege of Quel'Thalas by the Scourge during the Third War.",
       "defName": "WoW_BloodElf",
       "enabled": true,
       "name": "bloodelf",
@@ -4351,7 +4527,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The draenei (meaning Exiled Ones in their own tongue) are a faction of uncorrupted eredar who fled their homeworld of Argus to escape the corruption of the demonic Burning Legion.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "The draenei (meaning Exiled Ones in their own tongue) are a faction of uncorrupted eredar who fled their homeworld of Argus to escape the corruption of the demonic Burning Legion.",
       "defName": "WoW_Draenei",
       "enabled": true,
       "name": "draenei",
@@ -4376,7 +4552,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Dwarves are an ancient bold and courageous race descended from the earthen. Dwarves are short and stout creatures. They are shorter than humans but taller than gnomes, taking advantage of their size when possible and relying on their robustness and strength when not. The average dwarf is steady, observant and composed both during work and combat, yet able to rage with fierce zeal and persistence when the situation calls for it. While a dwarf prefers to plan forward to overcome challenges, many of them easily lose their temperament and self-restraint when exposed to conditions stirring their feelings and concerns.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "Dwarves are an ancient bold and courageous race descended from the earthen. Dwarves are short and stout creatures. They are shorter than humans but taller than gnomes, taking advantage of their size when possible and relying on their robustness and strength when not. The average dwarf is steady, observant and composed both during work and combat, yet able to rage with fierce zeal and persistence when the situation calls for it. While a dwarf prefers to plan forward to overcome challenges, many of them easily lose their temperament and self-restraint when exposed to conditions stirring their feelings and concerns.",
       "defName": "WoW_Dwarf",
       "enabled": true,
       "name": "dwarf",
@@ -4415,7 +4591,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The undead Forsaken or simply the Forsaken and Undead are a race and a faction of intelligent undead who broke away from the Scourge and took control of much of the kingdom of Lordaeron, destroyed during the Third War by the death knight Arthas. While comprised vastly of undead humans, the Forsaken are a diverse faction that include several different races at their biological core. However, they have all assumed their racial identity as \"Forsaken,\" due to their shared goals and loyalties.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "The undead Forsaken or simply the Forsaken and Undead are a race and a faction of intelligent undead who broke away from the Scourge and took control of much of the kingdom of Lordaeron, destroyed during the Third War by the death knight Arthas. While comprised vastly of undead humans, the Forsaken are a diverse faction that include several different races at their biological core. However, they have all assumed their racial identity as \"Forsaken,\" due to their shared goals and loyalties.",
       "defName": "WoW_Forsaken",
       "enabled": true,
       "name": "forsaken",
@@ -4461,7 +4637,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The Night Elves are a powerful and mystical race whose origins extend back to ancient times. These then-immortal beings were among the first to study magic and let it loose throughout the world nearly ten thousand years before the First War on Azeroth. The far-reaching and ancient legacy of the night elves shaped them into a race of very self-sufficient and self-conscious individuals, who often display strong streaks of isolationism.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "The Night Elves are a powerful and mystical race whose origins extend back to ancient times. These then-immortal beings were among the first to study magic and let it loose throughout the world nearly ten thousand years before the First War on Azeroth. The far-reaching and ancient legacy of the night elves shaped them into a race of very self-sufficient and self-conscious individuals, who often display strong streaks of isolationism.",
       "defName": "WoW_ForsakenNightElf",
       "enabled": true,
       "name": "forsakennightelf",
@@ -4506,7 +4682,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The Blood Elves or Sin'dorei in Thalassian (\"children of the blood\"), are a race composed of former high elves who renamed themselves in honor of their people who were killed during the siege of Quel'Thalas by the Scourge during the Third War.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "The Blood Elves or Sin'dorei in Thalassian (\"children of the blood\"), are a race composed of former high elves who renamed themselves in honor of their people who were killed during the siege of Quel'Thalas by the Scourge during the Third War.",
       "defName": "WoW_ForsakenHighElf",
       "enabled": true,
       "name": "forsakenhighelf",
@@ -4538,7 +4714,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The gnomes (collectively referred to as gnomanity or gnomekind) are a race of diminutive and highly intelligent humanoids, known for their mastery of technology. They were originally descended from mechagnomes, metallic titan-forged, who were afflicted with the Curse of Flesh. Gnomes are a race of ambitious folk that celebrate creativity and craft and whose lives are validated by a masterful command of the scientific laws of the universe. This outlook on life makes them feel that to be pitied is unbearable, even insulting, though they know their allies do not do this intentionally. They have been more of a race of scholars throughout their history, generally focused on escaping and avoiding conflict, being also known to offset their lack of physical strength with ingenuity and daring.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "The gnomes (collectively referred to as gnomanity or gnomekind) are a race of diminutive and highly intelligent humanoids, known for their mastery of technology. They were originally descended from mechagnomes, metallic titan-forged, who were afflicted with the Curse of Flesh. Gnomes are a race of ambitious folk that celebrate creativity and craft and whose lives are validated by a masterful command of the scientific laws of the universe. This outlook on life makes them feel that to be pitied is unbearable, even insulting, though they know their allies do not do this intentionally. They have been more of a race of scholars throughout their history, generally focused on escaping and avoiding conflict, being also known to offset their lack of physical strength with ingenuity and daring.",
       "defName": "WoW_Gnome",
       "enabled": true,
       "name": "gnome",
@@ -4572,7 +4748,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The goblins (collectively known as goblinhood) are small green humanoids from the Isle of Kezan. Their love of money, explosives, and technology leaves them to be a very dangerous race, both to their enemies and themselves. Most goblins have a neutral standpoint, preferring to sell their contraptions, knowledge and services to other races. Goblins are slight and wiry, averaging 4 feet in height.[21][22][23] They have three fingers and one thumb on one hand and four toes on one foot. Their noses grow larger as they age.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "The goblins (collectively known as goblinhood) are small green humanoids from the Isle of Kezan. Their love of money, explosives, and technology leaves them to be a very dangerous race, both to their enemies and themselves. Most goblins have a neutral standpoint, preferring to sell their contraptions, knowledge and services to other races. Goblins are slight and wiry, averaging 4 feet in height.[21][22][23] They have three fingers and one thumb on one hand and four toes on one foot. Their noses grow larger as they age.",
       "defName": "WoW_Goblin",
       "enabled": true,
       "name": "goblin",
@@ -4596,7 +4772,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The High Elves, or Quel'dorei (\"children of noble birth\"), are a race descended from the Highborne night elves who left Kalimdor and settled in the Eastern Kingdoms, founding Quel'Thalas. The high elves were once a significant force on the continent, but in recent times their numbers have been dramatically reduced: almost 90% of their population in Quel'Thalas was slaughtered during the Third War.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "The High Elves, or Quel'dorei (\"children of noble birth\"), are a race descended from the Highborne night elves who left Kalimdor and settled in the Eastern Kingdoms, founding Quel'Thalas. The high elves were once a significant force on the continent, but in recent times their numbers have been dramatically reduced: almost 90% of their population in Quel'Thalas was slaughtered during the Third War.",
       "defName": "WoW_HighElf",
       "enabled": true,
       "name": "highelf",
@@ -4670,7 +4846,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Humans (collectively referred to as mankind or humanity) are a resilient species native to the world of Azeroth. Recent discoveries have shown that humans are descended from the barbaric half-giant vrykul of Northrend. Though humans are among the younger races on Azeroth, they have faced many challenges with fortitude and resilience. Their continued ability to adapt and rebuild has made them a vital force in an ever-changing world.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "Humans (collectively referred to as mankind or humanity) are a resilient species native to the world of Azeroth. Recent discoveries have shown that humans are descended from the barbaric half-giant vrykul of Northrend. Though humans are among the younger races on Azeroth, they have faced many challenges with fortitude and resilience. Their continued ability to adapt and rebuild has made them a vital force in an ever-changing world.",
       "defName": "WoW_Human",
       "enabled": true,
       "name": "azerothianhuman",
@@ -4700,7 +4876,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The Night Elves are a powerful and mystical race whose origins extend back to ancient times. These then-immortal beings were among the first to study magic and let it loose throughout the world nearly ten thousand years before the First War on Azeroth. The far-reaching and ancient legacy of the night elves shaped them into a race of very self-sufficient and self-conscious individuals, who often display strong streaks of isolationism.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "The Night Elves are a powerful and mystical race whose origins extend back to ancient times. These then-immortal beings were among the first to study magic and let it loose throughout the world nearly ten thousand years before the First War on Azeroth. The far-reaching and ancient legacy of the night elves shaped them into a race of very self-sufficient and self-conscious individuals, who often display strong streaks of isolationism.",
       "defName": "WoW_NightElf",
       "enabled": true,
       "name": "nightelf",
@@ -4738,7 +4914,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The orcs are a race native to the world of Draenor, now known as Outland, they arrived to Azeroth through the Dark Portal a massive structure that allowed orcs passage from their world.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "The orcs are a race native to the world of Draenor, now known as Outland, they arrived to Azeroth through the Dark Portal a massive structure that allowed orcs passage from their world.",
       "defName": "WoW_Orc",
       "enabled": true,
       "name": "orc",
@@ -4772,7 +4948,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The tauren (shu'halo in their native language of Taur-ahe) are a race of large, bovine humanoids who dwell on the great plains of Central Kalimdor. For countless generations, they were constantly harassed by the violent centaur, who forced the tauren into a nomadic lifestyle in the harsh Barrens. Despite their enormous size, the tauren are a peaceful and honorable people who nonetheless are fierce fighters when roused. Hunting and shamanism are held in high regard in their culture, as is their worship of the Earth Mother and respect for the land and nature.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "The tauren (shu'halo in their native language of Taur-ahe) are a race of large, bovine humanoids who dwell on the great plains of Central Kalimdor. For countless generations, they were constantly harassed by the violent centaur, who forced the tauren into a nomadic lifestyle in the harsh Barrens. Despite their enormous size, the tauren are a peaceful and honorable people who nonetheless are fierce fighters when roused. Hunting and shamanism are held in high regard in their culture, as is their worship of the Earth Mother and respect for the land and nature.",
       "defName": "WoW_Tauren",
       "enabled": true,
       "name": "tauren",
@@ -4807,7 +4983,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Trolls (collectively referred to as trollkind) are a diverse sapient race that can be found in every part of Azeroth. They are one of the earliest known native races of Azeroth. Trolls are a species where multiple subspecies exist, these subspecies vary from being tall, lanky and muscular, with each subspecies being different than the others both physically and culturally. They have both elven and orc-like characteristics with their fierce tusks and long ears. Their long arms, strong legs, quick reflexes as well as their incredible agility and strength make them adept hunters.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "Trolls (collectively referred to as trollkind) are a diverse sapient race that can be found in every part of Azeroth. They are one of the earliest known native races of Azeroth. Trolls are a species where multiple subspecies exist, these subspecies vary from being tall, lanky and muscular, with each subspecies being different than the others both physically and culturally. They have both elven and orc-like characteristics with their fierce tusks and long ears. Their long arms, strong legs, quick reflexes as well as their incredible agility and strength make them adept hunters.",
       "defName": "WoW_Troll",
       "enabled": true,
       "name": "troll",
@@ -4856,7 +5032,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The worgen are a race of feral wolf-beasts whose very name inspires fear. They are large, lupine humanoids that walk upright, but lope on all fours to run. Being bitten by or drinking the blood of a worgen causes humans and night elves to be transformed into one. After the transformation, those that are overcome by rage and guilt gradually lose all vestiges of their former lives and turn mindless. By controlling their emotions via medication, magic, and self-discipline, worgen may resist being overcome by their feral instincts.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "The worgen are a race of feral wolf-beasts whose very name inspires fear. They are large, lupine humanoids that walk upright, but lope on all fours to run. Being bitten by or drinking the blood of a worgen causes humans and night elves to be transformed into one. After the transformation, those that are overcome by rage and guilt gradually lose all vestiges of their former lives and turn mindless. By controlling their emotions via medication, magic, and self-discipline, worgen may resist being overcome by their feral instincts.",
       "defName": "WoW_Worgen",
       "enabled": true,
       "name": "worgen",
@@ -4930,11 +5106,11 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Skeleton of the Scourge\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
+      "description": "Skeleton of the Scourge",
       "defName": "WoW_Skeleton",
       "enabled": true,
       "name": "skeleton",
-      "price": 2000
+      "price": 1111
     },
     {
       "data": {
@@ -4954,7 +5130,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Void elves (or ren'dorei, \"children of the Void\" in Thalassian) are a race of Void-infused elves affiliated with the Alliance. Their origins lie with a group of blood elves led by Magister Umbric who were exiled from Silvermoon City because of their research into the Void. They were transformed by void ethereals but rescued by Alleria Windrunner, who had gained mastery of the Void herself on Argus. Permanently transformed by the process, they pledged their loyalty to her and the Alliance and established themselves as the ren'dorei. The void elves seek to utilize their great but dangerous powers for the sake of defending Azeroth and the Alliance, and to prove those who doubt or judge their abilities wrong, all the while resisting the Void's call to madness.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft Allied Races</color></i>",
+      "description": "Void elves (or ren'dorei, \"children of the Void\" in Thalassian) are a race of Void-infused elves affiliated with the Alliance. Their origins lie with a group of blood elves led by Magister Umbric who were exiled from Silvermoon City because of their research into the Void. They were transformed by void ethereals but rescued by Alleria Windrunner, who had gained mastery of the Void herself on Argus. Permanently transformed by the process, they pledged their loyalty to her and the Alliance and established themselves as the ren'dorei. The void elves seek to utilize their great but dangerous powers for the sake of defending Azeroth and the Alliance, and to prove those who doubt or judge their abilities wrong, all the while resisting the Void's call to madness.",
       "defName": "WoW_VoidElf",
       "enabled": true,
       "name": "voidelf",
@@ -4994,7 +5170,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The Mag'har orcs (\"uncorrupted\" in Orcish), also known as \"brown orcs\", are the orcs that escaped the corruption of the Burning Legion. On Draenor, they were a result of isolation from the Horde due to being quarantined in Garadar. They have a noble shamanistic tradition cultivating a mighty tribal society that was centered around survival, regulating themselves through ritualized combat and personal honor.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft Allied Races</color></i>",
+      "description": "The Mag'har orcs (\"uncorrupted\" in Orcish), also known as \"brown orcs\", are the orcs that escaped the corruption of the Burning Legion. On Draenor, they were a result of isolation from the Horde due to being quarantined in Garadar. They have a noble shamanistic tradition cultivating a mighty tribal society that was centered around survival, regulating themselves through ritualized combat and personal honor.",
       "defName": "WoW_MagharOrc",
       "enabled": true,
       "name": "mag'harorc",
@@ -5026,11 +5202,275 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "The Nightborne or Shal'dorei in the native tongue, are a powerful and mystical race of elves who live in Suramar. Since the city was first separated from the rest of the world over 10,000 years ago, they are no longer true night elves and have evolved by the Nightwell into a unique elven species. For the majority of their secluded existence, virtually the entire group resided in the ancient city of Suramar and were led solely until recent times by Grand Magistrix Elisande. The nightborne race owes much of its unique physical characteristics to its long dependence on the Nightwell, an ancient source of power crafted by Suramar's Highborne residents during the War of the Ancients. Over their lengthy isolation, the exposure of the nightborne to the Nightwell's energies gradually transformed them from their original Kaldorei night elven appearance to their present darker, more night-based form.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft Allied Races</color></i>",
+      "description": "The Nightborne or Shal'dorei in the native tongue, are a powerful and mystical race of elves who live in Suramar. Since the city was first separated from the rest of the world over 10,000 years ago, they are no longer true night elves and have evolved by the Nightwell into a unique elven species. For the majority of their secluded existence, virtually the entire group resided in the ancient city of Suramar and were led solely until recent times by Grand Magistrix Elisande. The nightborne race owes much of its unique physical characteristics to its long dependence on the Nightwell, an ancient source of power crafted by Suramar's Highborne residents during the War of the Ancients. Over their lengthy isolation, the exposure of the nightborne to the Nightwell's energies gradually transformed them from their original Kaldorei night elven appearance to their present darker, more night-based form.",
       "defName": "WoW_Nightborne",
       "enabled": true,
       "name": "nightborne",
       "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+6.50 Move speed",
+          "+85% Hunger rate multiplier",
+          "+1.0 Beauty",
+          "+18.0C [32.4F] Minimum comfortable temperature",
+          "+26.0C [46.8F] Maximum comfortable temperature",
+          "+40% Mental break threshold",
+          "+85% Global work speed",
+          "+3 Honor value",
+          "+75 Meat amount",
+          "+40 Leather amount",
+          "+$1750 Market value"
+        ],
+        "mod": "Bun Race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A tribe of rabbit-like humanoids. They are small and weak, but have powerful legs.\n        \n        Small bodies leave them roughly 15% weaker in nearly all respects\n        Less resistant to cold temperatures\n        Over 40% faster running speed\n        Generally fine-featured and attractive\n        Somewhat Neurotic",
+      "defName": "Alien_BunTribe",
+      "enabled": true,
+      "name": "Bun",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+450.00 Mass",
+          "+$18000 Market value",
+          "+4.80 Move speed",
+          "+0% Flammability",
+          "+0% Psychic sensitivity",
+          "-200.0C [-360.0F] Minimum comfortable temperature",
+          "+200.0C [360.0F] Maximum comfortable temperature",
+          "+500% Pain shock threshold",
+          "+5% Toxic sensitivity",
+          "+1% Mental break threshold",
+          "+200% Global learning factor",
+          "+180% Global work speed",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+10.00% Social impact",
+          "+65.0% Armor - Blunt",
+          "+80.0% Armor - Sharp"
+        ],
+        "mod": "Android tiers",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A form of mechanized infantry, produced during an ancient time on this rimworld. These units are very strong, powerful war machines but are subsequently slow and have limited battery to them.",
+      "defName": "M7Mech",
+      "enabled": true,
+      "name": "M7 Mechanised infantry",
+      "price": 9999
+    },
+    {
+      "data": {
+        "stats": [
+          "+450.00 Mass",
+          "+$18000 Market value",
+          "+4.80 Move speed",
+          "+0% Flammability",
+          "+0% Psychic sensitivity",
+          "-200.0C [-360.0F] Minimum comfortable temperature",
+          "+200.0C [360.0F] Maximum comfortable temperature",
+          "+500% Pain shock threshold",
+          "+5% Toxic sensitivity",
+          "+1% Mental break threshold",
+          "+200% Global learning factor",
+          "+180% Global work speed",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+10.00% Social impact",
+          "+65.0% Armor - Blunt",
+          "+80.0% Armor - Sharp"
+        ],
+        "mod": "Android tiers",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A prototype M7 mechanized infantry, equipped with a limited SkyCore unit and SkyMind radio. These units are very strong, powerful war machines and allow digital consciousness to move on battlefields but are subsequently slow and have limited internal storage capacity to them.",
+      "defName": "M8Mech",
+      "enabled": true,
+      "name": "M8 Mechanised infantry",
+      "price": 20000
+    },
+    {
+      "data": {
+        "stats": [
+          "+92.50 Mass",
+          "+0% Flammability",
+          "+$8000 Market value",
+          "+10.00 Move speed",
+          "+0% Psychic sensitivity",
+          "-80.0C [-144.0F] Minimum comfortable temperature",
+          "+80.0C [144.0F] Maximum comfortable temperature",
+          "+500% Pain shock threshold",
+          "+0% Toxic sensitivity",
+          "+15% Mental break threshold",
+          "+400% Global learning factor",
+          "+400% Global work speed",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+10.00% Social impact",
+          "+40.0% Armor - Blunt",
+          "+55.0% Armor - Sharp",
+          "+80% Butchery efficiency",
+          "+120% Medical surgery success chance"
+        ],
+        "mod": "Android tiers",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A lost android, shunned from their transcendant community. The tech used to make them is beyond human comprehension, boasting near unlimited power and requiring little sustinence to operate. They deem all races other than themselves to be somewhat below them and believe that living on a rimworld is a fate worse than death.",
+      "defName": "Android5Tier",
+      "enabled": true,
+      "name": "T5 Android",
+      "price": 8888
+    },
+    {
+      "data": {
+        "stats": [
+          "+72.50 Mass",
+          "+25% Flammability",
+          "+$6000 Market value",
+          "+7.20 Move speed",
+          "+10% Psychic sensitivity",
+          "-70.0C [-126.0F] Minimum comfortable temperature",
+          "+70.0C [126.0F] Maximum comfortable temperature",
+          "+500% Pain shock threshold",
+          "+5% Toxic sensitivity",
+          "+30% Mental break threshold",
+          "+200% Global learning factor",
+          "+180% Global work speed",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+80.00% Social impact",
+          "+40.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+80% Butchery efficiency",
+          "+120% Medical surgery success chance"
+        ],
+        "mod": "Android tiers",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The most advanced form of android conceivable; this tier is able to efficiently hold the consciousness of any AI uploaded onto it, with advanced locomotive abilities and manipulation; this android vastly suprasses most humans.",
+      "defName": "Android4Tier",
+      "enabled": true,
+      "name": "T4 Android",
+      "price": 6666
+    },
+    {
+      "data": {
+        "stats": [
+          "+92.50 Mass",
+          "+0% Flammability",
+          "+$4800 Market value",
+          "+5.00 Move speed",
+          "+15% Psychic sensitivity",
+          "-60.0C [-108.0F] Minimum comfortable temperature",
+          "+60.0C [108.0F] Maximum comfortable temperature",
+          "+500% Pain shock threshold",
+          "+10% Toxic sensitivity",
+          "+100% Global work speed",
+          "+20% Mental break threshold",
+          "+100% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+90.00% Social impact",
+          "+30.0% Armor - Blunt",
+          "+40.0% Armor - Sharp",
+          "+100% Medical surgery success chance"
+        ],
+        "mod": "Android tiers",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Prototype android exclusive to this rimworld; developed by a secret R/D Laboratory, away from the eye of the rest of the planet and cosmos. This android features highly advanced locomotive and motor abilities, perfectly mimicing that of an average human. Although clunky and somewhat slow - this android features a modular component design, allowing for upgrades to be made to current parts at any point.",
+      "defName": "Android3Tier",
+      "enabled": true,
+      "name": "T3 Android",
+      "price": 4444
+    },
+    {
+      "data": {
+        "stats": [
+          "+32.50 Mass",
+          "+20% Flammability",
+          "+$1400 Market value",
+          "+3.00 Move speed",
+          "+30% Psychic sensitivity",
+          "-30.0C [-54.0F] Minimum comfortable temperature",
+          "+35.0C [63.0F] Maximum comfortable temperature",
+          "+500% Pain shock threshold",
+          "+30% Toxic sensitivity",
+          "+8% Mental break threshold",
+          "+80% Global learning factor",
+          "+55% Global work speed",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+70.00% Social impact",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp",
+          "+40.00% Food poison chance",
+          "+60% Butchery efficiency",
+          "+40% Medical tend quality",
+          "+60% Medical surgery success chance"
+        ],
+        "mod": "Android tiers",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "As simple as sentient robotics can get. This design is the bare skeletal amount of components needed to create full autonomous functionality. Obviously not the best but it works well when needed.",
+      "defName": "Android1Tier",
+      "enabled": true,
+      "name": "T1 Android",
+      "price": 1111
+    },
+    {
+      "data": {
+        "stats": [
+          "+62.50 Mass",
+          "+20% Flammability",
+          "+$2500 Market value",
+          "+4.50 Move speed",
+          "+20% Psychic sensitivity",
+          "-40.0C [-72.0F] Minimum comfortable temperature",
+          "+40.0C [72.0F] Maximum comfortable temperature",
+          "+500% Pain shock threshold",
+          "+15% Toxic sensitivity",
+          "+80% Global work speed",
+          "+8% Mental break threshold",
+          "+90% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+80.00% Social impact",
+          "+20.0% Armor - Blunt",
+          "+25.0% Armor - Sharp",
+          "+30.00% Food poison chance",
+          "+70% Butchery efficiency",
+          "+60% Medical tend quality",
+          "+80% Medical surgery success chance"
+        ],
+        "mod": "Android tiers",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A somewhat advanced android, capable of almost perfectly storing an AI consciousness and with reasonable levels of motor skills. A good all round android that is uses extensively on glitterworlds for basic maintenance and cleaning.",
+      "defName": "Android2Tier",
+      "enabled": true,
+      "name": "T2 Android",
+      "price": 2222
     }
   ]
 }
