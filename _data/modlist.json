@@ -15,7 +15,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.3.5.0"
+    "version": "3.3.6.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -70,6 +70,12 @@
     "name": "Backup Power",
     "steamId": "2084493662",
     "version": "1.10.175"
+  },
+  {
+    "author": "Meltup",
+    "name": "Beautiful Outdoors",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "lbmaian",
@@ -567,7 +573,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.5.1"
+    "version": "6.1.6.0"
   },
   {
     "author": "Andreas Pardeike and  BleuSquid",
@@ -789,7 +795,13 @@
     "author": "saschahi",
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
-    "version": "1.1.1"
+    "version": "1.1.2"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.5.0"
   },
   {
     "author": "SirRandoo",
@@ -826,6 +838,12 @@
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Nephlite and  Maxim",
+    "name": "Utility Columns",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
@@ -960,6 +978,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Ryflamer",
     "name": "[Ry]Draw a bead",
     "steamId": null,
@@ -1024,6 +1048,12 @@
     "name": "[Ry]Rimcraft Weaponry",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Factional War",
+    "steamId": "2534328163",
+    "version": "1.0.0.0"
   },
   {
     "author": "Ghost_Rolly",

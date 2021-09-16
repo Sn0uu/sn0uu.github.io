@@ -644,7 +644,7 @@
 	},
 	{
 		"abr": "vanometricpowercell",
-		"price": 2000,
+		"price": -10,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
@@ -5648,7 +5648,7 @@
 	},
 	{
 		"abr": "bun",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_BunTribe"
 	},
@@ -6188,7 +6188,7 @@
 	},
 	{
 		"abr": "m7mechanisedinfantry",
-		"price": 30000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M7Mech"
 	},
@@ -6200,7 +6200,7 @@
 	},
 	{
 		"abr": "m8mechanisedinfantry",
-		"price": 30000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M8Mech"
 	},
@@ -6780,6 +6780,390 @@
 		"category": "Apparel",
 		"defname": "Apparello_MedicalApron"
 	},
+	{
+		"abr": "surgeon'sheadgear",
+		"price": 833,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Docteur"
+	},
+	{
+		"abr": "swarmshell",
+		"price": 292,
+		"category": "Mortar shells",
+		"defname": "Nanoswarm_shell"
+	},
+	{
+		"abr": "t1android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android1Tier"
+	},
+	{
+		"abr": "t2android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android2Tier"
+	},
+	{
+		"abr": "t3android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android3Tier"
+	},
+	{
+		"abr": "t4android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android4Tier"
+	},
+	{
+		"abr": "t5android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android5Tier"
+	},
+	{
+		"abr": "tac-teamheadcover",
+		"price": 450,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Cyninja"
+	},
+	{
+		"abr": "tac-teampeakedcap",
+		"price": 5500,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Cybissar"
+	},
+	{
+		"abr": "taintedskin",
+		"price": 13,
+		"category": "Leathers",
+		"defname": "Tainted_Skin"
+	},
+	{
+		"abr": "tasergun",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Taser"
+	},
+	{
+		"abr": "tasmaniandevil",
+		"price": 750,
+		"category": "Animals",
+		"defname": "AEXP_TasmanianDevil"
+	},
+	{
+		"abr": "tasmaniandevilmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_TasmanianDevil"
+	},
+	{
+		"abr": "teargasgrenades",
+		"price": 458,
+		"category": "Grenades",
+		"defname": "VWE_TearGasGrenade"
+	},
+	{
+		"abr": "teargaslauncher",
+		"price": 925,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_TearGasLauncher"
+	},
+	{
+		"abr": "teslagun",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_TeslaGun"
+	},
+	{
+		"abr": "thylacine",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "AEXP_Thylacine"
+	},
+	{
+		"abr": "thylacinemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_Thylacine"
+	},
+	{
+		"abr": "tinkercraftchefhat",
+		"price": 375,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Chefhatplus"
+	},
+	{
+		"abr": "tinkeringbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "ApparelloTinkerer"
+	},
+	{
+		"abr": "tophat",
+		"price": 85,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Tophat"
+	},
+	{
+		"abr": "trader'scoat",
+		"price": 309,
+		"category": "Apparel",
+		"defname": "Apparello_Trypophobiaa"
+	},
+	{
+		"abr": "tribalheaddress",
+		"price": 119,
+		"category": "Apparello headgear",
+		"defname": "Apparello_MojoFeather"
+	},
+	{
+		"abr": "tribalshield",
+		"price": 74,
+		"category": "Apparel",
+		"defname": "Apparello_Tribalshield"
+	},
+	{
+		"abr": "tribalshoulderpads",
+		"price": 56,
+		"category": "Apparel",
+		"defname": "Apparello_Tribalpad"
+	},
+	{
+		"abr": "tricorderimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SurgeonMindImplant"
+	},
+	{
+		"abr": "tricorn",
+		"price": 107,
+		"category": "Apparello headgear",
+		"defname": "Apparello_TriMeCornMatey"
+	},
+	{
+		"abr": "tunic",
+		"price": 171,
+		"category": "Apparel",
+		"defname": "Apparello_Tunic"
+	},
+	{
+		"abr": "tunicaelmógo",
+		"price": 833,
+		"category": "Apparel",
+		"defname": "Apparello_Mogo"
+	},
+	{
+		"abr": "uacmarinehelmet",
+		"price": 667,
+		"category": "Rare equipment",
+		"defname": "Apparello_Doom"
+	},
+	{
+		"abr": "uniformcoat",
+		"price": 442,
+		"category": "Apparel",
+		"defname": "Apparello_Preston"
+	},
+	{
+		"abr": "unionsuit",
+		"price": 218,
+		"category": "Apparel",
+		"defname": "Apparel_UniPjays"
+	},
+	{
+		"abr": "upgradecabinet",
+		"price": 717,
+		"category": "Furniture",
+		"defname": "AndroidOperationKit"
+	},
+	{
+		"abr": "upgradekit",
+		"price": 50,
+		"category": "Manufactured",
+		"defname": "RepairKitAT"
+	},
+	{
+		"abr": "urbantrousers",
+		"price": 209,
+		"category": "Pants",
+		"defname": "Apparello_Urbskin"
+	},
+	{
+		"abr": "ushanka",
+		"price": 101,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Furhat"
+	},
+	{
+		"abr": "vx0neuralchip",
+		"price": 417,
+		"category": "Android",
+		"defname": "ATPP_VX0Chip"
+	},
+	{
+		"abr": "vx1neuralchip",
+		"price": 1333,
+		"category": "Android",
+		"defname": "ATPP_VX1Chip"
+	},
+	{
+		"abr": "vx2neuralchip",
+		"price": 3333,
+		"category": "Android",
+		"defname": "ATPP_VX2Chip"
+	},
+	{
+		"abr": "vx3neuralchip",
+		"price": 6667,
+		"category": "Android",
+		"defname": "ATPP_VX3Chip"
+	},
+	{
+		"abr": "waistcloth",
+		"price": 48,
+		"category": "Pants",
+		"defname": "Apparello_TribalPants"
+	},
+	{
+		"abr": "walldarklight",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightDark"
+	},
+	{
+		"abr": "walllight",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLight"
+	},
+	{
+		"abr": "walllight(azure)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightAzure"
+	},
+	{
+		"abr": "walllight(blue)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightBlue"
+	},
+	{
+		"abr": "walllight(chartreuse)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightChartreuse"
+	},
+	{
+		"abr": "walllight(cyan)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightCyan"
+	},
+	{
+		"abr": "walllight(green)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightGreen"
+	},
+	{
+		"abr": "walllight(magenta)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightMagenta"
+	},
+	{
+		"abr": "walllight(orange)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightOrange"
+	},
+	{
+		"abr": "walllight(red)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRed"
+	},
+	{
+		"abr": "walllight(rose)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRose"
+	},
+	{
+		"abr": "walllight(springgreen)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightSpringGreen"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightViolet"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightYellow"
+	},
+	{
+		"abr": "wallsunlight",
+		"price": 32,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallSunLight"
+	},
+	{
+		"abr": "walrus",
+		"price": 917,
+		"category": "Animals",
+		"defname": "AEXP_Walrus"
+	},
+	{
+		"abr": "walrustusk",
+		"price": 133,
+		"category": "Items",
+		"defname": "AEXP_WalrusTusk"
+	},
+	{
+		"abr": "wanderer'schestplate",
+		"price": 1667,
+		"category": "Rare equipment",
+		"defname": "Apparello_Syndicatellorare"
+	},
+	{
+		"abr": "wanderer'shatandmask",
+		"price": 833,
+		"category": "Rare equipment",
+		"defname": "Apparello_Zorro"
+	},
+	{
+		"abr": "war-engineer'scomm-link",
+		"price": 2000,
+		"category": "Rare equipment",
+		"defname": "Apparello_Quotee"
+	},
+	{
+		"abr": "weldingmask",
+		"price": 333,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Wendywelder"
+	},
+	{
+		"abr": "zoologyimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "AnimalMindImplant"
+	},
+	{
+		"abr": "clustercolumn",
+		"price": 492,
+		"category": "Security",
+		"defname": "DetColumnMod"
+	}
 	],
-	"total": 1193
+	"total": 1200
 }

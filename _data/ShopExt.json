@@ -1440,8 +1440,8 @@
       "name": "chemicalinterest",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2500,
-      "removePrice": 3000,
+      "addPrice": 5000,
+      "removePrice": 500,
       "degree": 1
     },
     {
@@ -4388,8 +4388,8 @@
       "name": "intolerance",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 5000,
+      "removePrice": 500,
       "degree": 0
     },
     {
