@@ -26,7 +26,7 @@
 	},
 	{
 		"abr": "luciferium",
-		"price": 117,
+		"price": 225,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
@@ -884,7 +884,7 @@
 	},
 	{
 		"abr": "glitterworldmedicine",
-		"price": 83,
+		"price": -10,
 		"category": "Medicine",
 		"defname": "MedicineUltratech"
 	},
@@ -7163,7 +7163,43 @@
 		"price": 492,
 		"category": "Security",
 		"defname": "DetColumnMod"
-	}
+	},
+	{
+		"abr": "darkcolumn",
+		"price": 170,
+		"category": "Misc",
+		"defname": "DarkColumnMod"
+	},
+	{
+		"abr": "flamecolumn",
+		"price": 492,
+		"category": "Security",
+		"defname": "FlameColumnMod"
+	},
+	{
+		"abr": "frozencolumn",
+		"price": 833,
+		"category": "Misc",
+		"defname": "IceColumnMod"
+	},
+	{
+		"abr": "lightcolumn",
+		"price": 170,
+		"category": "Misc",
+		"defname": "LightColumnMod"
+	},
+	{
+		"abr": "orbitaltradecolumn",
+		"price": 358,
+		"category": "Misc",
+		"defname": "OrbitalTradeColumnMod"
+	},
+	{
+		"abr": "suncolumn",
+		"price": 725,
+		"category": "Misc",
+		"defname": "SunColumnMod"
+	},
 	],
-	"total": 1200
+	"total": 1206
 }
