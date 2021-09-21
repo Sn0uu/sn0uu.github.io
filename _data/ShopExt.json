@@ -2297,44 +2297,6 @@
       "degree": -1
     },
     {
-      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
-      "stats": [
-        "+0.10 move speed",
-        "+20% global work speed",
-        "-100% psychic sensitivity",
-        "-95% toxic sensitivity",
-        "-90% mental break threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Misc. Robots",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+0.10 move speed",
-          "+20% global work speed",
-          "-100% psychic sensitivity",
-          "-95% toxic sensitivity",
-          "-90% mental break threshold"
-        ]
-      },
-      "defName": "AIRobot_BaseTrait",
-      "name": "robot",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2500,
-      "removePrice": 3000,
-      "degree": 1
-    },
-    {
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [
 
@@ -4388,8 +4350,8 @@
       "name": "intolerance",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 5000,
-      "removePrice": 500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4451,6 +4413,44 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2
+    },
+    {
+      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
+      "stats": [
+        "+0.10 move speed",
+        "+20% global work speed",
+        "-100% psychic sensitivity",
+        "-95% toxic sensitivity",
+        "-90% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Misc. Robots",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.10 move speed",
+          "+20% global work speed",
+          "-100% psychic sensitivity",
+          "-95% toxic sensitivity",
+          "-90% mental break threshold"
+        ]
+      },
+      "defName": "AIRobot_BaseTrait",
+      "name": "robot",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
     }
   ],
   "races": [
@@ -5265,7 +5265,7 @@
       "defName": "M7Mech",
       "enabled": false,
       "name": "M7 Mechanised infantry",
-      "price": 9999
+      "price": 30000
     },
     {
       "data": {
@@ -5297,7 +5297,7 @@
       "defName": "M8Mech",
       "enabled": false,
       "name": "M8 Mechanised infantry",
-      "price": 20000
+      "price": 30000
     },
     {
       "data": {
@@ -5331,7 +5331,7 @@
       "defName": "Android5Tier",
       "enabled": false,
       "name": "T5 Android",
-      "price": 8888
+      "price": 13333
     },
     {
       "data": {
@@ -5365,7 +5365,7 @@
       "defName": "Android4Tier",
       "enabled": false,
       "name": "T4 Android",
-      "price": 6666
+      "price": 10000
     },
     {
       "data": {
@@ -5398,7 +5398,7 @@
       "defName": "Android3Tier",
       "enabled": false,
       "name": "T3 Android",
-      "price": 4444
+      "price": 8000
     },
     {
       "data": {
@@ -5432,9 +5432,9 @@
       },
       "description": "As simple as sentient robotics can get. This design is the bare skeletal amount of components needed to create full autonomous functionality. Obviously not the best but it works well when needed.",
       "defName": "Android1Tier",
-      "enabled": false,
+      "enabled": true,
       "name": "T1 Android",
-      "price": 1111
+      "price": 2333
     },
     {
       "data": {
@@ -5468,9 +5468,470 @@
       },
       "description": "A somewhat advanced android, capable of almost perfectly storing an AI consciousness and with reasonable levels of motor skills. A good all round android that is uses extensively on glitterworlds for basic maintenance and cleaning.",
       "defName": "Android2Tier",
-      "enabled": false,
+      "enabled": true,
       "name": "T2 Android",
-      "price": 2222
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+70% Flammability",
+          "+$1850 Market value",
+          "+4.60 Move speed",
+          "+10.0C [18.0F] Minimum comfortable temperature",
+          "+30.0C [54.0F] Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+10% Toxic sensitivity",
+          "+100% Eating speed",
+          "+50 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+120.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Monstergirl Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Baphomet that has developed a semblance of intelligence.",
+      "defName": "MG_Baphomet",
+      "enabled": true,
+      "name": "Baphomet",
+      "price": 3083
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-10.0C [-18.0F] Minimum comfortable temperature",
+          "+45.0C [81.0F] Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+5.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.5 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Monstergirl Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Catgirl",
+      "enabled": true,
+      "name": "Catgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+6.60 Move speed",
+          "+0.0C [0.0F] Minimum comfortable temperature",
+          "+30.0C [54.0F] Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+7.5% Armor - Blunt",
+          "+7.5% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+75 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+75% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Monstergirl Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Centaur that has developed a semblance of intelligence.",
+      "defName": "MG_Centaur",
+      "enabled": true,
+      "name": "Centaur",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.00 Move speed",
+          "+0.0C [0.0F] Minimum comfortable temperature",
+          "+30.0C [54.0F] Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+60 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Monstergirl Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Cowgirl that has developed a semblance of intelligence.",
+      "defName": "MG_Cowgirl",
+      "enabled": true,
+      "name": "Cowgirl",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+5% Flammability",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "-20.0C [-36.0F] Minimum comfortable temperature",
+          "+100.0C [180.0F] Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+100 Carrying capacity",
+          "+40.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+100.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+75 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Monstergirl Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
+      "defName": "MG_Dragon",
+      "enabled": true,
+      "name": "Dragon",
+      "price": 3667
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+80% Flammability",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "+10.0C [18.0F] Minimum comfortable temperature",
+          "+40.0C [72.0F] Maximum comfortable temperature",
+          "+500% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+500% Toxic sensitivity",
+          "+110% Eating speed",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Monstergirl Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
+      "defName": "MG_ForestFairy",
+      "enabled": true,
+      "name": "ForestFairy",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-40.0C [-72.0F] Minimum comfortable temperature",
+          "+30.0C [54.0F] Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+5.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.3 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Monstergirl Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Foxgirl",
+      "enabled": true,
+      "name": "Foxgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+90% Flammability",
+          "+$1600 Market value",
+          "+4.80 Move speed",
+          "+0.0C [0.0F] Minimum comfortable temperature",
+          "+30.0C [54.0F] Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+45 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Monstergirl Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Harpy that has developed a semblance of intelligence.",
+      "defName": "MG_Harpy",
+      "enabled": true,
+      "name": "Harpy",
+      "price": 2667
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+50% Flammability",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "-300.0C [-540.0F] Minimum comfortable temperature",
+          "+0.0C [0.0F] Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+120% Toxic sensitivity",
+          "+110% Eating speed",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Monstergirl Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
+      "defName": "MG_IceFairy",
+      "enabled": true,
+      "name": "IceFairy",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$1800 Market value",
+          "+4.00 Move speed",
+          "+0.0C [0.0F] Minimum comfortable temperature",
+          "+60.0C [108.0F] Maximum comfortable temperature",
+          "+200% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+25.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+50 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Monstergirl Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
+      "defName": "MG_Slime",
+      "enabled": true,
+      "name": "Slime",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+120% Flammability",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "-55.0C [-99.0F] Minimum comfortable temperature",
+          "+40.0C [72.0F] Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+120 Carrying capacity",
+          "+15.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+10.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+75 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Monstergirl Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Thrumbogirl",
+      "enabled": true,
+      "name": "Thrumbogirl",
+      "price": 3667
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.10 Move speed",
+          "-20.0C [-36.0F] Minimum comfortable temperature",
+          "+35.0C [63.0F] Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+25.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+7.5% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.3 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Monstergirl Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Wolfgirl",
+      "enabled": true,
+      "name": "Wolfgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+$2000 Market value",
+          "+3.60 Move speed",
+          "+20% Mental break threshold",
+          "+100% Flammability",
+          "+31.0C [55.8F] Maximum comfortable temperature",
+          "-10.0C [-18.0F] Minimum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+100 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+150% Toxic sensitivity",
+          "+110% Eating speed",
+          "+80 Meat amount",
+          "+90 Leather amount",
+          "+0.9 Melee dodge chance",
+          "+125% Aiming time",
+          "+50.00% Negotiation ability",
+          "+150.00% Social impact",
+          "+6 Honor value",
+          "+150% Mining speed",
+          "+115% Mining yield",
+          "+120% Plant work speed",
+          "+90% Hunting stealth",
+          "+120% Construction speed",
+          "+70% Research speed"
+        ],
+        "mod": "Moosesian race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Moosesian are human whose gene got mixed with that of a moose, but unlike the real moose, they evolved into a very resilence and strong race, capable of lifting heavy objects and withstand physical harm, used to have a very powerful faction of their own, but due to infighting, they has long been factionalized into various clans of warbands spreading throughout the rim.",
+      "defName": "Moosesian",
+      "enabled": true,
+      "name": "Moosesian",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4 Honor value",
+          "+75 Carrying capacity",
+          "+100% Global learning factor",
+          "+80% Psychic sensitivity",
+          "+80% Rest rate multiplier",
+          "+80% Global work speed",
+          "+0 Foraged food amount",
+          "+100.00% Negotiation ability",
+          "+100.00% Social impact",
+          "+100.00% Trade price improvement",
+          "+40 Leather amount",
+          "+78% Pain shock threshold",
+          "+30% Mental break threshold",
+          "+18.0C [32.4F] Minimum comfortable temperature",
+          "+30.0C [54.0F] Maximum comfortable temperature",
+          "+5.00 Move speed",
+          "+95% Aiming time",
+          "+10.0 Melee dodge chance",
+          "+1.2 Melee hit chance"
+        ],
+        "mod": "Nyaron race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
+      "defName": "Alien_Nyaron",
+      "enabled": true,
+      "name": "Nyaron",
+      "price": 3333
     }
   ]
 }

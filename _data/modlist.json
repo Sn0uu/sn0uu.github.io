@@ -15,13 +15,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.3.6.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
+    "version": "3.3.8.0"
   },
   {
     "author": "Fluffy",
@@ -141,19 +135,19 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3102.1"
-  },
-  {
-    "author": "Captain Muscles (Nathan Harbour)",
-    "name": "Callouts",
-    "steamId": "2362736503",
-    "version": "1.2.1"
+    "version": "1.3.3117.2"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
     "version": "2.2.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Change Caravan Loadout",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "void",
@@ -172,12 +166,6 @@
     "name": "CleaningArea",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Fluffy",
-    "name": "Colony Manager",
-    "steamId": "715565262",
-    "version": "4.33.649"
   },
   {
     "author": "Carny Senpai",
@@ -244,6 +232,24 @@
     "name": "Doors Expanded",
     "steamId": "1316188771",
     "version": "1.4.0.2"
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.3.916"
   },
   {
     "author": "Dubwise",
@@ -324,32 +330,8 @@
     "version": "1.0.0"
   },
   {
-    "author": "Ykara (Updated for 1.1 by Ogliss)",
-    "name": "Harvest Everything!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Smuffle",
-    "name": "Harvest Organs Post Mortem",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Falconne",
     "name": "Heat Map",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Heated Floors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
     "steamId": null,
     "version": null
   },
@@ -457,21 +439,51 @@
   },
   {
     "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alaestor",
+    "name": "Misc. Robots++",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
     "name": "Misc. Training",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "Mod Manager",
-    "steamId": "1507748539",
-    "version": "3.8.1038"
+    "author": "Razar1",
+    "name": "Monstergirl Races",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Giant Space Hamster",
     "name": "Moody",
     "steamId": "826998327",
     "version": "2.5.6.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Moonlight",
+    "steamId": "2589384830",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Waffel F.",
+    "name": "Moosesian race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "More Sculpture",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hob Took",
@@ -486,22 +498,16 @@
     "version": "1.0.3.0"
   },
   {
-    "author": "Mlie",
-    "name": "New Limbs Needs Training",
-    "steamId": "2439159828",
-    "version": "1.0.11.0"
-  },
-  {
     "author": "JBloodthorn",
     "name": "No Lazy Doctors",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Mehni",
-    "name": "Numbers",
-    "steamId": "1414302321",
-    "version": "1.1.0.0"
+    "author": "Farmradish",
+    "name": "Nyaron race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Ogre",
@@ -538,12 +544,6 @@
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
     "version": "1.3.0.1"
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Mehni",
@@ -714,6 +714,12 @@
     "version": "1.4.5.0"
   },
   {
+    "author": "okradonkey",
+    "name": "Single Plant Texture Patch (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "legodude17",
     "name": "Smarter Deconstruction and Mining",
     "steamId": "2398365712",
@@ -756,6 +762,12 @@
     "version": null
   },
   {
+    "author": "民火",
+    "name": "Statue of Colonist",
+    "steamId": "1539031321",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Simmin",
     "name": "Stuff on Tables",
     "steamId": null,
@@ -795,7 +807,7 @@
     "author": "saschahi",
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
-    "version": "1.1.2"
+    "version": "1.1.4"
   },
   {
     "author": "SirRandoo",
@@ -822,6 +834,12 @@
     "version": null
   },
   {
+    "author": "TimmyLiang",
+    "name": "TradeHelper",
+    "steamId": "2113372560",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Trader ships",
     "steamId": "2046222331",
@@ -842,6 +860,12 @@
   {
     "author": "Nephlite and  Maxim",
     "name": "Utility Columns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Utility Hands",
     "steamId": null,
     "version": null
   },
@@ -932,6 +956,36 @@
   {
     "author": "notfood",
     "name": "Yet Another Stockpile Presets",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Colony Manager",
+    "steamId": "715565262",
+    "version": "4.33.649"
+  },
+  {
+    "author": "Ykara (Updated for 1.1 by Ogliss)",
+    "name": "Harvest Everything!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smuffle",
+    "name": "Harvest Organs Post Mortem",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
     "steamId": null,
     "version": null
   },
