@@ -18,6 +18,24 @@
     "version": "3.3.8.0"
   },
   {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg,  AFriend,  milon,  Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.3.7862.41411"
+  },
+  {
     "author": "Fluffy",
     "name": "Animal Tab",
     "steamId": "712141500",
@@ -100,12 +118,6 @@
     "name": "Bionic icons",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Fluffy",
-    "name": "Blueprints",
-    "steamId": "708455313",
-    "version": "2.17.133"
   },
   {
     "author": "Ratys",
@@ -198,12 +210,6 @@
     "version": null
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "merthsoft",
     "name": "Designator Shapes",
     "steamId": "1235181370",
@@ -226,12 +232,6 @@
     "name": "Door Mat",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Jecrell and lbmaian",
-    "name": "Doors Expanded",
-    "steamId": "1316188771",
-    "version": "1.4.0.2"
   },
   {
     "author": "telardo",
@@ -258,18 +258,6 @@
     "version": "1.3.767"
   },
   {
-    "author": "EdB",
-    "name": "EdB Prepare Carefully",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Egg Incubator",
-    "steamId": "2505566813",
-    "version": "1.0.4.0"
-  },
-  {
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": "935982361",
@@ -294,18 +282,6 @@
     "version": null
   },
   {
-    "author": "DantheWAANN",
-    "name": "Fast Spreading Grass 2.0",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rikiki",
-    "name": "FishIndustry",
-    "steamId": "758810805",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "TheEyeOfBrows",
     "name": "Fluffy Breakdowns (1.3 Update)",
     "steamId": "2584064444",
@@ -318,40 +294,40 @@
     "version": "4.9.95"
   },
   {
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": "1217001091",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "Go the F*** to Sleep",
     "steamId": "2369307661",
     "version": "1.0.2"
   },
   {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
     "author": "Falconne",
     "name": "Heat Map",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "TaosChagic",
-    "name": "Igloo",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "historic",
-    "name": "Industrial Rollers",
-    "steamId": "784327493",
-    "version": "2.5.0"
-  },
-  {
-    "author": "notfood",
-    "name": "Infused",
-    "steamId": "731287727",
-    "version": "1.1.1.0"
   },
   {
     "author": "Jaxe",
@@ -390,16 +366,16 @@
     "version": null
   },
   {
+    "author": "Uuugggg",
+    "name": "List Everything",
+    "steamId": "1706669545",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Avius and  Hazzer",
     "name": "Locks",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Carny Senpai",
-    "name": "Looting Manager",
-    "steamId": "2002001082",
-    "version": "1.0.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -474,22 +450,10 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "Waffel F.",
-    "name": "Moosesian race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "[KOR]Bichang",
     "name": "More Sculpture",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Hob Took",
-    "name": "Mortar Accuracy",
-    "steamId": "1729446857",
-    "version": "1.3.2"
   },
   {
     "author": "AliceCecil",
@@ -500,12 +464,6 @@
   {
     "author": "JBloodthorn",
     "name": "No Lazy Doctors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Farmradish",
-    "name": "Nyaron race",
     "steamId": null,
     "version": null
   },
@@ -558,6 +516,12 @@
     "version": null
   },
   {
+    "author": "Maltum",
+    "name": "Prestige Specialist Armours",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -588,12 +552,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "dninemfive",
-    "name": "Quality Cooldown",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Hatti",
     "name": "QualityBuilder",
     "steamId": "754637870",
@@ -612,16 +570,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "FLASHPOINT55",
+    "name": "RPG Style Level Up Mod",
+    "steamId": "1995668415",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Ratys",
     "name": "RT Fuse",
     "steamId": "728314182",
     "version": "1.5.0.0"
-  },
-  {
-    "author": "mastertea",
-    "name": "RandomPlus",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Andreas Pardeike",
@@ -674,6 +632,12 @@
   {
     "author": "Roolo and Updated by Ogliss",
     "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Riddle78",
+    "name": "Sealed Power Armour",
     "steamId": null,
     "version": null
   },
@@ -774,12 +738,6 @@
     "version": null
   },
   {
-    "author": "GHXX",
-    "name": "Tech Advancing",
-    "steamId": "735268789",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "The Price is What?",
     "steamId": "2353882085",
@@ -811,15 +769,9 @@
   },
   {
     "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "2091359241",
-    "version": "1.0.5.0"
-  },
-  {
-    "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
-    "version": "1.0.2.6"
+    "version": "1.0.3.0"
   },
   {
     "author": "Meow",
@@ -870,12 +822,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki,  Erin and  Sarg Bjornson",
     "name": "Vanilla Animals Expanded — Endangered",
     "steamId": "2366589898",
@@ -888,20 +834,8 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tundra",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Non-Lethal",
     "steamId": null,
     "version": null
   },
@@ -978,12 +912,6 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -1026,24 +954,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "KittahKhan",
-    "name": "[Kit] Graze up",
-    "steamId": "2302739121",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - WIP",
-    "steamId": "1635901197",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Ryflamer",
-    "name": "[Ry]Draw a bead",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Ryflamer",
     "name": "[Ry]Rimcraft",
     "steamId": null,
@@ -1052,12 +962,6 @@
   {
     "author": "Ryflamer",
     "name": "[Ry]Rimcraft Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ryflamer",
-    "name": "[Ry]Rimcraft Metals",
     "steamId": null,
     "version": null
   },
@@ -1087,32 +991,14 @@
   },
   {
     "author": "Ryflamer",
-    "name": "[Ry]Rimcraft Scenarios",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ryflamer",
     "name": "[Ry]Rimcraft Tribal Patch",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Ryflamer",
-    "name": "[Ry]Rimcraft Weaponry",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Shadowrabbit",
-    "name": "[SR]Factional War",
-    "steamId": "2534328163",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Ghost_Rolly",
-    "name": "Rim73 - Performance and Optimisations",
-    "steamId": "2573814850",
-    "version": "1.0.0.0"
+    "author": "Major Hoff",
+    "name": "RimThreaded",
+    "steamId": "2222907981",
+    "version": "2.5.15"
   }
 ]
