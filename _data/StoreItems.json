@@ -2,7 +2,7 @@
 	"items" : [
 	{
 		"abr": "beer",
-		"price": -10,
+		"price": 40,
 		"category": "Drugs",
 		"defname": "Beer"
 	},
@@ -14,55 +14,55 @@
 	},
 	{
 		"abr": "ambrosia",
-		"price": -10,
+		"price": 50,
 		"category": "Drugs",
 		"defname": "Ambrosia"
 	},
 	{
 		"abr": "go-juice",
-		"price": -10,
+		"price": 175,
 		"category": "Drugs",
 		"defname": "GoJuice"
 	},
 	{
 		"abr": "luciferium",
-		"price": -10,
+		"price": 222,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
 	{
 		"abr": "penoxycyline",
-		"price": -10,
+		"price": 61,
 		"category": "Drugs",
 		"defname": "Penoxycyline"
 	},
 	{
 		"abr": "flake",
-		"price": -10,
+		"price": 36,
 		"category": "Drugs",
 		"defname": "Flake"
 	},
 	{
 		"abr": "psychitetea",
-		"price": -10,
+		"price": 33,
 		"category": "Drugs",
 		"defname": "PsychiteTea"
 	},
 	{
 		"abr": "yayo",
-		"price": -10,
+		"price": 69,
 		"category": "Drugs",
 		"defname": "Yayo"
 	},
 	{
 		"abr": "smokeleafjoint",
-		"price": -10,
+		"price": 33,
 		"category": "Drugs",
 		"defname": "SmokeleafJoint"
 	},
 	{
 		"abr": "wake-up",
-		"price": -10,
+		"price": 116,
 		"category": "Drugs",
 		"defname": "WakeUp"
 	},
@@ -476,7 +476,7 @@
 	},
 	{
 		"abr": "glowpod",
-		"price": -10,
+		"price": 83,
 		"category": "Special",
 		"defname": "GlowPod"
 	},
@@ -680,13 +680,13 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": -10,
+		"price": 21670,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": -10,
+		"price": 28330,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
@@ -710,7 +710,7 @@
 	},
 	{
 		"abr": "packagedsurvivalmeal",
-		"price": -10,
+		"price": 400,
 		"category": "Meals",
 		"defname": "MealSurvivalPack"
 	},
@@ -776,7 +776,7 @@
 	},
 	{
 		"abr": "chocolate",
-		"price": -10,
+		"price": 500,
 		"category": "Foods",
 		"defname": "Chocolate"
 	},
@@ -794,85 +794,85 @@
 	},
 	{
 		"abr": "chickenegg(unfert.)",
-		"price": -10,
+		"price": 120,
 		"category": "Eggs (unfert.)",
 		"defname": "EggChickenUnfertilized"
 	},
 	{
 		"abr": "chickenegg(fert.)",
-		"price": -10,
+		"price": 120,
 		"category": "Eggs (fert.)",
 		"defname": "EggChickenFertilized"
 	},
 	{
 		"abr": "cobraegg(fert.)",
-		"price": -10,
+		"price": 330,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized"
 	},
 	{
 		"abr": "iguanaegg(fert.)",
-		"price": -10,
+		"price": 420,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanaFertilized"
 	},
 	{
 		"abr": "tortoiseegg(fert.)",
-		"price": -10,
+		"price": 380,
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized"
 	},
 	{
 		"abr": "cassowaryegg(fert.)",
-		"price": -10,
+		"price": 320,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized"
 	},
 	{
 		"abr": "emuegg(fert.)",
-		"price": -10,
+		"price": 300,
 		"category": "Eggs (fert.)",
 		"defname": "EggEmuFertilized"
 	},
 	{
 		"abr": "ostrichegg(fert.)",
-		"price": -10,
+		"price": 380,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
 	},
 	{
 		"abr": "turkeyegg(fert.)",
-		"price": -10,
+		"price": 180,
 		"category": "Eggs (fert.)",
 		"defname": "EggTurkeyFertilized"
 	},
 	{
 		"abr": "duckegg(unfert.)",
-		"price": -10,
+		"price": 120,
 		"category": "Eggs (unfert.)",
 		"defname": "EggDuckUnfertilized"
 	},
 	{
 		"abr": "duckegg(fert.)",
-		"price": -10,
+		"price": 120,
 		"category": "Eggs (fert.)",
 		"defname": "EggDuckFertilized"
 	},
 	{
 		"abr": "gooseegg(unfert.)",
-		"price": -10,
+		"price": 150,
 		"category": "Eggs (unfert.)",
 		"defname": "EggGooseUnfertilized"
 	},
 	{
 		"abr": "gooseegg(fert.)",
-		"price": -10,
+		"price": 180,
 		"category": "Eggs (fert.)",
 		"defname": "EggGooseFertilized"
 	},
 	{
 		"abr": "herbalmedicine",
-		"price": -10,
+		"price": 170,
 		"category": "Medicine",
 		"defname": "MedicineHerbal"
 	},
@@ -890,13 +890,13 @@
 	},
 	{
 		"abr": "component",
-		"price": -10,
+		"price": 530,
 		"category": "Manufactured",
 		"defname": "ComponentIndustrial"
 	},
 	{
 		"abr": "advancedcomponent",
-		"price": -10,
+		"price": 3330,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
@@ -920,7 +920,7 @@
 	},
 	{
 		"abr": "potatoes",
-		"price": -10,
+		"price": 20,
 		"category": "Vegetarian",
 		"defname": "RawPotatoes"
 	},
@@ -944,19 +944,19 @@
 	},
 	{
 		"abr": "corn",
-		"price": -10,
+		"price": 22,
 		"category": "Vegetarian",
 		"defname": "RawCorn"
 	},
 	{
 		"abr": "berries",
-		"price": -10,
+		"price": 20,
 		"category": "Vegetarian",
 		"defname": "RawBerries"
 	},
 	{
 		"abr": "hay",
-		"price": -10,
+		"price": 10,
 		"category": "Foods",
 		"defname": "Hay"
 	},
@@ -1016,67 +1016,67 @@
 	},
 	{
 		"abr": "silver",
-		"price": -10,
+		"price": 10,
 		"category": "Raw resources",
 		"defname": "Silver"
 	},
 	{
 		"abr": "gold",
-		"price": -10,
+		"price": 170,
 		"category": "Raw resources",
 		"defname": "Gold"
 	},
 	{
 		"abr": "steel",
-		"price": -10,
+		"price": 30,
 		"category": "Raw resources",
 		"defname": "Steel"
 	},
 	{
 		"abr": "plasteel",
-		"price": -10,
+		"price": 300,
 		"category": "Raw resources",
 		"defname": "Plasteel"
 	},
 	{
 		"abr": "wood",
-		"price": -10,
+		"price": 20,
 		"category": "Raw resources",
 		"defname": "WoodLog"
 	},
 	{
 		"abr": "uranium",
-		"price": -10,
+		"price": 100,
 		"category": "Raw resources",
 		"defname": "Uranium"
 	},
 	{
 		"abr": "jade",
-		"price": -10,
+		"price": 80,
 		"category": "Raw resources",
 		"defname": "Jade"
 	},
 	{
 		"abr": "cloth",
-		"price": -10,
+		"price": 20,
 		"category": "Textiles",
 		"defname": "Cloth"
 	},
 	{
 		"abr": "synthread",
-		"price": -10,
+		"price": 70,
 		"category": "Textiles",
 		"defname": "Synthread"
 	},
 	{
 		"abr": "devilstrand",
-		"price": -10,
+		"price": 90,
 		"category": "Textiles",
 		"defname": "DevilstrandCloth"
 	},
 	{
 		"abr": "hyperweave",
-		"price": -10,
+		"price": 150,
 		"category": "Textiles",
 		"defname": "Hyperweave"
 	},
@@ -1160,7 +1160,7 @@
 	},
 	{
 		"abr": "humanleather",
-		"price": -10,
+		"price": 69,
 		"category": "Leathers",
 		"defname": "Leather_Human"
 	},
@@ -1226,7 +1226,7 @@
 	},
 	{
 		"abr": "patchleather",
-		"price": -10,
+		"price": 20,
 		"category": "Leathers",
 		"defname": "Leather_Patch"
 	},
@@ -1406,31 +1406,31 @@
 	},
 	{
 		"abr": "sandstoneblocks",
-		"price": -10,
+		"price": 6,
 		"category": "Stone blocks",
 		"defname": "BlocksSandstone"
 	},
 	{
 		"abr": "graniteblocks",
-		"price": -10,
+		"price": 6,
 		"category": "Stone blocks",
 		"defname": "BlocksGranite"
 	},
 	{
 		"abr": "limestoneblocks",
-		"price": -10,
+		"price": 6,
 		"category": "Stone blocks",
 		"defname": "BlocksLimestone"
 	},
 	{
 		"abr": "slateblocks",
-		"price": -10,
+		"price": 6,
 		"category": "Stone blocks",
 		"defname": "BlocksSlate"
 	},
 	{
 		"abr": "marbleblocks",
-		"price": -10,
+		"price": 6,
 		"category": "Stone blocks",
 		"defname": "BlocksMarble"
 	},
@@ -2522,7 +2522,7 @@
 	},
 	{
 		"abr": "birdmeat",
-		"price": -10,
+		"price": 20,
 		"category": "Meat",
 		"defname": "Meat_Cassowary"
 	},
@@ -2546,7 +2546,7 @@
 	},
 	{
 		"abr": "catmeat",
-		"price": -10,
+		"price": 20,
 		"category": "Meat",
 		"defname": "Meat_Cat"
 	},
@@ -2588,7 +2588,7 @@
 	},
 	{
 		"abr": "duckmeat",
-		"price": -10,
+		"price": 20,
 		"category": "Meat",
 		"defname": "Meat_Duck"
 	},
@@ -2600,7 +2600,7 @@
 	},
 	{
 		"abr": "beef",
-		"price": -10,
+		"price": 30,
 		"category": "Meat",
 		"defname": "Meat_Cow"
 	},
@@ -2666,7 +2666,7 @@
 	},
 	{
 		"abr": "elephantmeat",
-		"price": -10,
+		"price": 30,
 		"category": "Meat",
 		"defname": "Meat_Elephant"
 	},
@@ -2684,7 +2684,7 @@
 	},
 	{
 		"abr": "insectmeat",
-		"price": -10,
+		"price": 25,
 		"category": "Meat",
 		"defname": "Meat_Megaspider"
 	},
@@ -2816,7 +2816,7 @@
 	},
 	{
 		"abr": "humanmeat",
-		"price": -10,
+		"price": 50,
 		"category": "Meat",
 		"defname": "Meat_Human"
 	},
@@ -3680,7 +3680,7 @@
 	},
 	{
 		"abr": "ice",
-		"price": -10,
+		"price": 60,
 		"category": "Raw resources",
 		"defname": "Ice_Resource_IceBlocks"
 	},
@@ -3740,7 +3740,7 @@
 	},
 	{
 		"abr": "acetamolpill",
-		"price": -10,
+		"price": 36,
 		"category": "Drugs",
 		"defname": "Acetamol"
 	},
@@ -3938,7 +3938,7 @@
 	},
 	{
 		"abr": "biosolids",
-		"price": -10,
+		"price": 31,
 		"category": "Waste",
 		"defname": "Biosolids"
 	},
@@ -4166,7 +4166,7 @@
 	},
 	{
 		"abr": "immunitolinjection",
-		"price": -10,
+		"price": 36,
 		"category": "Drugs",
 		"defname": "Immunitol"
 	},
@@ -4358,7 +4358,7 @@
 	},
 	{
 		"abr": "dmurlocegg(fert.)",
-		"price": -10,
+		"price": 1234,
 		"category": "Eggs (fert.)",
 		"defname": "EggWoWMurlocFertilized"
 	},
@@ -4382,7 +4382,7 @@
 	},
 	{
 		"abr": "dragonhawkegg(fert.)",
-		"price": -10,
+		"price": 2080,
 		"category": "Eggs (fert.)",
 		"defname": "EggWoWDragonhawkFertilized"
 	},
@@ -4424,19 +4424,19 @@
 	},
 	{
 		"abr": "fairydragonegg(fert.)",
-		"price": -10,
+		"price": 4170,
 		"category": "Eggs (fert.)",
 		"defname": "EggWoWFairyDragonFertilized"
 	},
 	{
 		"abr": "fairydragonleather",
-		"price": -10,
+		"price": 170,
 		"category": "Leathers",
 		"defname": "Leather_WoWFairyDragon"
 	},
 	{
 		"abr": "fairydragonmeat",
-		"price": -10,
+		"price": 30,
 		"category": "Meat",
 		"defname": "Meat_WoW_Animal_FairyDragon"
 	},
@@ -4532,13 +4532,13 @@
 	},
 	{
 		"abr": "hawkstrideregg(fert.)",
-		"price": -10,
+		"price": 2080,
 		"category": "Eggs (fert.)",
 		"defname": "EggWoWHawkstriderFertilized"
 	},
 	{
 		"abr": "hawkstrideregg(fert.)",
-		"price": -10,
+		"price": 2500,
 		"category": "Eggs (fert.)",
 		"defname": "EggWoWVoidstriderFertilized"
 	},
@@ -4592,7 +4592,7 @@
 	},
 	{
 		"abr": "kodoegg(fert.)",
-		"price": -10,
+		"price": 1670,
 		"category": "Eggs (fert.)",
 		"defname": "EggWoWKodoFertilized"
 	},
@@ -4602,6 +4602,1764 @@
 		"category": "Meat",
 		"defname": "Meat_WoW_Animal_Kodo"
 	},
+	{
+		"abr": "autocleaner",
+		"price": 5920,
+		"category": "Items",
+		"defname": "AutocleanerItem"
+	},
+	{
+		"abr": "bioniccattail",
+		"price": -10,
+		"category": "Bionic",
+		"defname": "Nr_BioCatTail"
+	},
+	{
+		"abr": "blueelectricwalltorch",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "EWallTorchBlue"
+	},
+	{
+		"abr": "cathoodie",
+		"price": -10,
+		"category": "Nyaron Apparels",
+		"defname": "Nr_CatHoodie"
+	},
+	{
+		"abr": "chatoyansniperrifle",
+		"price": -10,
+		"category": "Nyaron ranged weapons",
+		"defname": "Nr_ChRifle"
+	},
+	{
+		"abr": "clawbar",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "Nr_Clawbar"
+	},
+	{
+		"abr": "cribitepistol",
+		"price": -10,
+		"category": "Nyaron ranged weapons",
+		"defname": "Nr_CriPistol"
+	},
+	{
+		"abr": "darkelectricwalltorch",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "DarkEWallTorch"
+	},
+	{
+		"abr": "darkwalltorch",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "WallTorchDark"
+	},
+	{
+		"abr": "electricwalltorch",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "EWallTorch"
+	},
+	{
+		"abr": "greenelectricwalltorch",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "EWallTorchGreen"
+	},
+	{
+		"abr": "karambit",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "Nr_Karambit"
+	},
+	{
+		"abr": "machairodus",
+		"price": -10,
+		"category": "Nyaron ranged weapons",
+		"defname": "Nr_FlakCaster"
+	},
+	{
+		"abr": "mag'harorc",
+		"price": -10,
+		"category": "Animal",
+		"defname": "WoW_MagharOrc"
+	},
+	{
+		"abr": "mag'harorcleather",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_WoWMagharOrc"
+	},
+	{
+		"abr": "manasaber",
+		"price": -10,
+		"category": "Animals",
+		"defname": "WoW_Animal_Manasaber"
+	},
+	{
+		"abr": "minifoldpdw",
+		"price": -10,
+		"category": "Nyaron ranged weapons",
+		"defname": "Nr_MfoldPdw"
+	},
+	{
+		"abr": "minisword",
+		"price": -10,
+		"category": "Special melee weapons",
+		"defname": "Nr_MiniSword"
+	},
+	{
+		"abr": "modesttribalmask",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Mojo"
+	},
+	{
+		"abr": "murloc",
+		"price": -10,
+		"category": "Animals",
+		"defname": "WoW_Animal_Murloc"
+	},
+	{
+		"abr": "murlocmeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_WoW_Animal_Murloc"
+	},
+	{
+		"abr": "n.p.crifle",
+		"price": -10,
+		"category": "Nyaron ranged weapons",
+		"defname": "Nr_NpcRifle"
+	},
+	{
+		"abr": "nerve-enhancer",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_ProtoFin"
+	},
+	{
+		"abr": "nightelf",
+		"price": -10,
+		"category": "Animal",
+		"defname": "WoW_NightElf"
+	},
+	{
+		"abr": "nightelfleather",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_WoWNightElf"
+	},
+	{
+		"abr": "nightborne",
+		"price": -10,
+		"category": "Animal",
+		"defname": "WoW_Nightborne"
+	},
+	{
+		"abr": "nightborneleather",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_WoWNightborne"
+	},
+	{
+		"abr": "nightsaber",
+		"price": -10,
+		"category": "Animals",
+		"defname": "WoW_Animal_Nightsaber"
+	},
+	{
+		"abr": "nightsabermeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_WoW_Animal_Frostsaber"
+	},
+	{
+		"abr": "nightsabermeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_WoW_Animal_Manasaber"
+	},
+	{
+		"abr": "nightsabermeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_WoW_Animal_Nightsaber"
+	},
+	{
+		"abr": "nyaron",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Nyaron"
+	},
+	{
+		"abr": "nyaroncombatjacket",
+		"price": -10,
+		"category": "Nyaron Apparels",
+		"defname": "Nr_CatJacket"
+	},
+	{
+		"abr": "nyaronleather",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Nyaron"
+	},
+	{
+		"abr": "nyaronmaidcostume",
+		"price": -10,
+		"category": "Nyaron Apparels",
+		"defname": "Nr_CatMaid"
+	},
+	{
+		"abr": "nyaronmaidhairband",
+		"price": -10,
+		"category": "Nyaron Apparels",
+		"defname": "Nr_CatMaidBand"
+	},
+	{
+		"abr": "nyaronmeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_Alien_Nyaron"
+	},
+	{
+		"abr": "nyaronpowerarmor",
+		"price": -10,
+		"category": "Nyaron Apparels",
+		"defname": "Nr_PowerArmor"
+	},
+	{
+		"abr": "nyaronpowerarmorhelmet",
+		"price": -10,
+		"category": "Headgear",
+		"defname": "Nr_PowerArmorHelmet"
+	},
+	{
+		"abr": "nyaronsimpleuniform",
+		"price": -10,
+		"category": "Nyaron Apparels",
+		"defname": "Nr_SUniform"
+	},
+	{
+		"abr": "nyaronstalkbow",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "Nr_Stkbow"
+	},
+	{
+		"abr": "opimolpaste",
+		"price": 50,
+		"category": "Drugs",
+		"defname": "Opimol"
+	},
+	{
+		"abr": "orc",
+		"price": -10,
+		"category": "Animal",
+		"defname": "WoW_Orc"
+	},
+	{
+		"abr": "orcleather",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_WoWOrc"
+	},
+	{
+		"abr": "outlandersscrapmask",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Raideroos"
+	},
+	{
+		"abr": "overalls",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_XcomOne"
+	},
+	{
+		"abr": "oxymolpill",
+		"price": 160,
+		"category": "Drugs",
+		"defname": "Oxymol"
+	},
+	{
+		"abr": "paddedpants",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Armorpants"
+	},
+	{
+		"abr": "paddedvest",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Sheet"
+	},
+	{
+		"abr": "paddyhat",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Tradecone"
+	},
+	{
+		"abr": "patchpants",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Scrapants"
+	},
+	{
+		"abr": "peakedcap",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Commissar"
+	},
+	{
+		"abr": "plasmsword",
+		"price": -10,
+		"category": "Special melee weapons",
+		"defname": "Nr_PlasmSword"
+	},
+	{
+		"abr": "plumbingvalve",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "plumbingValve"
+	},
+	{
+		"abr": "poncho",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_PonPon"
+	},
+	{
+		"abr": "powershower",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "ShowerAdvStuff"
+	},
+	{
+		"abr": "prostheticbuntail",
+		"price": 225,
+		"category": "Prosthetic",
+		"defname": "Bun_ProstheticTail"
+	},
+	{
+		"abr": "prototypehivearmor",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_HiveArmor"
+	},
+	{
+		"abr": "prototypenerve-enhancer",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Proto"
+	},
+	{
+		"abr": "prototypescytherframe",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Scytherframe"
+	},
+	{
+		"abr": "prototypesteamhull",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Steamhull"
+	},
+	{
+		"abr": "psyco.gasmask™",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparel_Psymask"
+	},
+	{
+		"abr": "purpleelectricwalltorch",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "EWallTorchPurple"
+	},
+	{
+		"abr": "radiator",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "RadiatorStuffed"
+	},
+	{
+		"abr": "raiderjacket",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Skull"
+	},
+	{
+		"abr": "ram",
+		"price": -10,
+		"category": "Animals",
+		"defname": "WoW_Animal_Ram"
+	},
+	{
+		"abr": "rammeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_WoW_Animal_Ram"
+	},
+	{
+		"abr": "raptor",
+		"price": -10,
+		"category": "Animals",
+		"defname": "WoW_Animal_Raptor"
+	},
+	{
+		"abr": "raptoregg(fert.)",
+		"price": 4170,
+		"category": "Eggs (fert.)",
+		"defname": "EggWoWRaptorFertilized"
+	},
+	{
+		"abr": "raptormeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_WoW_Animal_Raptor"
+	},
+	{
+		"abr": "redelectricwalltorch",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "EWallTorchRed"
+	},
+	{
+		"abr": "scarf",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Vandal"
+	},
+	{
+		"abr": "schematiccabinet",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ApparelloSchematics"
+	},
+	{
+		"abr": "sciencegoggles",
+		"price": -10,
+		"category": "Eyewear",
+		"defname": "Apparello_Goggles"
+	},
+	{
+		"abr": "series-epcontainer",
+		"price": -10,
+		"category": "Nyaron stuffs",
+		"defname": "Nr_EPC"
+	},
+	{
+		"abr": "shaggybun-dog",
+		"price": -10,
+		"category": "Animals",
+		"defname": "CynobunHirsutus"
+	},
+	{
+		"abr": "shaggybun-dogmeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_CynobunHirsutus"
+	},
+	{
+		"abr": "shieldedcoat",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Syndicatetello"
+	},
+	{
+		"abr": "shootingtarget",
+		"price": -10,
+		"category": "Recreation",
+		"defname": "ShootingRangeTarget"
+	},
+	{
+		"abr": "shoulderpads",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Urpad"
+	},
+	{
+		"abr": "shower",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "ShowerStuff"
+	},
+	{
+		"abr": "shuttlepilothelm",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Rockman"
+	},
+	{
+		"abr": "shuttlepilot'svisor",
+		"price": -10,
+		"category": "Eyewear",
+		"defname": "Apparello_Visoor"
+	},
+	{
+		"abr": "simpleanimalearimplant",
+		"price": -10,
+		"category": "Animal Body Part",
+		"defname": "EarAnimalSimple"
+	},
+	{
+		"abr": "simpleanimaljawimplant",
+		"price": -10,
+		"category": "Animal Body Part",
+		"defname": "JawAnimalSimple"
+	},
+	{
+		"abr": "simpleanimalnose",
+		"price": -10,
+		"category": "Animal Body Part",
+		"defname": "NoseAnimalSimple"
+	},
+	{
+		"abr": "simpleanimalspine",
+		"price": -10,
+		"category": "Animal Body Part",
+		"defname": "SpineAnimalSimple"
+	},
+	{
+		"abr": "simpleprostheticanimalarm",
+		"price": -10,
+		"category": "Animal Body Part",
+		"defname": "SimpleProstheticArmAnimal"
+	},
+	{
+		"abr": "simpleprostheticanimalleg",
+		"price": -10,
+		"category": "Animal Body Part",
+		"defname": "SimpleProstheticLegAnimal"
+	},
+	{
+		"abr": "simpleprostheticanimaltail",
+		"price": -10,
+		"category": "Animal Body Part",
+		"defname": "ProstheticTailAnimal"
+	},
+	{
+		"abr": "simpleshower",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "ShowerSimple"
+	},
+	{
+		"abr": "skeletalhorse",
+		"price": -10,
+		"category": "Animals",
+		"defname": "WoW_Animal_Forsakenhorse"
+	},
+	{
+		"abr": "skeletalhorse",
+		"price": -10,
+		"category": "Animals",
+		"defname": "WoW_Animal_EpicForsakenhorse"
+	},
+	{
+		"abr": "skeleton",
+		"price": -10,
+		"category": "Animal",
+		"defname": "WoW_Skeleton"
+	},
+	{
+		"abr": "skirt",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Skirtwirly"
+	},
+	{
+		"abr": "smarttoilet",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "ToiletAdvStuff"
+	},
+	{
+		"abr": "sombrero",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Sombrero"
+	},
+	{
+		"abr": "spacemarineleggings",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Spacemarinepants"
+	},
+	{
+		"abr": "stablehandtrousers",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Suspender"
+	},
+	{
+		"abr": "standardissueoveralls",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Standissue"
+	},
+	{
+		"abr": "sunshades",
+		"price": -10,
+		"category": "Eyewear",
+		"defname": "Apparello_Shadess"
+	},
+	{
+		"abr": "surgeon'sapron",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_MedicalApron"
+	},
+	{
+		"abr": "surgeon'sheadgear",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Docteur"
+	},
+	{
+		"abr": "tac-teamheadcover",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Cyninja"
+	},
+	{
+		"abr": "tac-teampeakedcap",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Cybissar"
+	},
+	{
+		"abr": "talbuk",
+		"price": -10,
+		"category": "Animals",
+		"defname": "WoW_Animal_Talbuk"
+	},
+	{
+		"abr": "talbukmeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_WoW_Animal_Talbuk"
+	},
+	{
+		"abr": "tauren",
+		"price": -10,
+		"category": "Animal",
+		"defname": "WoW_Tauren"
+	},
+	{
+		"abr": "taurenleather",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_WoWTauren"
+	},
+	{
+		"abr": "thermostat",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "Thermostat"
+	},
+	{
+		"abr": "tinkercraftchefhat",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Chefhatplus"
+	},
+	{
+		"abr": "tinkeringbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "ApparelloTinkerer"
+	},
+	{
+		"abr": "toilet",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "ToiletStuff"
+	},
+	{
+		"abr": "tophat",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Tophat"
+	},
+	{
+		"abr": "towelrail",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "RadiatorTowelRail"
+	},
+	{
+		"abr": "trader'scoat",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Trypophobiaa"
+	},
+	{
+		"abr": "tribalheaddress",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_MojoFeather"
+	},
+	{
+		"abr": "tribalshield",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Tribalshield"
+	},
+	{
+		"abr": "tribalshoulderpads",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Tribalpad"
+	},
+	{
+		"abr": "tricorn",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_TriMeCornMatey"
+	},
+	{
+		"abr": "troll",
+		"price": -10,
+		"category": "Animal",
+		"defname": "WoW_Troll"
+	},
+	{
+		"abr": "trollleather",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_WoWTroll"
+	},
+	{
+		"abr": "tunic",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Tunic"
+	},
+	{
+		"abr": "tunicaelmógo",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Mogo"
+	},
+	{
+		"abr": "uacmarinehelmet",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Doom"
+	},
+	{
+		"abr": "unicorn",
+		"price": -10,
+		"category": "Animals",
+		"defname": "WoW_Animal_Unicorn"
+	},
+	{
+		"abr": "unicornleather",
+		"price": 130,
+		"category": "Leathers",
+		"defname": "Leather_WoWUnicorn"
+	},
+	{
+		"abr": "unicornmeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_WoW_Animal_Unicorn"
+	},
+	{
+		"abr": "uniformcoat",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Preston"
+	},
+	{
+		"abr": "unionsuit",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparel_UniPjays"
+	},
+	{
+		"abr": "urbantrousers",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Urbskin"
+	},
+	{
+		"abr": "ushanka",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Furhat"
+	},
+	{
+		"abr": "vicomolpill",
+		"price": 85,
+		"category": "Drugs",
+		"defname": "Vicomol"
+	},
+	{
+		"abr": "voidelf",
+		"price": -10,
+		"category": "Animal",
+		"defname": "WoW_VoidElf"
+	},
+	{
+		"abr": "voidelfleather",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_WoWVoidElf"
+	},
+	{
+		"abr": "voidstrider",
+		"price": -10,
+		"category": "Animals",
+		"defname": "WoW_Animal_Voidstrider"
+	},
+	{
+		"abr": "waistcloth",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_TribalPants"
+	},
+	{
+		"abr": "walk-infreezerunit",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "FreezerUnit"
+	},
+	{
+		"abr": "walldarklight",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightDark"
+	},
+	{
+		"abr": "walllight",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLight"
+	},
+	{
+		"abr": "walllight(azure)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightAzure"
+	},
+	{
+		"abr": "walllight(blue)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightBlue"
+	},
+	{
+		"abr": "walllight(chartreuse)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightChartreuse"
+	},
+	{
+		"abr": "walllight(cyan)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightCyan"
+	},
+	{
+		"abr": "walllight(green)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightGreen"
+	},
+	{
+		"abr": "walllight(magenta)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightMagenta"
+	},
+	{
+		"abr": "walllight(orange)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightOrange"
+	},
+	{
+		"abr": "walllight(red)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRed"
+	},
+	{
+		"abr": "walllight(rose)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRose"
+	},
+	{
+		"abr": "walllight(springgreen)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightSpringGreen"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightViolet"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightYellow"
+	},
+	{
+		"abr": "wallsunlight",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallSunLight"
+	},
+	{
+		"abr": "walltorch",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "WallTorch"
+	},
+	{
+		"abr": "wanderer'schestplate",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Syndicatellorare"
+	},
+	{
+		"abr": "wanderer'shatandmask",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Zorro"
+	},
+	{
+		"abr": "war-engineer'scomm-link",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Quotee"
+	},
+	{
+		"abr": "washingmachine",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "WashingMachine"
+	},
+	{
+		"abr": "watertub",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "WashBucket"
+	},
+	{
+		"abr": "weldingmask",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Wendywelder"
+	},
+	{
+		"abr": "whiteelectricwalltorch",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "EWallTorchWhite"
+	},
+	{
+		"abr": "worgen",
+		"price": -10,
+		"category": "Animal",
+		"defname": "WoW_Worgen"
+	},
+	{
+		"abr": "worgenleather",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_WoWWorgen"
+	},
+	{
+		"abr": "xeushammer",
+		"price": -10,
+		"category": "Special melee weapons",
+		"defname": "Nr_Xeushammer"
+	},
+	{
+		"abr": "yellowelectricwalltorch",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "EWallTorchYellow"
+	},
+	{
+		"abr": "adaptusmecanicsflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumAdaptusMecanicsFlag"
+	},
+	{
+		"abr": "aquilablackflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumAquilaBlackFlag"
+	},
+	{
+		"abr": "arrowsign",
+		"price": 20,
+		"category": "Misc",
+		"defname": "SignArrow_Wood"
+	},
+	{
+		"abr": "astherimturnsad",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumAsTheRimTurnsSign"
+	},
+	{
+		"abr": "bigbrotherflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumBigBroFlag"
+	},
+	{
+		"abr": "bigbrothersign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumsBigBrother256Sign"
+	},
+	{
+		"abr": "billboard",
+		"price": 475,
+		"category": "Misc",
+		"defname": "SignBillboard"
+	},
+	{
+		"abr": "biohazardflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumBiohazardFlag"
+	},
+	{
+		"abr": "boomalopeflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumBoomalopeFlag"
+	},
+	{
+		"abr": "buysign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumBuySign"
+	},
+	{
+		"abr": "cairn",
+		"price": 50,
+		"category": "Misc",
+		"defname": "SignCairn"
+	},
+	{
+		"abr": "cannibalmaga",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumCannibalLifeA"
+	},
+	{
+		"abr": "cannibalmagb",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumCannibalLifeB"
+	},
+	{
+		"abr": "cannibalmagc",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumCannibalLifeC"
+	},
+	{
+		"abr": "cannibalmagd",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumCannibalLifeD"
+	},
+	{
+		"abr": "cellblock13sign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumCellBlock13ASign"
+	},
+	{
+		"abr": "cellblock13sign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumCellBlock13BSign"
+	},
+	{
+		"abr": "cellblock13sign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumNoEscapeSign"
+	},
+	{
+		"abr": "chemfuelwarningsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumWallChemfuelSign"
+	},
+	{
+		"abr": "colonycomplaint",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumComplaint"
+	},
+	{
+		"abr": "colonydisclaimer",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumDisclaimer"
+	},
+	{
+		"abr": "conformsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumConformSign"
+	},
+	{
+		"abr": "consumesign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumConsumeSign"
+	},
+	{
+		"abr": "corpsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumCorp"
+	},
+	{
+		"abr": "crownaflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumRoyaltyBFlag"
+	},
+	{
+		"abr": "dayofmechsad",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumDayOfMechs"
+	},
+	{
+		"abr": "daysofwarcrimessign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumWCDaysSign"
+	},
+	{
+		"abr": "despairsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumDespairSign"
+	},
+	{
+		"abr": "donotquestionauthoritysign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumDNQASign"
+	},
+	{
+		"abr": "donotspeaksign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumDoNotSpeakSign"
+	},
+	{
+		"abr": "doyourjobflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumDoYourJobFlag"
+	},
+	{
+		"abr": "doyourjobsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumDoYourJob"
+	},
+	{
+		"abr": "doubthumanitysign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumDoubtHumanitySign"
+	},
+	{
+		"abr": "eatanddrinksign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumEatNDrinkSign"
+	},
+	{
+		"abr": "factoriogearflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumFactorioFlag"
+	},
+	{
+		"abr": "fearsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumFearSign"
+	},
+	{
+		"abr": "flammablewallsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumFlammableWallsSign"
+	},
+	{
+		"abr": "followsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumFollowSign"
+	},
+	{
+		"abr": "groundplaque",
+		"price": 458,
+		"category": "Misc",
+		"defname": "SignPlaque"
+	},
+	{
+		"abr": "growroomsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumGrowRmHorseSign"
+	},
+	{
+		"abr": "hangingsign",
+		"price": 20,
+		"category": "Misc",
+		"defname": "SignHanging"
+	},
+	{
+		"abr": "hangingsign",
+		"price": 17,
+		"category": "Misc",
+		"defname": "SignHangingIndustrial"
+	},
+	{
+		"abr": "hatflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumHHatFlag"
+	},
+	{
+		"abr": "hazardsign",
+		"price": 32,
+		"category": "Misc",
+		"defname": "SignHazard"
+	},
+	{
+		"abr": "highwaysign",
+		"price": 32,
+		"category": "Misc",
+		"defname": "SignHighway"
+	},
+	{
+		"abr": "holographicsign",
+		"price": 244,
+		"category": "Misc",
+		"defname": "SignHologram"
+	},
+	{
+		"abr": "honorapathysign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumHonorApathySign"
+	},
+	{
+		"abr": "housesign",
+		"price": 20,
+		"category": "Misc",
+		"defname": "SignHome"
+	},
+	{
+		"abr": "huntedtvad",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumHuntedSign"
+	},
+	{
+		"abr": "industrialsign",
+		"price": 32,
+		"category": "Misc",
+		"defname": "SignIndustrial"
+	},
+	{
+		"abr": "kingflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumRoyaltyAFlag"
+	},
+	{
+		"abr": "kitchenaroomsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumTheKitchenASign"
+	},
+	{
+		"abr": "kitchenbroomsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumTheKitchenBSign"
+	},
+	{
+		"abr": "lagohellsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumLagoHellSign"
+	},
+	{
+		"abr": "largewallsign",
+		"price": 127,
+		"category": "Misc",
+		"defname": "SignWallLargeLit"
+	},
+	{
+		"abr": "liveordiesign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumLOWONAASign"
+	},
+	{
+		"abr": "marryandreproducesign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumMarryNReproduceSign"
+	},
+	{
+		"abr": "mechanoidflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumMechFlag"
+	},
+	{
+		"abr": "medicalroomsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumWallMedHorseSign"
+	},
+	{
+		"abr": "medicalaroomsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumMedicalCenterASign"
+	},
+	{
+		"abr": "medicalbroomsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumMedicalCenterBSign"
+	},
+	{
+		"abr": "medicalcroomsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumRimSurgeryA"
+	},
+	{
+		"abr": "menusign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumMenuASign"
+	},
+	{
+		"abr": "menusign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumTheKitchenCSign"
+	},
+	{
+		"abr": "militaryflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumMilitaryFlag"
+	},
+	{
+		"abr": "muffaloflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumMuffaloFlag"
+	},
+	{
+		"abr": "mysterymeatflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumMMFlag"
+	},
+	{
+		"abr": "mysterymeatmondaysign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumMysteryMeatSign"
+	},
+	{
+		"abr": "nationalrimgraphicad1",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumNationalRimgraphicA"
+	},
+	{
+		"abr": "nationalrimgraphicad2",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumNationalRimgraphicB"
+	},
+	{
+		"abr": "naturesign",
+		"price": 72,
+		"category": "Misc",
+		"defname": "SignNature"
+	},
+	{
+		"abr": "neoncocktailsign",
+		"price": 63,
+		"category": "Misc",
+		"defname": "SignWallNeonCocktail"
+	},
+	{
+		"abr": "neonopensign",
+		"price": 63,
+		"category": "Misc",
+		"defname": "SignWallNeonOpen"
+	},
+	{
+		"abr": "noimaginationsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumNoImaginationSign"
+	},
+	{
+		"abr": "nothoughtsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumNoThoughtSign"
+	},
+	{
+		"abr": "obelisksign",
+		"price": 284,
+		"category": "Misc",
+		"defname": "SignObelisk"
+	},
+	{
+		"abr": "obeysign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumObeySign"
+	},
+	{
+		"abr": "officesign1",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumOffice1A"
+	},
+	{
+		"abr": "officesign2",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumOffice2A"
+	},
+	{
+		"abr": "officesign3",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumOffice3A"
+	},
+	{
+		"abr": "panelsign",
+		"price": 127,
+		"category": "Misc",
+		"defname": "SignPanel"
+	},
+	{
+		"abr": "pirateflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumJollyRogerFlag"
+	},
+	{
+		"abr": "radiationflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumRadiationFlag"
+	},
+	{
+		"abr": "recyclecolonistsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumRecycle"
+	},
+	{
+		"abr": "recyclecolonistsignb",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumRecycleB"
+	},
+	{
+		"abr": "recycleflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumRecycleBFlag"
+	},
+	{
+		"abr": "redradiationsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumRadA"
+	},
+	{
+		"abr": "restinpeacesign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumRipRoomASign"
+	},
+	{
+		"abr": "rimalmanacad1",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumRimAlmanacA"
+	},
+	{
+		"abr": "rimeatsfoodshow",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumRimEatsFoodShowSign"
+	},
+	{
+		"abr": "rimholidayad1",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumRimmasA"
+	},
+	{
+		"abr": "rimtalkad",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumRimTalkMainSign"
+	},
+	{
+		"abr": "rimtalkad1",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumRimTalkASign"
+	},
+	{
+		"abr": "rimbrellacorpflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumRimbrellaFlag"
+	},
+	{
+		"abr": "rimworldflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumRWFlag"
+	},
+	{
+		"abr": "roadledsign",
+		"price": 475,
+		"category": "Misc",
+		"defname": "SignRoadLED"
+	},
+	{
+		"abr": "roomsign",
+		"price": 33,
+		"category": "Misc",
+		"defname": "RoomSign"
+	},
+	{
+		"abr": "royaltyking",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumKingA"
+	},
+	{
+		"abr": "rusticarchsign",
+		"price": 261,
+		"category": "Misc",
+		"defname": "SignArchWoodRustic"
+	},
+	{
+		"abr": "simplesign",
+		"price": 33,
+		"category": "Misc",
+		"defname": "SimpleSign"
+	},
+	{
+		"abr": "slabsign",
+		"price": 235,
+		"category": "Misc",
+		"defname": "SignSlab"
+	},
+	{
+		"abr": "sleep8hourssign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumSleep8HoursSign"
+	},
+	{
+		"abr": "solyentgreensign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumSolyentGreenSign"
+	},
+	{
+		"abr": "spartanstuflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumSpartanStuFlag"
+	},
+	{
+		"abr": "stayasleepsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumStayAsleepSign"
+	},
+	{
+		"abr": "storytimead1",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumRimStorytellerA"
+	},
+	{
+		"abr": "storytimead2",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumRimStorytellerB"
+	},
+	{
+		"abr": "storytimead3",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumRimStorytellerC"
+	},
+	{
+		"abr": "streamerflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumStuFlag"
+	},
+	{
+		"abr": "submissionordeathsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumSODSign"
+	},
+	{
+		"abr": "submitsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumSubmitSign"
+	},
+	{
+		"abr": "surrendersign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumSurrenderSign"
+	},
+	{
+		"abr": "tailorsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumTailorASign"
+	},
+	{
+		"abr": "thisoldcolonyad1",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumThisOldColony"
+	},
+	{
+		"abr": "thrumboflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumThrumboFlag"
+	},
+	{
+		"abr": "tribalflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumPrimitiveFlag"
+	},
+	{
+		"abr": "wallsign",
+		"price": 20,
+		"category": "Misc",
+		"defname": "SignWallBasic"
+	},
+	{
+		"abr": "wallsign",
+		"price": 32,
+		"category": "Misc",
+		"defname": "SignWallLED"
+	},
+	{
+		"abr": "warcrimesflag",
+		"price": 50,
+		"category": "Flags",
+		"defname": "EquiumWarCrimesFlag"
+	},
+	{
+		"abr": "warcrimeswednesdaysign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumWCWSign"
+	},
+	{
+		"abr": "warroomsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumWarCrimesRoomSign"
+	},
+	{
+		"abr": "watchtvsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumWatchTVSign"
+	},
+	{
+		"abr": "weaponsroomwallsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumWeaponsRmSign"
+	},
+	{
+		"abr": "wetfloorsign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "SignWetFloor"
+	},
+	{
+		"abr": "woodenarchsign",
+		"price": 201,
+		"category": "Misc",
+		"defname": "SignArchWood"
+	},
+	{
+		"abr": "woodenpanelsign",
+		"price": 140,
+		"category": "Misc",
+		"defname": "SignPanelWood"
+	},
+	{
+		"abr": "woodensigns",
+		"price": 40,
+		"category": "Misc",
+		"defname": "SignWoodenMulti"
+	},
+	{
+		"abr": "yellowradiationsign",
+		"price": 8,
+		"category": "Art",
+		"defname": "EquiumRadB"
+	}
 	],
-	"total": 1131
+	"total": 1061
 }

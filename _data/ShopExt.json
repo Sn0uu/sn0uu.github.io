@@ -3401,7 +3401,7 @@
       },
       "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
       "defName": "Alien_Nyaron",
-      "enabled": true,
+      "enabled": false,
       "name": "Nyaron",
       "price": 3333
     }
