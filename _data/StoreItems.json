@@ -38,7 +38,7 @@
 	},
 	{
 		"abr": "flake",
-		"price": 36,
+		"price": 23,
 		"category": "Drugs",
 		"defname": "Flake"
 	},
@@ -782,7 +782,7 @@
 	},
 	{
 		"abr": "milk",
-		"price": -10,
+		"price": 30,
 		"category": "Animal products",
 		"defname": "Milk"
 	},
@@ -1070,13 +1070,13 @@
 	},
 	{
 		"abr": "devilstrand",
-		"price": 90,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "DevilstrandCloth"
 	},
 	{
 		"abr": "hyperweave",
-		"price": 150,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "Hyperweave"
 	},
@@ -4430,13 +4430,13 @@
 	},
 	{
 		"abr": "fairydragonleather",
-		"price": 170,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_WoWFairyDragon"
 	},
 	{
 		"abr": "fairydragonmeat",
-		"price": 30,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_WoW_Animal_FairyDragon"
 	},
@@ -5444,73 +5444,73 @@
 	},
 	{
 		"abr": "walllight(azure)",
-		"price": -10,
+		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightAzure"
 	},
 	{
 		"abr": "walllight(blue)",
-		"price": -10,
+		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightBlue"
 	},
 	{
 		"abr": "walllight(chartreuse)",
-		"price": -10,
+		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightChartreuse"
 	},
 	{
 		"abr": "walllight(cyan)",
-		"price": -10,
+		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightCyan"
 	},
 	{
 		"abr": "walllight(green)",
-		"price": -10,
+		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightGreen"
 	},
 	{
 		"abr": "walllight(magenta)",
-		"price": -10,
+		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightMagenta"
 	},
 	{
 		"abr": "walllight(orange)",
-		"price": -10,
+		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightOrange"
 	},
 	{
 		"abr": "walllight(red)",
-		"price": -10,
+		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightRed"
 	},
 	{
 		"abr": "walllight(rose)",
-		"price": -10,
+		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightRose"
 	},
 	{
 		"abr": "walllight(springgreen)",
-		"price": -10,
+		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightSpringGreen"
 	},
 	{
 		"abr": "walllight(violet)",
-		"price": -10,
+		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightViolet"
 	},
 	{
 		"abr": "walllight(yellow)",
-		"price": -10,
+		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightYellow"
 	},
@@ -5600,679 +5600,679 @@
 	},
 	{
 		"abr": "aquilablackflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumAquilaBlackFlag"
 	},
 	{
 		"abr": "arrowsign",
-		"price": 20,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignArrow_Wood"
 	},
 	{
 		"abr": "astherimturnsad",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumAsTheRimTurnsSign"
 	},
 	{
 		"abr": "bigbrotherflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumBigBroFlag"
 	},
 	{
 		"abr": "bigbrothersign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumsBigBrother256Sign"
 	},
 	{
 		"abr": "billboard",
-		"price": 475,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignBillboard"
 	},
 	{
 		"abr": "biohazardflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumBiohazardFlag"
 	},
 	{
 		"abr": "boomalopeflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumBoomalopeFlag"
 	},
 	{
 		"abr": "buysign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumBuySign"
 	},
 	{
 		"abr": "cairn",
-		"price": 50,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignCairn"
 	},
 	{
 		"abr": "cannibalmaga",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumCannibalLifeA"
 	},
 	{
 		"abr": "cannibalmagb",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumCannibalLifeB"
 	},
 	{
 		"abr": "cannibalmagc",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumCannibalLifeC"
 	},
 	{
 		"abr": "cannibalmagd",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumCannibalLifeD"
 	},
 	{
 		"abr": "cellblock13sign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumCellBlock13ASign"
 	},
 	{
 		"abr": "cellblock13sign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumCellBlock13BSign"
 	},
 	{
 		"abr": "cellblock13sign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumNoEscapeSign"
 	},
 	{
 		"abr": "chemfuelwarningsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumWallChemfuelSign"
 	},
 	{
 		"abr": "colonycomplaint",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumComplaint"
 	},
 	{
 		"abr": "colonydisclaimer",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumDisclaimer"
 	},
 	{
 		"abr": "conformsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumConformSign"
 	},
 	{
 		"abr": "consumesign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumConsumeSign"
 	},
 	{
 		"abr": "corpsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumCorp"
 	},
 	{
 		"abr": "crownaflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumRoyaltyBFlag"
 	},
 	{
 		"abr": "dayofmechsad",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumDayOfMechs"
 	},
 	{
 		"abr": "daysofwarcrimessign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumWCDaysSign"
 	},
 	{
 		"abr": "despairsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumDespairSign"
 	},
 	{
 		"abr": "donotquestionauthoritysign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumDNQASign"
 	},
 	{
 		"abr": "donotspeaksign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumDoNotSpeakSign"
 	},
 	{
 		"abr": "doyourjobflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumDoYourJobFlag"
 	},
 	{
 		"abr": "doyourjobsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumDoYourJob"
 	},
 	{
 		"abr": "doubthumanitysign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumDoubtHumanitySign"
 	},
 	{
 		"abr": "eatanddrinksign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumEatNDrinkSign"
 	},
 	{
 		"abr": "factoriogearflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumFactorioFlag"
 	},
 	{
 		"abr": "fearsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumFearSign"
 	},
 	{
 		"abr": "flammablewallsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumFlammableWallsSign"
 	},
 	{
 		"abr": "followsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumFollowSign"
 	},
 	{
 		"abr": "groundplaque",
-		"price": 458,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignPlaque"
 	},
 	{
 		"abr": "growroomsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumGrowRmHorseSign"
 	},
 	{
 		"abr": "hangingsign",
-		"price": 20,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignHanging"
 	},
 	{
 		"abr": "hangingsign",
-		"price": 17,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignHangingIndustrial"
 	},
 	{
 		"abr": "hatflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumHHatFlag"
 	},
 	{
 		"abr": "hazardsign",
-		"price": 32,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignHazard"
 	},
 	{
 		"abr": "highwaysign",
-		"price": 32,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignHighway"
 	},
 	{
 		"abr": "holographicsign",
-		"price": 244,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignHologram"
 	},
 	{
 		"abr": "honorapathysign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumHonorApathySign"
 	},
 	{
 		"abr": "housesign",
-		"price": 20,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignHome"
 	},
 	{
 		"abr": "huntedtvad",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumHuntedSign"
 	},
 	{
 		"abr": "industrialsign",
-		"price": 32,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignIndustrial"
 	},
 	{
 		"abr": "kingflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumRoyaltyAFlag"
 	},
 	{
 		"abr": "kitchenaroomsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumTheKitchenASign"
 	},
 	{
 		"abr": "kitchenbroomsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumTheKitchenBSign"
 	},
 	{
 		"abr": "lagohellsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumLagoHellSign"
 	},
 	{
 		"abr": "largewallsign",
-		"price": 127,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignWallLargeLit"
 	},
 	{
 		"abr": "liveordiesign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumLOWONAASign"
 	},
 	{
 		"abr": "marryandreproducesign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumMarryNReproduceSign"
 	},
 	{
 		"abr": "mechanoidflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumMechFlag"
 	},
 	{
 		"abr": "medicalroomsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumWallMedHorseSign"
 	},
 	{
 		"abr": "medicalaroomsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumMedicalCenterASign"
 	},
 	{
 		"abr": "medicalbroomsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumMedicalCenterBSign"
 	},
 	{
 		"abr": "medicalcroomsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumRimSurgeryA"
 	},
 	{
 		"abr": "menusign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumMenuASign"
 	},
 	{
 		"abr": "menusign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumTheKitchenCSign"
 	},
 	{
 		"abr": "militaryflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumMilitaryFlag"
 	},
 	{
 		"abr": "muffaloflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumMuffaloFlag"
 	},
 	{
 		"abr": "mysterymeatflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumMMFlag"
 	},
 	{
 		"abr": "mysterymeatmondaysign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumMysteryMeatSign"
 	},
 	{
 		"abr": "nationalrimgraphicad1",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumNationalRimgraphicA"
 	},
 	{
 		"abr": "nationalrimgraphicad2",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumNationalRimgraphicB"
 	},
 	{
 		"abr": "naturesign",
-		"price": 72,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignNature"
 	},
 	{
 		"abr": "neoncocktailsign",
-		"price": 63,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignWallNeonCocktail"
 	},
 	{
 		"abr": "neonopensign",
-		"price": 63,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignWallNeonOpen"
 	},
 	{
 		"abr": "noimaginationsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumNoImaginationSign"
 	},
 	{
 		"abr": "nothoughtsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumNoThoughtSign"
 	},
 	{
 		"abr": "obelisksign",
-		"price": 284,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignObelisk"
 	},
 	{
 		"abr": "obeysign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumObeySign"
 	},
 	{
 		"abr": "officesign1",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumOffice1A"
 	},
 	{
 		"abr": "officesign2",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumOffice2A"
 	},
 	{
 		"abr": "officesign3",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumOffice3A"
 	},
 	{
 		"abr": "panelsign",
-		"price": 127,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignPanel"
 	},
 	{
 		"abr": "pirateflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumJollyRogerFlag"
 	},
 	{
 		"abr": "radiationflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumRadiationFlag"
 	},
 	{
 		"abr": "recyclecolonistsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumRecycle"
 	},
 	{
 		"abr": "recyclecolonistsignb",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumRecycleB"
 	},
 	{
 		"abr": "recycleflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumRecycleBFlag"
 	},
 	{
 		"abr": "redradiationsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumRadA"
 	},
 	{
 		"abr": "restinpeacesign",
-		"price": 8,
+		"price": 80,
 		"category": "Art",
 		"defname": "EquiumRipRoomASign"
 	},
 	{
 		"abr": "rimalmanacad1",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumRimAlmanacA"
 	},
 	{
 		"abr": "rimeatsfoodshow",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumRimEatsFoodShowSign"
 	},
 	{
 		"abr": "rimholidayad1",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumRimmasA"
 	},
 	{
 		"abr": "rimtalkad",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumRimTalkMainSign"
 	},
 	{
 		"abr": "rimtalkad1",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumRimTalkASign"
 	},
 	{
 		"abr": "rimbrellacorpflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumRimbrellaFlag"
 	},
 	{
 		"abr": "rimworldflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumRWFlag"
 	},
 	{
 		"abr": "roadledsign",
-		"price": 475,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignRoadLED"
 	},
 	{
 		"abr": "roomsign",
-		"price": 33,
+		"price": -10,
 		"category": "Misc",
 		"defname": "RoomSign"
 	},
 	{
 		"abr": "royaltyking",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumKingA"
 	},
 	{
 		"abr": "rusticarchsign",
-		"price": 261,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignArchWoodRustic"
 	},
 	{
 		"abr": "simplesign",
-		"price": 33,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SimpleSign"
 	},
 	{
 		"abr": "slabsign",
-		"price": 235,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignSlab"
 	},
 	{
 		"abr": "sleep8hourssign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumSleep8HoursSign"
 	},
 	{
 		"abr": "solyentgreensign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumSolyentGreenSign"
 	},
 	{
 		"abr": "spartanstuflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumSpartanStuFlag"
 	},
 	{
 		"abr": "stayasleepsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumStayAsleepSign"
 	},
 	{
 		"abr": "storytimead1",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumRimStorytellerA"
 	},
 	{
 		"abr": "storytimead2",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumRimStorytellerB"
 	},
 	{
 		"abr": "storytimead3",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumRimStorytellerC"
 	},
 	{
 		"abr": "streamerflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumStuFlag"
 	},
 	{
 		"abr": "submissionordeathsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumSODSign"
 	},
 	{
 		"abr": "submitsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumSubmitSign"
 	},
 	{
 		"abr": "surrendersign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumSurrenderSign"
 	},
 	{
 		"abr": "tailorsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumTailorASign"
 	},
 	{
 		"abr": "thisoldcolonyad1",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumThisOldColony"
 	},
@@ -6284,81 +6284,87 @@
 	},
 	{
 		"abr": "tribalflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumPrimitiveFlag"
 	},
 	{
 		"abr": "wallsign",
-		"price": 20,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignWallBasic"
 	},
 	{
 		"abr": "wallsign",
-		"price": 32,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignWallLED"
 	},
 	{
 		"abr": "warcrimesflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumWarCrimesFlag"
 	},
 	{
 		"abr": "warcrimeswednesdaysign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumWCWSign"
 	},
 	{
 		"abr": "warroomsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumWarCrimesRoomSign"
 	},
 	{
 		"abr": "watchtvsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumWatchTVSign"
 	},
 	{
 		"abr": "weaponsroomwallsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumWeaponsRmSign"
 	},
 	{
 		"abr": "wetfloorsign",
-		"price": 16,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignWetFloor"
 	},
 	{
 		"abr": "woodenarchsign",
-		"price": 201,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignArchWood"
 	},
 	{
 		"abr": "woodenpanelsign",
-		"price": 140,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignPanelWood"
 	},
 	{
 		"abr": "woodensigns",
-		"price": 40,
+		"price": -10,
 		"category": "Misc",
 		"defname": "SignWoodenMulti"
 	},
 	{
 		"abr": "yellowradiationsign",
-		"price": 8,
+		"price": -10,
 		"category": "Art",
 		"defname": "EquiumRadB"
+	},
+	{
+		"abr": "zombietvad",
+		"price": -10,
+		"category": "Art",
+		"defname": "EquiumRimZombieSign"
 	}
 	],
 	"total": 1061
