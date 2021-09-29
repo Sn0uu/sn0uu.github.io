@@ -101,7 +101,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "tradercaravan",
+		"abr": "trade",
 		"price": 275,
 		"karmatype": "Good"
 	},
@@ -306,8 +306,13 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "reviveall",
+		"price": 22,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "healall",
-		"price": 55000,
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
@@ -317,7 +322,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2000,
+		"price": 750,
 		"karmatype": "Good"
 	},
 	{
@@ -401,5 +406,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 80
+	"total": 81
 }

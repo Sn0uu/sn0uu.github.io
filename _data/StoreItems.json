@@ -1016,7 +1016,7 @@
 	},
 	{
 		"abr": "silver",
-		"price": 10,
+		"price": 50,
 		"category": "Raw resources",
 		"defname": "Silver"
 	},
@@ -5594,7 +5594,7 @@
 	},
 	{
 		"abr": "adaptusmecanicsflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumAdaptusMecanicsFlag"
 	},
@@ -6278,7 +6278,7 @@
 	},
 	{
 		"abr": "thrumboflag",
-		"price": 50,
+		"price": -10,
 		"category": "Flags",
 		"defname": "EquiumThrumboFlag"
 	},
