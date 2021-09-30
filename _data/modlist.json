@@ -630,6 +630,12 @@
     "version": "1.1.4"
   },
   {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.0"
+  },
+  {
     "author": "Smash Phil",
     "name": "Trade Ships Drop Spot",
     "steamId": null,
@@ -652,6 +658,12 @@
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Fisi",
+    "name": "Underground Wires",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hauvega",
@@ -790,5 +802,11 @@
     "name": "[Ry]Rimcraft Tribal Patch",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Ghost_Rolly",
+    "name": "Rim73 - Performance and Optimisations",
+    "steamId": "2573814850",
+    "version": "1.0.0.0"
   }
 ]
