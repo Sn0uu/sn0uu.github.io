@@ -112,8 +112,8 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
-		"karmatype": "Neutral"
+		"price": 225,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "madanimal",
@@ -307,7 +307,12 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22,
+		"price": 5500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 1111,
 		"karmatype": "Good"
 	},
 	{
@@ -406,5 +411,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 81
+	"total": 82
 }
