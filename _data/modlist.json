@@ -135,7 +135,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3117.2"
+    "version": "1.3.3136.1"
   },
   {
     "author": "Andreas Pardeike",
@@ -156,6 +156,12 @@
     "version": "1.3.842.0"
   },
   {
+    "author": "5katz",
+    "name": "Chatting on Comms",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Hatti",
     "name": "CleaningArea",
     "steamId": null,
@@ -165,13 +171,19 @@
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
-    "version": "2.9.2097"
+    "version": "2.7.7366"
   },
   {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
     "version": "1.1.32"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mehni",
@@ -182,6 +194,12 @@
   {
     "author": "tikubonn",
     "name": "DontBlockDoor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
     "steamId": null,
     "version": null
   },
@@ -201,7 +219,7 @@
     "author": "Dubwise",
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
-    "version": "1.3.767"
+    "version": "1.2.7365"
   },
   {
     "author": "Hauvega",
@@ -666,6 +684,60 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and  Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.3.7862.41411"
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Argón",
+    "name": "VCE - Carnivore/Vegetarian Meals Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Ice Sheet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Helixien,  Erin,  Luizi,  ISOREX and  erdelf",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "PlayIgel,  Alastair,  Kayedon,  SalmonToastie and  Xrushha",
+    "name": "VFME - Caravan Packs!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Non-Lethal",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Hauvega",
     "name": "Wall Torches Expanded",
     "steamId": null,
@@ -732,12 +804,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -748,6 +814,24 @@
     "name": "[FSF] Filth Vanishes With Rain And Time",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Consolidated Traits",
+    "steamId": "1507384362",
+    "version": "1.0.7865.41688"
+  },
+  {
+    "author": "Oskar Potocki,  Taranchuk and  Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] More Trait Slots",
+    "steamId": "1508292711",
+    "version": "1.0.7862.37403"
   },
   {
     "author": "Kiame Vivacity",
@@ -802,11 +886,5 @@
     "name": "[Ry]Rimcraft Tribal Patch",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Ghost_Rolly",
-    "name": "Rim73 - Performance and Optimisations",
-    "steamId": "2573814850",
-    "version": "1.0.0.0"
   }
 ]
