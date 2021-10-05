@@ -168,6 +168,12 @@
     "version": null
   },
   {
+    "author": "jastro",
+    "name": "Combat Training - Forked (Lite)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
@@ -352,12 +358,6 @@
     "name": "MendAndRecycle",
     "steamId": "735241897",
     "version": "1.0.1.0"
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Training",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Giant Space Hamster",
@@ -796,6 +796,12 @@
     "name": "Colony Manager",
     "steamId": "715565262",
     "version": "4.33.649"
+  },
+  {
+    "author": "Ykara (Updated for 1.1 by Ogliss)",
+    "name": "Harvest Everything!",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Smuffle",
