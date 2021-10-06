@@ -6090,7 +6090,7 @@
       },
       "description": "The undead Forsaken or simply the Forsaken and Undead are a race and a faction of intelligent undead who broke away from the Scourge and took control of much of the kingdom of Lordaeron, destroyed during the Third War by the death knight Arthas. While comprised vastly of undead humans, the Forsaken are a diverse faction that include several different races at their biological core. However, they have all assumed their racial identity as \"Forsaken,\" due to their shared goals and loyalties.",
       "defName": "WoW_Forsaken",
-      "enabled": false,
+      "enabled": true,
       "name": "forsaken",
       "price": 3333
     },
@@ -6136,7 +6136,7 @@
       },
       "description": "The Night Elves are a powerful and mystical race whose origins extend back to ancient times. These then-immortal beings were among the first to study magic and let it loose throughout the world nearly ten thousand years before the First War on Azeroth. The far-reaching and ancient legacy of the night elves shaped them into a race of very self-sufficient and self-conscious individuals, who often display strong streaks of isolationism.",
       "defName": "WoW_ForsakenNightElf",
-      "enabled": false,
+      "enabled": true,
       "name": "forsakennightelf",
       "price": 5000
     },
@@ -6181,7 +6181,7 @@
       },
       "description": "The Blood Elves or Sin'dorei in Thalassian (\"children of the blood\"), are a race composed of former high elves who renamed themselves in honor of their people who were killed during the siege of Quel'Thalas by the Scourge during the Third War.",
       "defName": "WoW_ForsakenHighElf",
-      "enabled": false,
+      "enabled": true,
       "name": "forsakenhighelf",
       "price": 5000
     },
