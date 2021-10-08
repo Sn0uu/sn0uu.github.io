@@ -528,9 +528,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -547,7 +547,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1,
-      "removePrice": 500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -558,9 +558,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -577,7 +577,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1,
-      "removePrice": 500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -588,9 +588,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -607,7 +607,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1,
-      "removePrice": 500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1240,9 +1240,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1357,9 +1357,9 @@
         "blitz",
         "rooted"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -6605,7 +6605,7 @@
       },
       "description": "Skeleton of the Scourge",
       "defName": "WoW_Skeleton",
-      "enabled": true,
+      "enabled": false,
       "name": "skeleton",
       "price": 1667
     },

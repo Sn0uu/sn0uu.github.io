@@ -6990,6 +6990,18 @@
 		"category": "Natural",
 		"defname": "Spine"
 	},
+	{
+		"abr": "curtain(tribal)(1x1)",
+		"price": 88,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribal"
+	},
+	{
+		"abr": "curtain(tribal)(2x1)",
+		"price": 177,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribalDouble"
+	},
 	],
-	"total": 1166
+	"total": 1169
 }
