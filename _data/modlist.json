@@ -228,6 +228,12 @@
     "version": null
   },
   {
+    "author": "Eagle0600",
+    "name": "Dress Patients",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -424,6 +430,12 @@
     "name": "No Lazy Doctors",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.1.0.0"
   },
   {
     "author": "Farmradish",
@@ -670,6 +682,12 @@
     "name": "Statue of Colonist",
     "steamId": "1539031321",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Antaios",
+    "name": "Table Diner",
+    "steamId": "1430086135",
+    "version": "1.37"
   },
   {
     "author": "Captain Muscles (Nathan Harbour)",
