@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -5976,6 +5976,42 @@
     {
       "data": {
         "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4 Honor value",
+          "+75 Carrying capacity",
+          "+100% Global learning factor",
+          "+80% Psychic sensitivity",
+          "+80% Rest rate multiplier",
+          "+80% Global work speed",
+          "+0 Foraged food amount",
+          "+100.00% Negotiation ability",
+          "+100.00% Social impact",
+          "+100.00% Trade price improvement",
+          "+40 Leather amount",
+          "+78% Pain shock threshold",
+          "+30% Mental break threshold",
+          "+18.0C [32.4F] Minimum comfortable temperature",
+          "+30.0C [54.0F] Maximum comfortable temperature",
+          "+5.00 Move speed",
+          "+95% Aiming time",
+          "+10.0 Melee dodge chance",
+          "+1.2 Melee hit chance"
+        ],
+        "mod": "Nyaron race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
+      "defName": "Alien_Nyaron",
+      "enabled": true,
+      "name": "Nyaron",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
           "+60.00 Mass",
           "+70% Flammability",
           "+120% Recreation power",
@@ -5997,7 +6033,7 @@
       "description": "The Blood Elves or Sin'dorei in Thalassian (\"children of the blood\"), are a race composed of former high elves who renamed themselves in honor of their people who were killed during the siege of Quel'Thalas by the Scourge during the Third War.",
       "defName": "WoW_BloodElf",
       "enabled": true,
-      "name": "bloodelf",
+      "name": "blood elf",
       "price": 5000
     },
     {
@@ -6027,7 +6063,7 @@
       "description": "The draenei (meaning Exiled Ones in their own tongue) are a faction of uncorrupted eredar who fled their homeworld of Argus to escape the corruption of the demonic Burning Legion.",
       "defName": "WoW_Draenei",
       "enabled": true,
-      "name": "draenei",
+      "name": "Draenei",
       "price": 5833
     },
     {
@@ -6052,7 +6088,7 @@
       "description": "Dwarves are an ancient bold and courageous race descended from the earthen. Dwarves are short and stout creatures. They are shorter than humans but taller than gnomes, taking advantage of their size when possible and relying on their robustness and strength when not. The average dwarf is steady, observant and composed both during work and combat, yet able to rage with fierce zeal and persistence when the situation calls for it. While a dwarf prefers to plan forward to overcome challenges, many of them easily lose their temperament and self-restraint when exposed to conditions stirring their feelings and concerns.",
       "defName": "WoW_Dwarf",
       "enabled": true,
-      "name": "dwarf",
+      "name": "Dwarf",
       "price": 4167
     },
     {
@@ -6137,7 +6173,7 @@
       "description": "The Night Elves are a powerful and mystical race whose origins extend back to ancient times. These then-immortal beings were among the first to study magic and let it loose throughout the world nearly ten thousand years before the First War on Azeroth. The far-reaching and ancient legacy of the night elves shaped them into a race of very self-sufficient and self-conscious individuals, who often display strong streaks of isolationism.",
       "defName": "WoW_ForsakenNightElf",
       "enabled": true,
-      "name": "forsakennightelf",
+      "name": "Forsaken Night Elf",
       "price": 5000
     },
     {
@@ -6182,7 +6218,7 @@
       "description": "The Blood Elves or Sin'dorei in Thalassian (\"children of the blood\"), are a race composed of former high elves who renamed themselves in honor of their people who were killed during the siege of Quel'Thalas by the Scourge during the Third War.",
       "defName": "WoW_ForsakenHighElf",
       "enabled": true,
-      "name": "forsakenhighelf",
+      "name": "Forsaken High Elf",
       "price": 5000
     },
     {
@@ -6214,7 +6250,7 @@
       "description": "The gnomes (collectively referred to as gnomanity or gnomekind) are a race of diminutive and highly intelligent humanoids, known for their mastery of technology. They were originally descended from mechagnomes, metallic titan-forged, who were afflicted with the Curse of Flesh. Gnomes are a race of ambitious folk that celebrate creativity and craft and whose lives are validated by a masterful command of the scientific laws of the universe. This outlook on life makes them feel that to be pitied is unbearable, even insulting, though they know their allies do not do this intentionally. They have been more of a race of scholars throughout their history, generally focused on escaping and avoiding conflict, being also known to offset their lack of physical strength with ingenuity and daring.",
       "defName": "WoW_Gnome",
       "enabled": true,
-      "name": "gnome",
+      "name": "Gnome",
       "price": 4167
     },
     {
@@ -6248,7 +6284,7 @@
       "description": "The goblins (collectively known as goblinhood) are small green humanoids from the Isle of Kezan. Their love of money, explosives, and technology leaves them to be a very dangerous race, both to their enemies and themselves. Most goblins have a neutral standpoint, preferring to sell their contraptions, knowledge and services to other races. Goblins are slight and wiry, averaging 4 feet in height.[21][22][23] They have three fingers and one thumb on one hand and four toes on one foot. Their noses grow larger as they age.",
       "defName": "WoW_Goblin",
       "enabled": true,
-      "name": "goblin",
+      "name": "Goblin",
       "price": 4167
     },
     {
@@ -6272,7 +6308,7 @@
       "description": "The High Elves, or Quel'dorei (\"children of noble birth\"), are a race descended from the Highborne night elves who left Kalimdor and settled in the Eastern Kingdoms, founding Quel'Thalas. The high elves were once a significant force on the continent, but in recent times their numbers have been dramatically reduced: almost 90% of their population in Quel'Thalas was slaughtered during the Third War.",
       "defName": "WoW_HighElf",
       "enabled": true,
-      "name": "highelf",
+      "name": "high elf",
       "price": 5000
     },
     {
@@ -6346,7 +6382,7 @@
       "description": "Humans (collectively referred to as mankind or humanity) are a resilient species native to the world of Azeroth. Recent discoveries have shown that humans are descended from the barbaric half-giant vrykul of Northrend. Though humans are among the younger races on Azeroth, they have faced many challenges with fortitude and resilience. Their continued ability to adapt and rebuild has made them a vital force in an ever-changing world.",
       "defName": "WoW_Human",
       "enabled": true,
-      "name": "azerothianhuman",
+      "name": "azerothian human",
       "price": 3333
     },
     {
@@ -6376,7 +6412,7 @@
       "description": "The Night Elves are a powerful and mystical race whose origins extend back to ancient times. These then-immortal beings were among the first to study magic and let it loose throughout the world nearly ten thousand years before the First War on Azeroth. The far-reaching and ancient legacy of the night elves shaped them into a race of very self-sufficient and self-conscious individuals, who often display strong streaks of isolationism.",
       "defName": "WoW_NightElf",
       "enabled": true,
-      "name": "nightelf",
+      "name": "night elf",
       "price": 5000
     },
     {
@@ -6414,7 +6450,7 @@
       "description": "The orcs are a race native to the world of Draenor, now known as Outland, they arrived to Azeroth through the Dark Portal a massive structure that allowed orcs passage from their world.",
       "defName": "WoW_Orc",
       "enabled": true,
-      "name": "orc",
+      "name": "Orc",
       "price": 5000
     },
     {
@@ -6448,7 +6484,7 @@
       "description": "The tauren (shu'halo in their native language of Taur-ahe) are a race of large, bovine humanoids who dwell on the great plains of Central Kalimdor. For countless generations, they were constantly harassed by the violent centaur, who forced the tauren into a nomadic lifestyle in the harsh Barrens. Despite their enormous size, the tauren are a peaceful and honorable people who nonetheless are fierce fighters when roused. Hunting and shamanism are held in high regard in their culture, as is their worship of the Earth Mother and respect for the land and nature.",
       "defName": "WoW_Tauren",
       "enabled": true,
-      "name": "tauren",
+      "name": "Tauren",
       "price": 5000
     },
     {
@@ -6483,7 +6519,7 @@
       "description": "Trolls (collectively referred to as trollkind) are a diverse sapient race that can be found in every part of Azeroth. They are one of the earliest known native races of Azeroth. Trolls are a species where multiple subspecies exist, these subspecies vary from being tall, lanky and muscular, with each subspecies being different than the others both physically and culturally. They have both elven and orc-like characteristics with their fierce tusks and long ears. Their long arms, strong legs, quick reflexes as well as their incredible agility and strength make them adept hunters.",
       "defName": "WoW_Troll",
       "enabled": true,
-      "name": "troll",
+      "name": "Troll",
       "price": 5000
     },
     {
@@ -6532,7 +6568,7 @@
       "description": "The worgen are a race of feral wolf-beasts whose very name inspires fear. They are large, lupine humanoids that walk upright, but lope on all fours to run. Being bitten by or drinking the blood of a worgen causes humans and night elves to be transformed into one. After the transformation, those that are overcome by rage and guilt gradually lose all vestiges of their former lives and turn mindless. By controlling their emotions via medication, magic, and self-discipline, worgen may resist being overcome by their feral instincts.",
       "defName": "WoW_Worgen",
       "enabled": true,
-      "name": "worgen",
+      "name": "Worgen",
       "price": 5000
     },
     {
@@ -6630,7 +6666,7 @@
       "description": "Void elves (or ren'dorei, \"children of the Void\" in Thalassian) are a race of Void-infused elves affiliated with the Alliance. Their origins lie with a group of blood elves led by Magister Umbric who were exiled from Silvermoon City because of their research into the Void. They were transformed by void ethereals but rescued by Alleria Windrunner, who had gained mastery of the Void herself on Argus. Permanently transformed by the process, they pledged their loyalty to her and the Alliance and established themselves as the ren'dorei. The void elves seek to utilize their great but dangerous powers for the sake of defending Azeroth and the Alliance, and to prove those who doubt or judge their abilities wrong, all the while resisting the Void's call to madness.",
       "defName": "WoW_VoidElf",
       "enabled": true,
-      "name": "voidelf",
+      "name": "void elf",
       "price": 5000
     },
     {
@@ -6670,7 +6706,7 @@
       "description": "The Mag'har orcs (\"uncorrupted\" in Orcish), also known as \"brown orcs\", are the orcs that escaped the corruption of the Burning Legion. On Draenor, they were a result of isolation from the Horde due to being quarantined in Garadar. They have a noble shamanistic tradition cultivating a mighty tribal society that was centered around survival, regulating themselves through ritualized combat and personal honor.",
       "defName": "WoW_MagharOrc",
       "enabled": true,
-      "name": "mag'harorc",
+      "name": "Mag'har Orc",
       "price": 5000
     },
     {
@@ -6704,42 +6740,6 @@
       "enabled": true,
       "name": "nightborne",
       "price": 5000
-    },
-    {
-      "data": {
-        "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+$2000 Market value",
-          "+4 Honor value",
-          "+75 Carrying capacity",
-          "+100% Global learning factor",
-          "+80% Psychic sensitivity",
-          "+80% Rest rate multiplier",
-          "+80% Global work speed",
-          "+0 Foraged food amount",
-          "+100.00% Negotiation ability",
-          "+100.00% Social impact",
-          "+100.00% Trade price improvement",
-          "+40 Leather amount",
-          "+78% Pain shock threshold",
-          "+30% Mental break threshold",
-          "+18.0C [32.4F] Minimum comfortable temperature",
-          "+30.0C [54.0F] Maximum comfortable temperature",
-          "+5.00 Move speed",
-          "+95% Aiming time",
-          "+10.0 Melee dodge chance",
-          "+1.2 Melee hit chance"
-        ],
-        "mod": "Nyaron race",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
-      "defName": "Alien_Nyaron",
-      "enabled": true,
-      "name": "nyaron",
-      "price": 3333
     }
   ]
 }

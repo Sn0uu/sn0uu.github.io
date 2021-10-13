@@ -243,7 +243,7 @@
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
-    "version": "1.3.916"
+    "version": "1.0.0"
   },
   {
     "author": "Dubwise",
@@ -330,10 +330,22 @@
     "version": "1.8.0.0"
   },
   {
+    "author": "dhultgren",
+    "name": "Keep Bed Ownership",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Falconne",
     "name": "Labels on Floor",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "krafs",
+    "name": "Level Up!",
+    "steamId": "1701592470",
+    "version": "1.0.0"
   },
   {
     "author": "Murmur",
@@ -374,6 +386,12 @@
   {
     "author": "Udon",
     "name": "Mass Lovin'",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "cucumpear",
+    "name": "Matching Embrasures",
     "steamId": null,
     "version": null
   },
@@ -420,8 +438,8 @@
     "version": "1.0.3.0"
   },
   {
-    "author": "Doug",
-    "name": "No Job Authors",
+    "author": "Papymaj5",
+    "name": "No Debris",
     "steamId": null,
     "version": null
   },
@@ -448,12 +466,6 @@
     "name": "OgreStack",
     "steamId": "1447140290",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Densevoid",
-    "name": "One bed to sleep with all",
-    "steamId": "2572109781",
-    "version": "0.9.10"
   },
   {
     "author": "Peppsen",
@@ -570,6 +582,12 @@
     "version": "1.0.379.0018"
   },
   {
+    "author": "Fluffy",
+    "name": "Relations Tab",
+    "steamId": "709317151",
+    "version": "2.6.72"
+  },
+  {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
@@ -642,6 +660,12 @@
     "version": null
   },
   {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "legodude17",
     "name": "Smarter Deconstruction and Mining",
     "steamId": "2398365712",
@@ -684,10 +708,28 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Scurvyez",
+    "name": "StevesWalls",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Udon",
+    "name": "Super Size Bed!",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Antaios",
     "name": "Table Diner",
     "steamId": "1430086135",
     "version": "1.37"
+  },
+  {
+    "author": "GHXX",
+    "name": "Tech Advancing",
+    "steamId": "735268789",
+    "version": "1.0.0.0"
   },
   {
     "author": "Captain Muscles (Nathan Harbour)",
@@ -855,6 +897,12 @@
     "author": "YAYO",
     "name": "Yayo's Caravan",
     "steamId": "2574818016",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Rim 3D (Beta)",
+    "steamId": "2580818414",
     "version": "1.0.0.0"
   },
   {

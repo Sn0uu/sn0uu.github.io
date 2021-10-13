@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 2001,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 6900,
 		"karmatype": "Bad"
 	},
 	{
@@ -19,6 +19,11 @@
 		"abr": "rain",
 		"price": 350,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "vomitrain",
+		"price": 650,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "foggyrain",
@@ -67,7 +72,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 50000,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
@@ -81,6 +86,11 @@
 		"karmatype": "Doom"
 	},
 	{
+		"abr": "volcanicwinter",
+		"price": 3200,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
@@ -89,6 +99,11 @@
 		"abr": "aurora",
 		"price": 200,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "blight",
+		"price": 700,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "animaltame",
@@ -112,8 +127,8 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 225,
-		"karmatype": "Bad"
+		"price": 255,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "madanimal",
@@ -371,6 +386,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -407,9 +427,9 @@
 	},
 	{
 		"abr": "sanctuary",
-		"price": 100000,
+		"price": 10000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 82
+	"total": 86
 }
