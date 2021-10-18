@@ -246,12 +246,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Mint Minimap",
-    "steamId": "1662119905",
-    "version": "1.2.7365"
-  },
-  {
     "author": "Hauvega",
     "name": "Equiums Wall Signs",
     "steamId": null,
@@ -538,6 +532,12 @@
     "name": "Quality Colors",
     "steamId": "2420141361",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.15"
   },
   {
     "author": "Sandy",
