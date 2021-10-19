@@ -429,7 +429,27 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "factionwar",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "factionsiege",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "factioncontention",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "factioncamp",
+		"price": 1500,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 86
+	"total": 90
 }
