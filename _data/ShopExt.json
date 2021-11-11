@@ -9675,7 +9675,7 @@
       },
       "description": "As simple as sentient robotics can get. This design is the bare skeletal amount of components needed to create full autonomous functionality. Obviously not the best but it works well when needed.",
       "defName": "Android1Tier",
-      "enabled": false,
+      "enabled": true,
       "name": "T1 Android",
       "price": 2333
     },

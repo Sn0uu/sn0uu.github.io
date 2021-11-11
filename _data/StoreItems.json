@@ -1010,7 +1010,7 @@
 	},
 	{
 		"abr": "antigrainwarhead",
-		"price": -10,
+		"price": 2000,
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead"
 	},
@@ -3182,7 +3182,7 @@
 	},
 	{
 		"abr": "daysofwarcrimessign",
-		"price": -10,
+		"price": 8,
 		"category": "Art",
 		"defname": "EquiumWCDaysSign"
 	},
@@ -5383,12 +5383,6 @@
 		"defname": "VPE_GasTank"
 	},
 	{
-		"abr": "gaswalldarklight",
-		"price": 65,
-		"category": "Furniture",
-		"defname": "VPE_GasWallDarkLight"
-	},
-	{
 		"abr": "gaswalllight",
 		"price": 65,
 		"category": "Furniture",
@@ -7442,13 +7436,13 @@
 	},
 	{
 		"abr": "ancientairconditioner",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientAirConditioner"
 	},
 	{
 		"abr": "ancientatm",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientATM"
 	},
@@ -7514,7 +7508,7 @@
 	},
 	{
 		"abr": "ancientengineblock",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientRustedEngineBlock"
 	},
@@ -7526,7 +7520,7 @@
 	},
 	{
 		"abr": "ancientfence",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientFence"
 	},
@@ -7538,19 +7532,19 @@
 	},
 	{
 		"abr": "ancientgiantwheel",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientGiantWheel"
 	},
 	{
 		"abr": "ancienthydrant",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientHydrant"
 	},
 	{
 		"abr": "ancientkitchensink",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientKitchenSink"
 	},
@@ -7562,7 +7556,7 @@
 	},
 	{
 		"abr": "ancientlargecrate",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientLargeCrate"
 	},
@@ -7574,7 +7568,7 @@
 	},
 	{
 		"abr": "ancientlongcrate",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientLongCrate"
 	},
@@ -7610,7 +7604,7 @@
 	},
 	{
 		"abr": "ancientmicrowave",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientMicrowave"
 	},
@@ -7634,7 +7628,7 @@
 	},
 	{
 		"abr": "ancientoven",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientOven"
 	},
@@ -7646,7 +7640,7 @@
 	},
 	{
 		"abr": "ancientpostbox",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientPostbox"
 	},
@@ -7658,7 +7652,7 @@
 	},
 	{
 		"abr": "ancientrefrigerator",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientRefrigerator"
 	},
@@ -7670,13 +7664,13 @@
 	},
 	{
 		"abr": "ancientshoppingcart",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientShoppingCart"
 	},
 	{
 		"abr": "ancientsmallcrate",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientSmallCrate"
 	},
@@ -7694,7 +7688,7 @@
 	},
 	{
 		"abr": "ancientstove",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientStove"
 	},
@@ -7712,7 +7706,7 @@
 	},
 	{
 		"abr": "ancienttoilet",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientToilet"
 	},
@@ -7724,19 +7718,19 @@
 	},
 	{
 		"abr": "ancientvendingmachine",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientVendingMachine"
 	},
 	{
 		"abr": "ancientwashingmachine",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientWashingMachine"
 	},
 	{
 		"abr": "ancientwheel",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientWheel"
 	},
@@ -10586,7 +10580,7 @@
 	},
 	{
 		"abr": "tradingspot",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "TradingSpot"
 	},
@@ -10861,29 +10855,767 @@
 		"defname": "AEXP_Zebra"
 	},
 	{
-		"abr": "zombgrella",
-		"price": 642,
-		"category": "Misc",
-		"defname": "Zombgrella"
-	},
-	{
-		"abr": "zombrella",
-		"price": 3333,
-		"category": "Misc",
-		"defname": "Zombrella"
-	},
-	{
 		"abr": "zoologyimplant",
 		"price": 2667,
 		"category": "Android",
 		"defname": "AnimalMindImplant"
 	},
 	{
+		"abr": "gaswalldarklight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasWallDarkLight"
+	},
+	{
 		"abr": "сellar",
 		"price": 350,
 		"category": "Misc",
 		"defname": "Ice_Cellar"
+	},
+	{
+		"abr": "bedfor10people",
+		"price": 825,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedX"
+	},
+	{
+		"abr": "bedfor100people",
+		"price": 8025,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedZ"
+	},
+	{
+		"abr": "bedfor11people",
+		"price": 900,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedXI"
+	},
+	{
+		"abr": "bedfor12people",
+		"price": 983,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedXII"
+	},
+	{
+		"abr": "bedfor13people",
+		"price": 1067,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedXIII"
+	},
+	{
+		"abr": "bedfor14people",
+		"price": 1142,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedXIIII"
+	},
+	{
+		"abr": "bedfor15people",
+		"price": 1225,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedXV"
+	},
+	{
+		"abr": "bedfor3people",
+		"price": 249,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedIII"
+	},
+	{
+		"abr": "bedfor30people",
+		"price": 2425,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedXXX"
+	},
+	{
+		"abr": "bedfor4people",
+		"price": 331,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedIIII"
+	},
+	{
+		"abr": "bedfor5people",
+		"price": 417,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedV"
+	},
+	{
+		"abr": "bedfor6people",
+		"price": 492,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedVI"
+	},
+	{
+		"abr": "bedfor7people",
+		"price": 575,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedVII"
+	},
+	{
+		"abr": "bedfor8people",
+		"price": 658,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedVIII"
+	},
+	{
+		"abr": "bedfor9people",
+		"price": 742,
+		"category": "Furniture",
+		"defname": "SSB_SuperBedVIIII"
+	},
+	{
+		"abr": "bluecurvedglitterglasswall",
+		"price": 64,
+		"category": "Misc",
+		"defname": "SW_BlueCurvedGlitterGlassWall"
+	},
+	{
+		"abr": "blueglitterglasswall",
+		"price": 64,
+		"category": "Misc",
+		"defname": "SW_BlueGlitterGlassWall"
+	},
+	{
+		"abr": "boombox",
+		"price": 102,
+		"category": "Power",
+		"defname": "SupesSpeaker"
+	},
+	{
+		"abr": "builder(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_I"
+	},
+	{
+		"abr": "builder(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_II"
+	},
+	{
+		"abr": "builder(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_III"
+	},
+	{
+		"abr": "builder(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_IV"
+	},
+	{
+		"abr": "builder(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_V"
+	},
+	{
+		"abr": "capacitorsensorswitch",
+		"price": 102,
+		"category": "Misc",
+		"defname": "SupesCutoffSwitch"
+	},
+	{
+		"abr": "cleaner(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_II"
+	},
+	{
+		"abr": "cleaner(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_III"
+	},
+	{
+		"abr": "cleaner(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_IV"
+	},
+	{
+		"abr": "cleaner(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_V"
+	},
+	{
+		"abr": "crafter(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_I"
+	},
+	{
+		"abr": "crafter(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_II"
+	},
+	{
+		"abr": "crafter(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_III"
+	},
+	{
+		"abr": "crafter(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_IV"
+	},
+	{
+		"abr": "crafter(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_V"
+	},
+	{
+		"abr": "crater10",
+		"price": 475,
+		"category": "Misc",
+		"defname": "craterTen"
+	},
+	{
+		"abr": "crater12",
+		"price": 475,
+		"category": "Misc",
+		"defname": "craterTwelve"
+	},
+	{
+		"abr": "crater4",
+		"price": 475,
+		"category": "Misc",
+		"defname": "craterFour"
+	},
+	{
+		"abr": "crater6",
+		"price": 475,
+		"category": "Misc",
+		"defname": "craterSix"
+	},
+	{
+		"abr": "crater8",
+		"price": 475,
+		"category": "Misc",
+		"defname": "craterEight"
+	},
+	{
+		"abr": "currentflowsensorswitch",
+		"price": 102,
+		"category": "Misc",
+		"defname": "SupesCurrentSensor"
+	},
+	{
+		"abr": "entangledswitch",
+		"price": 95,
+		"category": "Misc",
+		"defname": "SupesEntangledSwitch"
+	},
+	{
+		"abr": "er(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_I"
+	},
+	{
+		"abr": "er(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_II"
+	},
+	{
+		"abr": "er(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_III"
+	},
+	{
+		"abr": "er(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_IV"
+	},
+	{
+		"abr": "er(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_V"
+	},
+	{
+		"abr": "greencurvedglitterglasswall",
+		"price": 64,
+		"category": "Misc",
+		"defname": "SW_GreenCurvedGlitterGlassWall"
+	},
+	{
+		"abr": "greenglitterglasswall",
+		"price": 64,
+		"category": "Misc",
+		"defname": "SW_GreenGlitterGlassWall"
+	},
+	{
+		"abr": "hauler(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_II"
+	},
+	{
+		"abr": "hauler(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_III"
+	},
+	{
+		"abr": "hauler(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_IV"
+	},
+	{
+		"abr": "hauler(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_V"
+	},
+	{
+		"abr": "heatsensorswitch",
+		"price": 102,
+		"category": "Misc",
+		"defname": "SupesHeatSensor"
+	},
+	{
+		"abr": "inputsocket",
+		"price": 17,
+		"category": "Misc",
+		"defname": "SupesInputSocket"
+	},
+	{
+		"abr": "inverter",
+		"price": 33,
+		"category": "Misc",
+		"defname": "SupesGateInverter"
+	},
+	{
+		"abr": "kitchen(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_I"
+	},
+	{
+		"abr": "kitchen(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_II"
+	},
+	{
+		"abr": "kitchen(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_III"
+	},
+	{
+		"abr": "kitchen(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_IV"
+	},
+	{
+		"abr": "kitchen(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_V"
+	},
+	{
+		"abr": "laseremitter",
+		"price": 717,
+		"category": "Power",
+		"defname": "SupesLaserEmitter"
+	},
+	{
+		"abr": "laserglass",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "SupesGlass"
+	},
+	{
+		"abr": "lasermerger",
+		"price": 200,
+		"category": "Power",
+		"defname": "SupesLaserMerger"
+	},
+	{
+		"abr": "lasermirror",
+		"price": 65,
+		"category": "Power",
+		"defname": "SupesLaserMirror"
+	},
+	{
+		"abr": "laserpowerpanel",
+		"price": 783,
+		"category": "Power",
+		"defname": "SupesLaserPower"
+	},
+	{
+		"abr": "lasersplitter",
+		"price": 147,
+		"category": "Power",
+		"defname": "SupesLaserSplitter"
+	},
+	{
+		"abr": "laserswitch",
+		"price": 417,
+		"category": "Power",
+		"defname": "SupesLaserSwitch"
+	},
+	{
+		"abr": "laserwindow",
+		"price": 44,
+		"category": "Misc",
+		"defname": "SupesLaserWindow"
+	},
+	{
+		"abr": "launchpad",
+		"price": 800,
+		"category": "Misc",
+		"defname": "MoonRocketLauncher"
+	},
+	{
+		"abr": "lightsensorswitch",
+		"price": 102,
+		"category": "Misc",
+		"defname": "SupesLightSensor"
+	},
+	{
+		"abr": "logicgate",
+		"price": 65,
+		"category": "Misc",
+		"defname": "SupesBaseGate"
+	},
+	{
+		"abr": "lunarhighlandblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "BiomesNEO_BlocksHighland"
+	},
+	{
+		"abr": "mariablocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "BiomesNEO_BlocksMaria"
+	},
+	{
+		"abr": "massgrave",
+		"price": 8,
+		"category": "Misc",
+		"defname": "MassGrave"
+	},
+	{
+		"abr": "massgrave",
+		"price": 8,
+		"category": "Misc",
+		"defname": "MassGraveAlt"
+	},
+	{
+		"abr": "moonrocket",
+		"price": 5100,
+		"category": "Misc",
+		"defname": "MoonRocket"
+	},
+	{
+		"abr": "omni(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Omni_V"
+	},
+	{
+		"abr": "opticalresonator",
+		"price": 333,
+		"category": "Items",
+		"defname": "SupesOpticalResonator"
+	},
+	{
+		"abr": "orangecurvedglitterglasswall",
+		"price": 64,
+		"category": "Misc",
+		"defname": "SW_OrangeCurvedGlitterGlassWall"
+	},
+	{
+		"abr": "orangeglitterglasswall",
+		"price": 64,
+		"category": "Misc",
+		"defname": "SW_OrangeGlitterGlassWall"
+	},
+	{
+		"abr": "pinkcurvedglitterglasswall",
+		"price": 64,
+		"category": "Misc",
+		"defname": "SW_PinkCurvedGlitterGlassWall"
+	},
+	{
+		"abr": "pinkglitterglasswall",
+		"price": 64,
+		"category": "Misc",
+		"defname": "SW_PinkGlitterGlassWall"
+	},
+	{
+		"abr": "pressuresensorplate",
+		"price": 16,
+		"category": "Misc",
+		"defname": "SupesPressureSensor"
+	},
+	{
+		"abr": "protectivefuse",
+		"price": 151,
+		"category": "Misc",
+		"defname": "SupesFuse"
+	},
+	{
+		"abr": "proximitysensor",
+		"price": 85,
+		"category": "Power",
+		"defname": "SupesProxSensor"
+	},
+	{
+		"abr": "purplecurvedglitterglasswall",
+		"price": 64,
+		"category": "Misc",
+		"defname": "SW_PurpleCurvedGlitterGlassWall"
+	},
+	{
+		"abr": "purpleglitterglasswall",
+		"price": 64,
+		"category": "Misc",
+		"defname": "SW_PurpleGlitterGlassWall"
+	},
+	{
+		"abr": "radar",
+		"price": 492,
+		"category": "Power",
+		"defname": "SupesRadar"
+	},
+	{
+		"abr": "redcurvedglitterglasswall",
+		"price": 64,
+		"category": "Misc",
+		"defname": "SW_RedCurvedGlitterGlassWall"
+	},
+	{
+		"abr": "redglitterglasswall",
+		"price": 64,
+		"category": "Misc",
+		"defname": "SW_RedGlitterGlassWall"
+	},
+	{
+		"abr": "remotecontrolleddoor",
+		"price": 323,
+		"category": "Misc",
+		"defname": "SupesRemoteDoor"
+	},
+	{
+		"abr": "remotecontrolledswitch",
+		"price": 102,
+		"category": "Power",
+		"defname": "SupesRemoteSwitch"
+	},
+	{
+		"abr": "remoteflicker",
+		"price": 166,
+		"category": "Power",
+		"defname": "SupesRemoteFlicker"
+	},
+	{
+		"abr": "remotegizmoservo",
+		"price": 182,
+		"category": "Power",
+		"defname": "SupesRemoteGizmoServo"
+	},
+	{
+		"abr": "remoteproximitysensor",
+		"price": 134,
+		"category": "Power",
+		"defname": "SupesRemoteProxSensor"
+	},
+	{
+		"abr": "roboticcomponent",
+		"price": 333,
+		"category": "Items",
+		"defname": "RPP_Component"
+	},
+	{
+		"abr": "roboticmatrix(advanced)",
+		"price": 8817,
+		"category": "Items",
+		"defname": "RPP_Matrix_IV"
+	},
+	{
+		"abr": "roboticmatrix(anti-logic)",
+		"price": 17967,
+		"category": "Items",
+		"defname": "RPP_Matrix_V"
+	},
+	{
+		"abr": "roboticmatrix(basic)",
+		"price": 1825,
+		"category": "Items",
+		"defname": "RPP_Matrix_II"
+	},
+	{
+		"abr": "roboticmatrix(intermediate)",
+		"price": 4158,
+		"category": "Items",
+		"defname": "RPP_Matrix_III"
+	},
+	{
+		"abr": "roboticmatrix(simple)",
+		"price": 775,
+		"category": "Items",
+		"defname": "RPP_Matrix_I"
+	},
+	{
+		"abr": "roboticsworkbench",
+		"price": 1475,
+		"category": "Production",
+		"defname": "Table_RPP_RoboticsBench"
+	},
+	{
+		"abr": "royalbedfor10people",
+		"price": 5567,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedX"
+	},
+	{
+		"abr": "royalbedfor100people",
+		"price": 52150,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedZ"
+	},
+	{
+		"abr": "royalbedfor11people",
+		"price": 6092,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedXI"
+	},
+	{
+		"abr": "royalbedfor12people",
+		"price": 6617,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedXII"
+	},
+	{
+		"abr": "royalbedfor13people",
+		"price": 7150,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedXIII"
+	},
+	{
+		"abr": "royalbedfor14people",
+		"price": 7675,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedXIIII"
+	},
+	{
+		"abr": "royalbedfor15people",
+		"price": 8625,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedXV"
+	},
+	{
+		"abr": "royalbedfor3people",
+		"price": 1858,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedIII"
+	},
+	{
+		"abr": "royalbedfor30people",
+		"price": 16817,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedXXX"
+	},
+	{
+		"abr": "royalbedfor4people",
+		"price": 2392,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedIIII"
+	},
+	{
+		"abr": "royalbedfor5people",
+		"price": 2917,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedV"
+	},
+	{
+		"abr": "royalbedfor6people",
+		"price": 3450,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedVI"
+	},
+	{
+		"abr": "royalbedfor7people",
+		"price": 3975,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedVII"
+	},
+	{
+		"abr": "royalbedfor8people",
+		"price": 4508,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedVIII"
+	},
+	{
+		"abr": "royalbedfor9people",
+		"price": 5033,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedVIIII"
+	},
+	{
+		"abr": "satellitedish",
+		"price": 583,
+		"category": "Misc",
+		"defname": "RefTelescope"
+	},
+	{
+		"abr": "signalrepeater",
+		"price": 102,
+		"category": "Power",
+		"defname": "SupesSignalRepeater"
+	},
+	{
+		"abr": "signaltransmitter",
+		"price": 86,
+		"category": "Power",
+		"defname": "SupesSignalTransmitter"
+	},
+	{
+		"abr": "smoothedhighlandrock",
+		"price": 58,
+		"category": "Misc",
+		"defname": "BiomesNEO_SmoothedHighland"
+	},
+	{
+		"abr": "smoothedmaria",
+		"price": 75,
+		"category": "Misc",
+		"defname": "BiomesNEO_SmoothedMaria"
+	},
+	{
+		"abr": "stacksensorplate",
+		"price": 16,
+		"category": "Misc",
+		"defname": "SupesStackSensor"
+	},
+	{
+		"abr": "stayonswitch",
+		"price": 102,
+		"category": "Misc",
+		"defname": "SupesStayOnGate"
+	},
+	{
+		"abr": "yellowcurvedglitterglasswall",
+		"price": 64,
+		"category": "Misc",
+		"defname": "SW_YellowCurvedGlitterGlassWall"
 	}
 	],
-	"total": 1814
+	"total": 1938
 }
