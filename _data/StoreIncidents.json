@@ -73,7 +73,7 @@
 	{
 		"abr": "solarflare",
 		"price": 8881,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "shortcircuit",
@@ -209,11 +209,6 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "militaryaid",
-		"price": 1200,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -429,27 +424,7 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "factionwar",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "factionsiege",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "factioncontention",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "factioncamp",
-		"price": 1500,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 90
+	"total": 85
 }

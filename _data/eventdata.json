@@ -191,7 +191,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "tradercaravan": {
+  "trade": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
