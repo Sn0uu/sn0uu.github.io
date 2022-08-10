@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 1800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 6900,
 		"karmatype": "Bad"
 	},
 	{
@@ -127,8 +127,8 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 255,
-		"karmatype": "Neutral"
+		"price": 777,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "madanimal",
@@ -209,6 +209,11 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 1234,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -426,5 +431,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 85
+	"total": 86
 }

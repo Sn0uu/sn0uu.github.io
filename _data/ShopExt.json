@@ -9498,7 +9498,7 @@
       "defName": "DesignerMatesXH",
       "enabled": true,
       "name": "designer mate",
-      "price": 1917
+      "price": 2222
     },
     {
       "data": {
@@ -9543,7 +9543,7 @@
       "defName": "SoldiermorphXH",
       "enabled": true,
       "name": "soldiermorph",
-      "price": 1917
+      "price": 2222
     },
     {
       "data": {
@@ -9596,7 +9596,7 @@
       },
       "description": "A form of mechanized infantry, produced during an ancient time on this rimworld. These units are very strong, powerful war machines but are subsequently slow and have limited battery to them.",
       "defName": "M7Mech",
-      "enabled": true,
+      "enabled": false,
       "name": "M7 Mechanised infantry",
       "price": 30000
     },
@@ -9628,7 +9628,7 @@
       },
       "description": "A prototype M7 mechanized infantry, equipped with a limited SkyCore unit and SkyMind radio. These units are very strong, powerful war machines and allow digital consciousness to move on battlefields but are subsequently slow and have limited internal storage capacity to them.",
       "defName": "M8Mech",
-      "enabled": true,
+      "enabled": false,
       "name": "M8 Mechanised infantry",
       "price": 30000
     },
@@ -9662,7 +9662,7 @@
       },
       "description": "A lost android, shunned from their transcendant community. The tech used to make them is beyond human comprehension, boasting near unlimited power and requiring little sustinence to operate. They deem all races other than themselves to be somewhat below them and believe that living on a rimworld is a fate worse than death.",
       "defName": "Android5Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T5 Android",
       "price": 13333
     },
@@ -9696,7 +9696,7 @@
       },
       "description": "The most advanced form of android conceivable; this tier is able to efficiently hold the consciousness of any AI uploaded onto it, with advanced locomotive abilities and manipulation; this android vastly suprasses most humans.",
       "defName": "Android4Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T4 Android",
       "price": 10000
     },
@@ -9729,7 +9729,7 @@
       },
       "description": "A Prototype android exclusive to this rimworld; developed by a secret R/D Laboratory, away from the eye of the rest of the planet and cosmos. This android features highly advanced locomotive and motor abilities, perfectly mimicing that of an average human. Although clunky and somewhat slow - this android features a modular component design, allowing for upgrades to be made to current parts at any point.",
       "defName": "Android3Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T3 Android",
       "price": 8000
     },
@@ -9767,7 +9767,7 @@
       "defName": "Android1Tier",
       "enabled": true,
       "name": "T1 Android",
-      "price": 2333
+      "price": 2000
     },
     {
       "data": {
@@ -9803,7 +9803,7 @@
       "defName": "Android2Tier",
       "enabled": true,
       "name": "T2 Android",
-      "price": 4167
+      "price": 3210
     },
     {
       "data": {
@@ -9830,7 +9830,7 @@
       "defName": "WoW_BloodElf",
       "enabled": true,
       "name": "blood elf",
-      "price": 5000
+      "price": 4000
     },
     {
       "data": {
@@ -9860,7 +9860,7 @@
       "defName": "WoW_Draenei",
       "enabled": true,
       "name": "Draenei",
-      "price": 5833
+      "price": 4833
     },
     {
       "data": {
@@ -9885,7 +9885,7 @@
       "defName": "WoW_Dwarf",
       "enabled": true,
       "name": "Dwarf",
-      "price": 4167
+      "price": 2800
     },
     {
       "data": {
@@ -9922,7 +9922,7 @@
       },
       "description": "The undead Forsaken or simply the Forsaken and Undead are a race and a faction of intelligent undead who broke away from the Scourge and took control of much of the kingdom of Lordaeron, destroyed during the Third War by the death knight Arthas. While comprised vastly of undead humans, the Forsaken are a diverse faction that include several different races at their biological core. However, they have all assumed their racial identity as \"Forsaken,\" due to their shared goals and loyalties.",
       "defName": "WoW_Forsaken",
-      "enabled": true,
+      "enabled": false,
       "name": "forsaken",
       "price": 3333
     },
@@ -9968,7 +9968,7 @@
       },
       "description": "The Night Elves are a powerful and mystical race whose origins extend back to ancient times. These then-immortal beings were among the first to study magic and let it loose throughout the world nearly ten thousand years before the First War on Azeroth. The far-reaching and ancient legacy of the night elves shaped them into a race of very self-sufficient and self-conscious individuals, who often display strong streaks of isolationism.",
       "defName": "WoW_ForsakenNightElf",
-      "enabled": true,
+      "enabled": false,
       "name": "Forsaken Night Elf",
       "price": 5000
     },
@@ -10013,7 +10013,7 @@
       },
       "description": "The Blood Elves or Sin'dorei in Thalassian (\"children of the blood\"), are a race composed of former high elves who renamed themselves in honor of their people who were killed during the siege of Quel'Thalas by the Scourge during the Third War.",
       "defName": "WoW_ForsakenHighElf",
-      "enabled": true,
+      "enabled": false,
       "name": "Forsaken High Elf",
       "price": 5000
     },
@@ -10047,7 +10047,7 @@
       "defName": "WoW_Gnome",
       "enabled": true,
       "name": "Gnome",
-      "price": 4167
+      "price": 2800
     },
     {
       "data": {
@@ -10081,7 +10081,7 @@
       "defName": "WoW_Goblin",
       "enabled": true,
       "name": "Goblin",
-      "price": 4167
+      "price": 2800
     },
     {
       "data": {
@@ -10105,7 +10105,7 @@
       "defName": "WoW_HighElf",
       "enabled": true,
       "name": "high elf",
-      "price": 5000
+      "price": 4000
     },
     {
       "data": {
@@ -10179,7 +10179,7 @@
       "defName": "WoW_Human",
       "enabled": true,
       "name": "azerothian human",
-      "price": 3333
+      "price": 2800
     },
     {
       "data": {
@@ -10209,7 +10209,7 @@
       "defName": "WoW_NightElf",
       "enabled": true,
       "name": "night elf",
-      "price": 5000
+      "price": 4000
     },
     {
       "data": {
@@ -10247,7 +10247,7 @@
       "defName": "WoW_Orc",
       "enabled": true,
       "name": "Orc",
-      "price": 5000
+      "price": 4000
     },
     {
       "data": {
@@ -10281,7 +10281,7 @@
       "defName": "WoW_Tauren",
       "enabled": true,
       "name": "Tauren",
-      "price": 5000
+      "price": 4000
     },
     {
       "data": {
@@ -10316,7 +10316,7 @@
       "defName": "WoW_Troll",
       "enabled": true,
       "name": "Troll",
-      "price": 5000
+      "price": 4000
     },
     {
       "data": {
@@ -10365,7 +10365,7 @@
       "defName": "WoW_Worgen",
       "enabled": true,
       "name": "Worgen",
-      "price": 5000
+      "price": 4000
     },
     {
       "data": {
@@ -10437,7 +10437,7 @@
       },
       "description": "Skeleton of the Scourge",
       "defName": "WoW_Skeleton",
-      "enabled": true,
+      "enabled": false,
       "name": "skeleton",
       "price": 1667
     },
@@ -10463,7 +10463,7 @@
       "defName": "WoW_VoidElf",
       "enabled": true,
       "name": "void elf",
-      "price": 5000
+      "price": 4000
     },
     {
       "data": {
@@ -10503,7 +10503,7 @@
       "defName": "WoW_MagharOrc",
       "enabled": true,
       "name": "Mag'har Orc",
-      "price": 5000
+      "price": 4000
     },
     {
       "data": {
@@ -10535,7 +10535,7 @@
       "defName": "WoW_Nightborne",
       "enabled": true,
       "name": "nightborne",
-      "price": 5000
+      "price": 4000
     }
   ]
 }

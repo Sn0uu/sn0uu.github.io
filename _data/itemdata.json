@@ -21259,7 +21259,7 @@
     "Mod": "Dubs Bad Hygiene",
     "KarmaType": null
   },
-  "sewagePipeStuff": {
+  "vtredCloth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21269,17 +21269,17 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "plumbingValve": {
+  "vtyellowCloth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21289,17 +21289,17 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "airPipe": {
+  "vtblueCloth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21309,14 +21309,14 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
   "ToiletStallDoor": {
@@ -23979,7 +23979,7 @@
     "Mod": "RimNauts",
     "KarmaType": null
   },
-  "craterTwelve": {
+  "vt_medicine": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23989,17 +23989,17 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimNauts",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "craterTen": {
+  "egroundlinevaultyellow": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -24016,10 +24016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimNauts",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "craterEight": {
+  "groundlinevaultyellow": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -24036,10 +24036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimNauts",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "craterSix": {
+  "vtsuperreactor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -24056,10 +24056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimNauts",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "craterFour": {
+  "vtreactor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -24076,7 +24076,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RimNauts",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
   "BiomesNEO_SmoothedHighland": {
@@ -25606,7 +25606,7 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -25621,12 +25621,12 @@
   },
   "Android2Tier": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -35579,7 +35579,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_minitable": {
+  "vault_sofa": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35599,7 +35599,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_miniminitable": {
+  "vtrecycler": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35619,7 +35619,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_newminitable": {
+  "vtschooltable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35639,7 +35639,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_luxminitable": {
+  "vt_megabore": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35659,7 +35659,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_fern": {
+  "vt_workbench": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35679,7 +35679,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_curio": {
+  "vtcompter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35699,7 +35699,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_ovtable": {
+  "vtrug_four": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35719,7 +35719,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vaultshelf": {
+  "vtrug_tree": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35739,7 +35739,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "minivaultshelf": {
+  "vtrug_two": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35819,7 +35819,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_EndTable": {
+  "vtrug_one": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35839,7 +35839,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_commode": {
+  "groundplate_one": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35859,7 +35859,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_luxEndTable": {
+  "vttablelamp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35879,7 +35879,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_luxcommode": {
+  "vault_lampb": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35979,7 +35979,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vault_lampb": {
+  "vt_luxcommode": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35999,7 +35999,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vttablelamp": {
+  "vt_luxEndTable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36099,7 +36099,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "groundplate_one": {
+  "vt_commode": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36119,7 +36119,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vtrug_one": {
+  "vt_EndTable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36139,7 +36139,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vtrug_two": {
+  "minivaultshelf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36159,7 +36159,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vtrug_tree": {
+  "vaultshelf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36179,7 +36179,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vtrug_four": {
+  "vt_ovtable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36239,7 +36239,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vtcompter": {
+  "vt_curio": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36279,7 +36279,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_workbench": {
+  "vt_fern": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36299,7 +36299,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_megabore": {
+  "vt_luxminitable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36339,7 +36339,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vtschooltable": {
+  "vt_newminitable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36359,7 +36359,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vtrecycler": {
+  "vt_miniminitable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36419,7 +36419,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vault_sofa": {
+  "vt_minitable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36439,7 +36439,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vtreactor": {
+  "craterFour": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36456,10 +36456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "RimNauts",
     "KarmaType": null
   },
-  "vtsuperreactor": {
+  "craterSix": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36476,7 +36476,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "RimNauts",
     "KarmaType": null
   },
   "VTGeothermalGenerator": {
@@ -37019,7 +37019,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "groundlinevaultyellow": {
+  "craterEight": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37036,10 +37036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "RimNauts",
     "KarmaType": null
   },
-  "egroundlinevaultyellow": {
+  "craterTen": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37056,7 +37056,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "RimNauts",
     "KarmaType": null
   },
   "Vaultmainten": {
@@ -37239,7 +37239,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_medicine": {
+  "craterTwelve": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37249,14 +37249,14 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "RimNauts",
     "KarmaType": null
   },
   "VTPainkillers": {
@@ -37279,7 +37279,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vtblueCloth": {
+  "airPipe": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37289,17 +37289,17 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Dubs Bad Hygiene",
     "KarmaType": null
   },
-  "vtyellowCloth": {
+  "plumbingValve": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37309,17 +37309,17 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Dubs Bad Hygiene",
     "KarmaType": null
   },
-  "vtredCloth": {
+  "sewagePipeStuff": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -37329,14 +37329,14 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Dubs Bad Hygiene",
     "KarmaType": null
   },
   "CeilingTorch": {
