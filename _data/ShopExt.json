@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -10424,7 +10424,7 @@
       },
       "description": "A lost android, shunned from their transcendant community. The tech used to make them is beyond human comprehension, boasting near unlimited power and requiring little sustinence to operate. They deem all races other than themselves to be somewhat below them and believe that living on a rimworld is a fate worse than death.",
       "defName": "Android5Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T5 Android",
       "price": 13333
     },
@@ -10458,7 +10458,7 @@
       },
       "description": "The most advanced form of android conceivable; this tier is able to efficiently hold the consciousness of any AI uploaded onto it, with advanced locomotive abilities and manipulation; this android vastly suprasses most humans.",
       "defName": "Android4Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T4 Android",
       "price": 10000
     },
