@@ -448,7 +448,7 @@
     "Mod": "Twitch Toolkit"
   },
   "pawn": {
-    "EventType": "PawnKind",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -464,7 +464,7 @@
     "Mod": "Twitch Toolkit"
   },
   "trait": {
-    "EventType": "Trait",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -472,7 +472,7 @@
     "Mod": "Twitch Toolkit"
   },
   "removetrait": {
-    "EventType": "Trait",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -488,7 +488,7 @@
     "Mod": "Twitch Toolkit"
   },
   "item": {
-    "EventType": "Item",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -576,7 +576,7 @@
     "Mod": "ToolkitUtils"
   },
   "surgery": {
-    "EventType": "Item",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -592,7 +592,7 @@
     "Mod": "ToolkitUtils"
   },
   "replacetrait": {
-    "EventType": "Trait",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -608,7 +608,7 @@
     "Mod": "ToolkitUtils"
   },
   "fullheal": {
-    "EventType": "Variable",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -632,7 +632,7 @@
     "Mod": "ToolkitUtils"
   },
   "backpack": {
-    "EventType": "Item",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -640,7 +640,7 @@
     "Mod": "ToolkitUtils"
   },
   "settraits": {
-    "EventType": "Trait",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -648,7 +648,7 @@
     "Mod": "ToolkitUtils"
   },
   "cleartraits": {
-    "EventType": "Trait",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -656,7 +656,7 @@
     "Mod": "ToolkitUtils"
   },
   "use": {
-    "EventType": "Item",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -664,7 +664,7 @@
     "Mod": "ToolkitUtils"
   },
   "wear": {
-    "EventType": "Item",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -672,7 +672,7 @@
     "Mod": "ToolkitUtils"
   },
   "equip": {
-    "EventType": "Item",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -710,5 +710,141 @@
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
+  },
+  "iceage": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "globalwarming": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "psychicrain": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "longnight": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "psychicbloom": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "hailstorm": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "veemeteoriteshower": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "animalpodcrash": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "spacebattle": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "earthquake": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "cargopodsweapons": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "cargopodsapparel": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "caravananimals": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "cropsprout": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "battleanimals": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "drought": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
+  },
+  "wildmen": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Unknown"
   }
 }
