@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -8035,7 +8035,7 @@
       },
       "description": "The most advanced form of android conceivable; this tier is able to efficiently hold the consciousness of any AI uploaded onto it, with advanced locomotive abilities and manipulation; this android vastly suprasses most humans.",
       "defName": "Android4Tier",
-      "enabled": false,
+      "enabled": true,
       "name": "T4 Android",
       "price": 10000
     },
@@ -8068,7 +8068,7 @@
       },
       "description": "A Prototype android exclusive to this rimworld; developed by a secret R/D Laboratory, away from the eye of the rest of the planet and cosmos. This android features highly advanced locomotive and motor abilities, perfectly mimicing that of an average human. Although clunky and somewhat slow - this android features a modular component design, allowing for upgrades to be made to current parts at any point.",
       "defName": "Android3Tier",
-      "enabled": false,
+      "enabled": true,
       "name": "T3 Android",
       "price": 8000
     },
@@ -8106,7 +8106,7 @@
       "defName": "Android1Tier",
       "enabled": true,
       "name": "T1 Android",
-      "price": 1333
+      "price": 2222
     },
     {
       "data": {
@@ -8140,7 +8140,7 @@
       },
       "description": "A somewhat advanced android, capable of almost perfectly storing an AI consciousness and with reasonable levels of motor skills. A good all round android that is uses extensively on glitterworlds for basic maintenance and cleaning.",
       "defName": "Android2Tier",
-      "enabled": false,
+      "enabled": true,
       "name": "T2 Android",
       "price": 4167
     }
