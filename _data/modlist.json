@@ -30,36 +30,6 @@
     "version": null
   },
   {
-    "author": "Carny Senpai",
-    "name": "Enable Oversized Weapons",
-    "steamId": "2543371889",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "YAYO",
-    "name": "HAR Fix for Yayo Animation",
-    "steamId": "2579147061",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.3.0.4"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Atlas and  aRandomKiwi",
-    "name": "Android tiers",
-    "steamId": "1386412863",
-    "version": "3.0.0.3"
-  },
-  {
     "author": "Fluffy",
     "name": "Animal Tab",
     "steamId": "712141500",
@@ -88,6 +58,12 @@
     "name": "Backup Power",
     "steamId": "2084493662",
     "version": "1.10.175"
+  },
+  {
+    "author": "lbmaian",
+    "name": "Begone, Message!",
+    "steamId": "1951637504",
+    "version": "1.5"
   },
   {
     "author": "Madeline",
@@ -124,12 +100,6 @@
     "name": "Bricks Don't Vanish",
     "steamId": "1260920951",
     "version": "1.3.0.0"
-  },
-  {
-    "author": "CrashM",
-    "name": "CM Color Coded Mood Bar [1.1+]",
-    "steamId": "2006605356",
-    "version": "1.3.3389.1"
   },
   {
     "author": "Andreas Pardeike",
@@ -214,6 +184,12 @@
     "name": "Dress Patients",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
   },
   {
     "author": "Hauvega",
@@ -340,6 +316,12 @@
     "name": "Doors Expanded",
     "steamId": "1316188771",
     "version": "1.4.0.2"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.3.0.4"
   },
   {
     "author": "Haplo",
@@ -930,6 +912,18 @@
     "version": "1.3.5.0"
   },
   {
+    "author": "YAYO",
+    "name": "HAR Fix for Yayo Animation",
+    "steamId": "2579147061",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Albion",
     "name": "Xenohumans - Gen-spliced Xenos on the Rim",
     "steamId": null,
@@ -1018,6 +1012,12 @@
     "name": "[KV] Show Hair With Hats or Hide All Hats",
     "steamId": "1180826364",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
   },
   {
     "author": "Nals",
