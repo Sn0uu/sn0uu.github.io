@@ -27,7 +27,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -79,7 +79,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -114,8 +114,8 @@
       "name": "kind",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 0,
+      "addPrice": 150,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -177,7 +177,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -341,7 +341,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -371,7 +371,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -401,7 +401,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -441,7 +441,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -483,7 +483,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -546,8 +546,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 0,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -576,7 +576,7 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 1,
       "removePrice": 1,
       "degree": 0
     },
@@ -606,7 +606,7 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 1,
       "removePrice": 1,
       "degree": 0
     },
@@ -691,7 +691,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -789,7 +789,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -821,7 +821,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -851,7 +851,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -919,7 +919,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -981,7 +981,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1011,7 +1011,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1041,7 +1041,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1071,7 +1071,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1101,7 +1101,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1131,7 +1131,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1229,7 +1229,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1341,7 +1341,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -1381,7 +1381,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -1411,7 +1411,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -1441,7 +1441,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -1533,7 +1533,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -1593,7 +1593,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -2
     },
     {
@@ -1629,7 +1629,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -1701,7 +1701,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -1737,7 +1737,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -2
     },
     {
@@ -1769,7 +1769,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -1801,7 +1801,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -1849,7 +1849,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -1897,7 +1897,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -1945,7 +1945,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -2203,7 +2203,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -2329,7 +2329,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -2403,7 +2403,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -2433,7 +2433,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -2463,7 +2463,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -2615,7 +2615,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2657,7 +2657,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2695,7 +2695,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2727,7 +2727,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2757,7 +2757,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2797,7 +2797,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2833,7 +2833,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2865,7 +2865,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -2959,7 +2959,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -3053,7 +3053,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3087,7 +3087,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -3121,7 +3121,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3155,7 +3155,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -3199,7 +3199,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -3237,7 +3237,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -3275,7 +3275,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3319,7 +3319,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -3349,7 +3349,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -3379,7 +3379,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3409,7 +3409,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -3439,7 +3439,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3627,7 +3627,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -3751,7 +3751,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -3823,7 +3823,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3859,7 +3859,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -3897,7 +3897,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -3935,7 +3935,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3973,7 +3973,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4005,7 +4005,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -4075,7 +4075,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -4115,7 +4115,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -4155,70 +4155,6 @@
       "addPrice": 1500,
       "removePrice": 0,
       "degree": 1
-    },
-    {
-      "description": "Timmy has a strong back which allows him to carry more than most people.",
-      "stats": [
-        "+50 carrying capacity"
-      ],
-      "conflicts": [
-        "wimp",
-        "frailback"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "wimp",
-          "frailback"
-        ],
-        "stats": [
-          "+50 carrying capacity"
-        ]
-      },
-      "defName": "FT_StrongBack",
-      "name": "strongback",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 0,
-      "degree": 1
-    },
-    {
-      "description": "Timmy has a very strong back, he must be part mule or something because he can carry a lot more than most people.",
-      "stats": [
-        "+75 carrying capacity"
-      ],
-      "conflicts": [
-        "wimp",
-        "frailback"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "wimp",
-          "frailback"
-        ],
-        "stats": [
-          "+75 carrying capacity"
-        ]
-      },
-      "defName": "FT_StrongBack",
-      "name": "verystrongback",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 0,
-      "degree": 2
     },
     {
       "description": "Timmy has a charismatic personality. he is good at social interactions and trading.",
@@ -4269,7 +4205,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4321,7 +4257,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4369,7 +4305,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4417,7 +4353,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4521,7 +4457,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4605,7 +4541,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -4637,7 +4573,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -4667,7 +4603,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4779,7 +4715,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4833,7 +4769,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4887,7 +4823,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -4995,7 +4931,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -5037,7 +4973,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -5079,7 +5015,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -5159,7 +5095,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -5321,7 +5257,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -5369,7 +5305,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -5417,7 +5353,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -5517,7 +5453,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -5567,7 +5503,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -5619,7 +5555,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -5671,7 +5607,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -5721,7 +5657,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -5771,7 +5707,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -5865,7 +5801,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6107,7 +6043,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6381,7 +6317,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6483,7 +6419,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6613,7 +6549,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6701,7 +6637,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6745,7 +6681,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6859,7 +6795,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6905,7 +6841,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7003,7 +6939,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7065,7 +7001,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7131,7 +7067,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7265,7 +7201,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7309,7 +7245,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7361,7 +7297,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7471,7 +7407,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7501,7 +7437,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -7531,7 +7467,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -7561,7 +7497,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -7636,8 +7572,8 @@
       "name": "simpleminded",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7666,7 +7602,7 @@
       "name": "mech",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 350,
       "removePrice": 5500,
       "degree": 0
     },
@@ -7706,8 +7642,8 @@
       "name": "intolerance",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7737,7 +7673,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -7748,9 +7684,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Android tiers",
@@ -7764,6 +7700,70 @@
       },
       "defName": "FeelingsTowardHumanity",
       "name": "hateshumanity",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1000,
+      "removePrice": 1,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has a strong back which allows him to carry more than most people.",
+      "stats": [
+        "+50 carrying capacity"
+      ],
+      "conflicts": [
+        "wimp",
+        "frailback"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "frailback"
+        ],
+        "stats": [
+          "+50 carrying capacity"
+        ]
+      },
+      "defName": "FT_StrongBack",
+      "name": "strongback",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has a very strong back, he must be part mule or something because he can carry a lot more than most people.",
+      "stats": [
+        "+75 carrying capacity"
+      ],
+      "conflicts": [
+        "wimp",
+        "frailback"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "frailback"
+        ],
+        "stats": [
+          "+75 carrying capacity"
+        ]
+      },
+      "defName": "FT_StrongBack",
+      "name": "verystrongback",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -7883,29 +7883,6 @@
       "enabled": false,
       "name": "wolfman",
       "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$0 Market value",
-          "+5.60 Move speed",
-          "+0% Toxic sensitivity",
-          "-100.0C [-180.0F] Minimum comfortable temperature",
-          "+250.0C [450.0F] Maximum comfortable temperature",
-          "+0 Meat amount",
-          "+200.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
-      "defName": "SoSHologramRace",
-      "enabled": false,
-      "name": "hologram",
-      "price": 1
     },
     {
       "data": {
@@ -8143,6 +8120,29 @@
       "enabled": true,
       "name": "T2 Android",
       "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$0 Market value",
+          "+5.60 Move speed",
+          "+0% Toxic sensitivity",
+          "-100.0C [-180.0F] Minimum comfortable temperature",
+          "+250.0C [450.0F] Maximum comfortable temperature",
+          "+0 Meat amount",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
+      "defName": "SoSHologramRace",
+      "enabled": true,
+      "name": "hologram",
+      "price": 1
     }
   ]
 }
