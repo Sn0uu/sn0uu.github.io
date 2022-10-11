@@ -6505,17 +6505,1277 @@
 		"defname": "Ice_Cellar"
 	},
 	{
-		"abr": "granitechunk",
-		"price": 3,
-		"category": "Stone chunks",
-		"defname": "ChunkGranite"
+		"abr": "advancedholodeck",
+		"price": 3275,
+		"category": "Recreation",
+		"defname": "Holodeck_Standard"
 	},
 	{
-		"abr": "marblechunk",
-		"price": 3,
-		"category": "Stone chunks",
-		"defname": "ChunkMarble"
+		"abr": "advancedsensors",
+		"price": 10150,
+		"category": "Misc",
+		"defname": "Ship_SensorClusterAdv"
 	},
+	{
+		"abr": "advancedshipradiator",
+		"price": 1658,
+		"category": "Misc",
+		"defname": "ShipInside_PassiveCoolerAdvanced"
+	},
+	{
+		"abr": "afterlifecasket",
+		"price": 3575,
+		"category": "Buildings",
+		"defname": "Ship_AvatarCasket"
+	},
+	{
+		"abr": "ancientjohnson-tanakadrive",
+		"price": 12208,
+		"category": "Misc",
+		"defname": "JTDriveSalvage"
+	},
+	{
+		"abr": "anti-entropicheatsink",
+		"price": 2850,
+		"category": "Misc",
+		"defname": "ShipHeatsinkAntiEntropy"
+	},
+	{
+		"abr": "antigraintorpedo",
+		"price": 2500,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_Antimatter"
+	},
+	{
+		"abr": "antimatterreactor",
+		"price": 14317,
+		"category": "Misc",
+		"defname": "ArchotechAntimatterReactor"
+	},
+	{
+		"abr": "antimatterthruster",
+		"price": 13067,
+		"category": "Misc",
+		"defname": "Ship_Engine_Archotech"
+	},
+	{
+		"abr": "archocat",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archocat"
+	},
+	{
+		"abr": "archoffalo",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archoffalo"
+	},
+	{
+		"abr": "archojerboa",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archojerboa"
+	},
+	{
+		"abr": "archolifepod",
+		"price": 1667,
+		"category": "Items",
+		"defname": "ArcholifePod"
+	},
+	{
+		"abr": "archolope",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archolope"
+	},
+	{
+		"abr": "archomutt",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archomutt"
+	},
+	{
+		"abr": "archopanda",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archopanda"
+	},
+	{
+		"abr": "archospider",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archospider"
+	},
+	{
+		"abr": "archostrich",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archostrich"
+	},
+	{
+		"abr": "archostrichegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "EggArchostrichFertilized"
+	},
+	{
+		"abr": "archostrichegg(unfert.)",
+		"price": 38,
+		"category": "Eggs (unfert.)",
+		"defname": "EggArchostrichUnfertilized"
+	},
+	{
+		"abr": "archotechear",
+		"price": 2000,
+		"category": "Archotech",
+		"defname": "SoSArchotechEar"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechHeart"
+	},
+	{
+		"abr": "archotechhullcorner(1x1)",
+		"price": 143,
+		"category": "Misc",
+		"defname": "Ship_Corner_Archo_OneOne"
+	},
+	{
+		"abr": "archotechhullcorner(1x1)flip",
+		"price": 143,
+		"category": "Misc",
+		"defname": "Ship_Corner_Archo_OneOneFlip"
+	},
+	{
+		"abr": "archotechhullcorner(1x2)",
+		"price": 282,
+		"category": "Misc",
+		"defname": "Ship_Corner_Archo_OneTwo"
+	},
+	{
+		"abr": "archotechhullcorner(1x2)flip",
+		"price": 282,
+		"category": "Misc",
+		"defname": "Ship_Corner_Archo_OneTwoFlip"
+	},
+	{
+		"abr": "archotechhullcorner(1x3)",
+		"price": 417,
+		"category": "Misc",
+		"defname": "Ship_Corner_Archo_OneThree"
+	},
+	{
+		"abr": "archotechhullcorner(1x3)flip",
+		"price": 417,
+		"category": "Misc",
+		"defname": "Ship_Corner_Archo_OneThreeFlip"
+	},
+	{
+		"abr": "archotechhullplating",
+		"price": 42,
+		"category": "Misc",
+		"defname": "ShipHullTileArchotech"
+	},
+	{
+		"abr": "archotechjaw",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechJaw"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechKidney"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechLung"
+	},
+	{
+		"abr": "archotechnose",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechNose"
+	},
+	{
+		"abr": "archotechpillaralpha",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarA"
+	},
+	{
+		"abr": "archotechpillarbeta",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarB"
+	},
+	{
+		"abr": "archotechpillardelta",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarD"
+	},
+	{
+		"abr": "archotechpillargamma",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarC"
+	},
+	{
+		"abr": "archotechshieldgenerator",
+		"price": 15633,
+		"category": "Misc",
+		"defname": "ArchotechShieldGenerator"
+	},
+	{
+		"abr": "archotechshipairlock",
+		"price": 1675,
+		"category": "Misc",
+		"defname": "ShipAirlockArchotech"
+	},
+	{
+		"abr": "archotechshiphull",
+		"price": 350,
+		"category": "Misc",
+		"defname": "Ship_BeamArchotech"
+	},
+	{
+		"abr": "archotechshiphull(unpowered)",
+		"price": 331,
+		"category": "Misc",
+		"defname": "Ship_BeamArchotech_Unpowered"
+	},
+	{
+		"abr": "archotechshipradiator",
+		"price": 2075,
+		"category": "Misc",
+		"defname": "ShipInside_PassiveCoolerArchotech"
+	},
+	{
+		"abr": "archotechskin",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechSkin"
+	},
+	{
+		"abr": "archotechsolargenerator",
+		"price": 1233,
+		"category": "Misc",
+		"defname": "ShipInside_SolarGeneratorArchotech"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechSpine"
+	},
+	{
+		"abr": "archotechspore",
+		"price": 17800,
+		"category": "Misc",
+		"defname": "ShipArchotechSpore"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechStomach"
+	},
+	{
+		"abr": "archotechthermalregulator",
+		"price": 467,
+		"category": "Misc",
+		"defname": "ShipInside_PassiveVentArchotech"
+	},
+	{
+		"abr": "archotechuplink",
+		"price": 8542,
+		"category": "Misc",
+		"defname": "ArchotechUplink"
+	},
+	{
+		"abr": "archothrumbo",
+		"price": 16667,
+		"category": "Animals",
+		"defname": "Archothrumbo"
+	},
+	{
+		"abr": "archotortoise",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archotortoise"
+	},
+	{
+		"abr": "archotortoiseegg(fert.)",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "EggArchotortoiseFertilized"
+	},
+	{
+		"abr": "artilleryturret",
+		"price": 16633,
+		"category": "Misc",
+		"defname": "ShipTurret_ACIII"
+	},
+	{
+		"abr": "astromite",
+		"price": 167,
+		"category": "Animals",
+		"defname": "Astromite"
+	},
+	{
+		"abr": "basicholodeck",
+		"price": 1792,
+		"category": "Recreation",
+		"defname": "Holodeck_Basic"
+	},
+	{
+		"abr": "cannonturret",
+		"price": 2733,
+		"category": "Misc",
+		"defname": "ShipTurret_ACI"
+	},
+	{
+		"abr": "capacitorarray",
+		"price": 7750,
+		"category": "Misc",
+		"defname": "ShipCapacitor"
+	},
+	{
+		"abr": "cargoshuttle",
+		"price": 3925,
+		"category": "Furniture",
+		"defname": "CargoShuttle"
+	},
+	{
+		"abr": "cargoshuttle(hovermode)",
+		"price": 7500,
+		"category": "Animal",
+		"defname": "ShuttleCargoRace"
+	},
+	{
+		"abr": "cloakingdevice",
+		"price": 6442,
+		"category": "Misc",
+		"defname": "ShipCloakingDevice"
+	},
+	{
+		"abr": "concussiveturret",
+		"price": 3100,
+		"category": "Security",
+		"defname": "Turret_ConcussiveTurret"
+	},
+	{
+		"abr": "cosmopillar",
+		"price": 833,
+		"category": "Animals",
+		"defname": "Cosmopillar"
+	},
+	{
+		"abr": "crittersleepcaskets(32)",
+		"price": 4275,
+		"category": "Misc",
+		"defname": "CrittersleepCasketLarge"
+	},
+	{
+		"abr": "crittersleepcaskets(8)",
+		"price": 1242,
+		"category": "Misc",
+		"defname": "CrittersleepCasket"
+	},
+	{
+		"abr": "cryptonest",
+		"price": 558,
+		"category": "Misc",
+		"defname": "Cryptonest"
+	},
+	{
+		"abr": "damagedairlock",
+		"price": 251,
+		"category": "Misc",
+		"defname": "ShipAirlockWrecked"
+	},
+	{
+		"abr": "emergencypurgeport",
+		"price": 2050,
+		"category": "Misc",
+		"defname": "ShipPurgePort"
+	},
+	{
+		"abr": "emptorpedo",
+		"price": 433,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_EMP"
+	},
+	{
+		"abr": "empturret",
+		"price": 3433,
+		"category": "Security",
+		"defname": "Turret_STEMPTurret"
+	},
+	{
+		"abr": "energyturret",
+		"price": 2675,
+		"category": "Security",
+		"defname": "Turret_EnergyTurret"
+	},
+	{
+		"abr": "entanglementmanifold",
+		"price": 6667,
+		"category": "Items",
+		"defname": "SoSEntanglementManifold"
+	},
+	{
+		"abr": "evahelmet",
+		"price": 675,
+		"category": "Headgear",
+		"defname": "Apparel_SpaceSuitHelmet"
+	},
+	{
+		"abr": "evasuit",
+		"price": 1150,
+		"category": "Armor",
+		"defname": "Apparel_SpaceSuitBody"
+	},
+	{
+		"abr": "exoticparticles",
+		"price": 167,
+		"category": "Items",
+		"defname": "ArchotechExoticParticles"
+	},
+	{
+		"abr": "goosegun",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "GooseGun"
+	},
+	{
+		"abr": "hardpoint",
+		"price": 567,
+		"category": "Misc",
+		"defname": "ShipHardpoint"
+	},
+	{
+		"abr": "heatmanifold",
+		"price": 2258,
+		"category": "Misc",
+		"defname": "ShipHeatManifold"
+	},
+	{
+		"abr": "heatsink",
+		"price": 1483,
+		"category": "Misc",
+		"defname": "ShipHeatsink"
+	},
+	{
+		"abr": "heavycargoshuttle",
+		"price": 6292,
+		"category": "Furniture",
+		"defname": "HeavyShuttle"
+	},
+	{
+		"abr": "heavycargoshuttle(hovermode)",
+		"price": 16667,
+		"category": "Animal",
+		"defname": "ShuttleHeavyRace"
+	},
+	{
+		"abr": "heavyevahelmet",
+		"price": 1500,
+		"category": "Headgear",
+		"defname": "Apparel_SpaceSuitHelmetHeavy"
+	},
+	{
+		"abr": "heavyevasuit",
+		"price": 4117,
+		"category": "Armor",
+		"defname": "Apparel_SpaceSuitBodyHeavy"
+	},
+	{
+		"abr": "heavyturret",
+		"price": 2075,
+		"category": "Security",
+		"defname": "Turret_HeavyTurret"
+	},
+	{
+		"abr": "high-explosivetorpedo",
+		"price": 433,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_HighExplosive"
+	},
+	{
+		"abr": "hologramrelay",
+		"price": 783,
+		"category": "Buildings",
+		"defname": "Ship_HologramRelay"
+	},
+	{
+		"abr": "hullcorner(1x1)",
+		"price": 60,
+		"category": "Misc",
+		"defname": "Ship_Corner_OneOne_Mech"
+	},
+	{
+		"abr": "hullcorner(1x1)",
+		"price": 60,
+		"category": "Misc",
+		"defname": "Ship_Corner_OneOne"
+	},
+	{
+		"abr": "hullcorner(1x1)flip",
+		"price": 60,
+		"category": "Misc",
+		"defname": "Ship_Corner_OneOne_MechFlip"
+	},
+	{
+		"abr": "hullcorner(1x1)flip",
+		"price": 60,
+		"category": "Misc",
+		"defname": "Ship_Corner_OneOneFlip"
+	},
+	{
+		"abr": "hullcorner(1x2)",
+		"price": 115,
+		"category": "Misc",
+		"defname": "Ship_Corner_OneTwo_Mech"
+	},
+	{
+		"abr": "hullcorner(1x2)",
+		"price": 115,
+		"category": "Misc",
+		"defname": "Ship_Corner_OneTwo"
+	},
+	{
+		"abr": "hullcorner(1x2)flip",
+		"price": 115,
+		"category": "Misc",
+		"defname": "Ship_Corner_OneTwoFlip_Mech"
+	},
+	{
+		"abr": "hullcorner(1x2)flip",
+		"price": 115,
+		"category": "Misc",
+		"defname": "Ship_Corner_OneTwoFlip"
+	},
+	{
+		"abr": "hullcorner(1x3)",
+		"price": 171,
+		"category": "Misc",
+		"defname": "Ship_Corner_OneThree_Mech"
+	},
+	{
+		"abr": "hullcorner(1x3)",
+		"price": 171,
+		"category": "Misc",
+		"defname": "Ship_Corner_OneThree"
+	},
+	{
+		"abr": "hullcorner(1x3)flip",
+		"price": 171,
+		"category": "Misc",
+		"defname": "Ship_Corner_OneThreeFlip_Mech"
+	},
+	{
+		"abr": "hullcorner(1x3)flip",
+		"price": 171,
+		"category": "Misc",
+		"defname": "Ship_Corner_OneThreeFlip"
+	},
+	{
+		"abr": "hullplating",
+		"price": 24,
+		"category": "Misc",
+		"defname": "ShipHullTile"
+	},
+	{
+		"abr": "hullwreckage",
+		"price": 19,
+		"category": "Misc",
+		"defname": "ShipHullTileWrecked"
+	},
+	{
+		"abr": "hullwreckage",
+		"price": 19,
+		"category": "Misc",
+		"defname": "ShipHullTileWreckedFake"
+	},
+	{
+		"abr": "hullfoam",
+		"price": 34,
+		"category": "Misc",
+		"defname": "HullFoamWall"
+	},
+	{
+		"abr": "hullfoamcanister",
+		"price": 33,
+		"category": "Items",
+		"defname": "HullFoam"
+	},
+	{
+		"abr": "hullfoamdistributor",
+		"price": 2208,
+		"category": "Misc",
+		"defname": "HullFoamDistributor"
+	},
+	{
+		"abr": "hullfoamplating",
+		"price": 34,
+		"category": "Misc",
+		"defname": "ShipHullfoamTile"
+	},
+	{
+		"abr": "johnson-tanakadrive",
+		"price": 15542,
+		"category": "Misc",
+		"defname": "Ship_Engine_Interplanetary"
+	},
+	{
+		"abr": "largecannonturret",
+		"price": 6175,
+		"category": "Misc",
+		"defname": "ShipTurret_ACII"
+	},
+	{
+		"abr": "largeemergencypurgeport",
+		"price": 10892,
+		"category": "Misc",
+		"defname": "ShipPurgePortLarge"
+	},
+	{
+		"abr": "largehardpoint",
+		"price": 1133,
+		"category": "Misc",
+		"defname": "ShipHardpointExtraMedium"
+	},
+	{
+		"abr": "largeheatsink",
+		"price": 7400,
+		"category": "Misc",
+		"defname": "ShipHeatsinkLarge"
+	},
+	{
+		"abr": "largelaserturret",
+		"price": 9208,
+		"category": "Misc",
+		"defname": "ShipTurret_Laser_Large"
+	},
+	{
+		"abr": "largeplasmaturret",
+		"price": 9208,
+		"category": "Misc",
+		"defname": "ShipTurret_Plasma_Large"
+	},
+	{
+		"abr": "largerailgunturret",
+		"price": 9208,
+		"category": "Misc",
+		"defname": "ShipTurret_Kinetic_Large"
+	},
+	{
+		"abr": "largeshuttlebay",
+		"price": 4942,
+		"category": "Misc",
+		"defname": "ShipShuttleBayLarge"
+	},
+	{
+		"abr": "laserturret",
+		"price": 3033,
+		"category": "Misc",
+		"defname": "ShipTurret_Laser"
+	},
+	{
+		"abr": "lifesupportsystem",
+		"price": 5458,
+		"category": "Misc",
+		"defname": "Ship_LifeSupport"
+	},
+	{
+		"abr": "machine-gunemplacement",
+		"price": 767,
+		"category": "Misc",
+		"defname": "Turret_STMGEmp"
+	},
+	{
+		"abr": "magneticshield",
+		"price": 1633,
+		"category": "Power",
+		"defname": "Building_RTMagneticShield"
+	},
+	{
+		"abr": "mechanitecocktails",
+		"price": 1675,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeMechanite"
+	},
+	{
+		"abr": "mechanitedisassemblercore",
+		"price": 6667,
+		"category": "Items",
+		"defname": "ArchotechMechaniteCore"
+	},
+	{
+		"abr": "mechaniterepairgel",
+		"price": 833,
+		"category": "Items",
+		"defname": "ArchotechRepairGel"
+	},
+	{
+		"abr": "mechanoidhullplating",
+		"price": 24,
+		"category": "Misc",
+		"defname": "ShipHullTileMech"
+	},
+	{
+		"abr": "mechanoidshipairlock",
+		"price": 842,
+		"category": "Misc",
+		"defname": "ShipAirlockMech"
+	},
+	{
+		"abr": "mechanoidshiphull",
+		"price": 174,
+		"category": "Misc",
+		"defname": "Ship_BeamMech"
+	},
+	{
+		"abr": "mechanoidshiphull(unpowered)",
+		"price": 152,
+		"category": "Misc",
+		"defname": "Ship_BeamMech_Unpowered"
+	},
+	{
+		"abr": "mechanoidshipradiator",
+		"price": 1658,
+		"category": "Misc",
+		"defname": "ShipInside_PassiveCoolerMechanoid"
+	},
+	{
+		"abr": "mechanoidsolargenerator",
+		"price": 1233,
+		"category": "Misc",
+		"defname": "ShipInside_SolarGeneratorMech"
+	},
+	{
+		"abr": "mechanoidthermalregulator",
+		"price": 301,
+		"category": "Misc",
+		"defname": "ShipInside_PassiveVentMechanoid"
+	},
+	{
+		"abr": "minimalshipbridge",
+		"price": 425,
+		"category": "Furniture",
+		"defname": "ShipPilotSeatMini"
+	},
+	{
+		"abr": "nuclearengine",
+		"price": 7483,
+		"category": "Misc",
+		"defname": "Ship_Engine_Large"
+	},
+	{
+		"abr": "personalshuttle",
+		"price": 1792,
+		"category": "Furniture",
+		"defname": "PersonalShuttle"
+	},
+	{
+		"abr": "personalshuttle(hovermode)",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "ShuttlePersonalRace"
+	},
+	{
+		"abr": "plasmaturret",
+		"price": 3033,
+		"category": "Misc",
+		"defname": "ShipTurret_Plasma"
+	},
+	{
+		"abr": "portablehologramrelay",
+		"price": 1417,
+		"category": "Utility",
+		"defname": "Apparel_HologramRelay"
+	},
+	{
+		"abr": "psychicflayercore",
+		"price": 6667,
+		"category": "Items",
+		"defname": "ArchotechPsychicCore"
+	},
+	{
+		"abr": "psychicmanipulator",
+		"price": 3333,
+		"category": "Archotech",
+		"defname": "SoSPsychicManipulator"
+	},
+	{
+		"abr": "psychicpredictor",
+		"price": 2333,
+		"category": "Archotech",
+		"defname": "SoSPsychicPredictor"
+	},
+	{
+		"abr": "psytrainer(beckon)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Beckon"
+	},
+	{
+		"abr": "psytrainer(berserkpulse)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_BerserkPulse"
+	},
+	{
+		"abr": "psytrainer(berserk)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Berserk"
+	},
+	{
+		"abr": "psytrainer(blindingpulse)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_BlindingPulse"
+	},
+	{
+		"abr": "psytrainer(burden)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Burden"
+	},
+	{
+		"abr": "psytrainer(chaosskip)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ChaosSkip"
+	},
+	{
+		"abr": "psytrainer(chunkskip)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Chunkskip"
+	},
+	{
+		"abr": "psytrainer(farskip)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Farskip"
+	},
+	{
+		"abr": "psytrainer(flashstorm)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Flashstorm"
+	},
+	{
+		"abr": "psytrainer(focus)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Focus"
+	},
+	{
+		"abr": "psytrainer(invisibility)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Invisibility"
+	},
+	{
+		"abr": "psytrainer(manhunterpulse)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_ManhunterPulse"
+	},
+	{
+		"abr": "psytrainer(masschaosskip)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_MassChaosSkip"
+	},
+	{
+		"abr": "psytrainer(neuralheatdump)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_EntropyDump"
+	},
+	{
+		"abr": "psytrainer(neuroquake)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Neuroquake"
+	},
+	{
+		"abr": "psytrainer(painblock)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Painblock"
+	},
+	{
+		"abr": "psytrainer(skip)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Skip"
+	},
+	{
+		"abr": "psytrainer(skipshield)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_BulletShield"
+	},
+	{
+		"abr": "psytrainer(smokepop)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Smokepop"
+	},
+	{
+		"abr": "psytrainer(solarpinhole)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_SolarPinhole"
+	},
+	{
+		"abr": "psytrainer(stun)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Stun"
+	},
+	{
+		"abr": "psytrainer(vertigopulse)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VertigoPulse"
+	},
+	{
+		"abr": "psytrainer(wallraise)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Wallraise"
+	},
+	{
+		"abr": "psytrainer(waterskip)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Waterskip"
+	},
+	{
+		"abr": "psytrainer(wordofinspiration)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfInspiration"
+	},
+	{
+		"abr": "psytrainer(wordofjoy)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfJoy"
+	},
+	{
+		"abr": "psytrainer(wordoflove)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfLove"
+	},
+	{
+		"abr": "psytrainer(wordofserenity)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfSerenity"
+	},
+	{
+		"abr": "psytrainer(wordoftrust)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfTrust"
+	},
+	{
+		"abr": "railgunturret",
+		"price": 3033,
+		"category": "Misc",
+		"defname": "ShipTurret_Kinetic"
+	},
+	{
+		"abr": "recyclotron",
+		"price": 10292,
+		"category": "Production",
+		"defname": "ArchoRecycler"
+	},
+	{
+		"abr": "rifleemplacement",
+		"price": 533,
+		"category": "Misc",
+		"defname": "Turret_STRifleEmp"
+	},
+	{
+		"abr": "salvagebay",
+		"price": 3575,
+		"category": "Misc",
+		"defname": "ShipSalvageBay"
+	},
+	{
+		"abr": "sapientholodeck",
+		"price": 10283,
+		"category": "Recreation",
+		"defname": "Holodeck_AI"
+	},
+	{
+		"abr": "shieldgenerator",
+		"price": 7308,
+		"category": "Misc",
+		"defname": "ShipCombatShieldGenerator"
+	},
+	{
+		"abr": "shipairlock",
+		"price": 842,
+		"category": "Misc",
+		"defname": "ShipAirlock"
+	},
+	{
+		"abr": "shipbridge",
+		"price": 1200,
+		"category": "Furniture",
+		"defname": "ShipPilotSeat"
+	},
+	{
+		"abr": "shipcapacitor",
+		"price": 908,
+		"category": "Furniture",
+		"defname": "ShipCapacitorSmall"
+	},
+	{
+		"abr": "shiphull",
+		"price": 10,
+		"category": "Misc",
+		"defname": "Ship_FakeBeam"
+	},
+	{
+		"abr": "shiphull(unpowered)",
+		"price": 152,
+		"category": "Misc",
+		"defname": "Ship_Beam_Unpowered"
+	},
+	{
+		"abr": "shipradiator",
+		"price": 1075,
+		"category": "Misc",
+		"defname": "ShipInside_PassiveCooler"
+	},
+	{
+		"abr": "shipsalvage",
+		"price": 1758,
+		"category": "Special",
+		"defname": "ShipChunkSalvage"
+	},
+	{
+		"abr": "shipthermalregulator",
+		"price": 301,
+		"category": "Misc",
+		"defname": "ShipInside_PassiveVent"
+	},
+	{
+		"abr": "shredderturret",
+		"price": 725,
+		"category": "Security",
+		"defname": "Turret_ShredderTurret"
+	},
+	{
+		"abr": "shuttlebay",
+		"price": 3575,
+		"category": "Misc",
+		"defname": "ShipShuttleBay"
+	},
+	{
+		"abr": "smallhardpoint",
+		"price": 367,
+		"category": "Misc",
+		"defname": "ShipHardpointSmall"
+	},
+	{
+		"abr": "smalllifesupportsystem",
+		"price": 6483,
+		"category": "Misc",
+		"defname": "Ship_LifeSupport_Small"
+	},
+	{
+		"abr": "smallrocketengine",
+		"price": 1058,
+		"category": "Misc",
+		"defname": "Ship_Engine_Small"
+	},
+	{
+		"abr": "sniperturret",
+		"price": 1075,
+		"category": "Security",
+		"defname": "Turret_SniperTurret"
+	},
+	{
+		"abr": "solargenerator",
+		"price": 1233,
+		"category": "Misc",
+		"defname": "ShipInside_SolarGenerator"
+	},
+	{
+		"abr": "spacetelescope",
+		"price": 1000,
+		"category": "Recreation",
+		"defname": "TelescopeSpace"
+	},
+	{
+		"abr": "spinalamplifier",
+		"price": 2933,
+		"category": "Misc",
+		"defname": "ShipSpinalAmplifier"
+	},
+	{
+		"abr": "spinalbarrel:disassembler",
+		"price": 13700,
+		"category": "Misc",
+		"defname": "ShipSpinalBarrelMechanite"
+	},
+	{
+		"abr": "spinalbarrel:laser",
+		"price": 7075,
+		"category": "Misc",
+		"defname": "ShipSpinalBarrelLaser"
+	},
+	{
+		"abr": "spinalbarrel:plasma",
+		"price": 7075,
+		"category": "Misc",
+		"defname": "ShipSpinalBarrelPlasma"
+	},
+	{
+		"abr": "spinalbarrel:psychicflayer",
+		"price": 13700,
+		"category": "Misc",
+		"defname": "ShipSpinalBarrelPsychic"
+	},
+	{
+		"abr": "spinalbarrel:railgun",
+		"price": 7075,
+		"category": "Misc",
+		"defname": "ShipSpinalBarrelKinetic"
+	},
+	{
+		"abr": "spinalcapacitor",
+		"price": 9175,
+		"category": "Misc",
+		"defname": "ShipSpinalEmitter"
+	},
+	{
+		"abr": "standardturret",
+		"price": 900,
+		"category": "Security",
+		"defname": "Turret_StandardTurret"
+	},
+	{
+		"abr": "stellapede",
+		"price": 333,
+		"category": "Animals",
+		"defname": "Stellapede"
+	},
+	{
+		"abr": "stunningturret",
+		"price": 450,
+		"category": "Security",
+		"defname": "Turret_StunningTurret"
+	},
+	{
+		"abr": "superheavydropship",
+		"price": 13492,
+		"category": "Furniture",
+		"defname": "DropshipShuttle"
+	},
+	{
+		"abr": "superheavydropship(hovermode)",
+		"price": 33333,
+		"category": "Animal",
+		"defname": "ShuttleDropshipRace"
+	},
+	{
+		"abr": "survivalbelt",
+		"price": 178,
+		"category": "Armor",
+		"defname": "Apparel_SpaceSurvivalBelt"
+	},
+	{
+		"abr": "tazingturret",
+		"price": 633,
+		"category": "Security",
+		"defname": "Turret_TazingTurret"
+	},
+	{
+		"abr": "thermalconduit",
+		"price": 18,
+		"category": "Misc",
+		"defname": "ShipHeatConduit"
+	},
+	{
+		"abr": "torpedotube",
+		"price": 592,
+		"category": "Misc",
+		"defname": "ShipTorpedoOne"
+	},
+	{
+		"abr": "torpedotubes(2)",
+		"price": 1142,
+		"category": "Misc",
+		"defname": "ShipTorpedoTwo"
+	},
+	{
+		"abr": "torpedotubes(6)",
+		"price": 2325,
+		"category": "Misc",
+		"defname": "ShipTorpedoSix"
+	},
+	{
+		"abr": "uraniumfuelpod",
+		"price": 1,
+		"category": "Manufactured",
+		"defname": "ShuttleFuelPods"
+	},
+	{
+		"abr": "vanoroot",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawVanoroot"
+	},
+	{
+		"abr": "weathernormalizationdevice",
+		"price": 2000,
+		"category": "Artifacts",
+		"defname": "WeatherCancelDevice"
+	},
+	{
+		"abr": "wreckedhull",
+		"price": 65,
+		"category": "Misc",
+		"defname": "Ship_Beam_Wrecked"
+	},
+	{
+		"abr": "wreckedhull",
+		"price": 65,
+		"category": "Misc",
+		"defname": "Ship_Beam_Wrecked_Fake"
+	},
+	{
+		"abr": "xlhardpoint",
+		"price": 2275,
+		"category": "Misc",
+		"defname": "ShipHardpointLarge"
+	}
 	],
-	"total": 1386
+	"total": 1296
 }
