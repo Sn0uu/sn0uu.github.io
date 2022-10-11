@@ -147,7 +147,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -293,7 +293,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -721,7 +721,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -881,7 +881,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -951,7 +951,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1167,7 +1167,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1197,7 +1197,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1259,7 +1259,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1301,7 +1301,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -1473,7 +1473,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -1503,7 +1503,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -1563,7 +1563,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -1665,7 +1665,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -1993,7 +1993,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -2
     },
     {
@@ -2023,7 +2023,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -2053,7 +2053,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -2083,7 +2083,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -2113,7 +2113,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -2
     },
     {
@@ -2173,7 +2173,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -2233,7 +2233,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -2
     },
     {
@@ -2263,7 +2263,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -2293,7 +2293,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -2365,7 +2365,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -2726,7 +2726,7 @@
       "name": "coldlover",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 500,
       "removePrice": 1,
       "degree": 0
     },
@@ -3479,7 +3479,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "[KV] Consolidated Traits",
         "karmaTypeForAdding": null,
@@ -3517,11 +3517,11 @@
         ]
       },
       "defName": "RCT_Perfectionist",
-      "name": "perfectionist",
+      "name": "cons_perfectionist",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -3537,7 +3537,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "[KV] Consolidated Traits",
         "karmaTypeForAdding": null,
@@ -3551,11 +3551,11 @@
         ]
       },
       "defName": "RCT_Medic",
-      "name": "poormedic",
+      "name": "poomedic",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -3589,7 +3589,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -3675,7 +3675,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -3721,7 +3721,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -3787,7 +3787,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -4037,7 +4037,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4153,7 +4153,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4370,7 +4370,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Fallout Traits",
         "karmaTypeForAdding": null,
@@ -4385,11 +4385,11 @@
         ]
       },
       "defName": "FT_AimOffset",
-      "name": "pooraim",
+      "name": "pooaim",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -4423,7 +4423,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4877,7 +4877,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -5055,7 +5055,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -5215,7 +5215,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -5751,7 +5751,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5833,7 +5833,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -5865,7 +5865,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -6005,7 +6005,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6085,7 +6085,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6119,7 +6119,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6159,7 +6159,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6271,7 +6271,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -6385,7 +6385,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6507,7 +6507,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6527,7 +6527,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Fallout Traits",
         "karmaTypeForAdding": null,
@@ -6545,7 +6545,7 @@
         ]
       },
       "defName": "FT_GreenThumb",
-      "name": "greenthumb",
+      "name": "greenerthumb",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
@@ -6595,7 +6595,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -6891,7 +6891,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7131,7 +7131,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7320,7 +7320,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Fallout Traits",
         "karmaTypeForAdding": null,
@@ -7341,11 +7341,11 @@
         ]
       },
       "defName": "FT_Perfectionist",
-      "name": "perfectionist",
+      "name": "fo_perfectionist",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -7527,7 +7527,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
-      "removePrice": 0,
+      "removePrice": 1,
       "degree": -2
     },
     {
@@ -7558,8 +7558,8 @@
       "name": "strongback",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -7590,8 +7590,8 @@
       "name": "verystrongback",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 1,
       "degree": 2
     }
   ],
