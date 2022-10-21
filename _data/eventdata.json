@@ -1,18 +1,18 @@
 ﻿{
   "tornado": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 5555,
+    "LocalCooldown": 555,
     "Mod": "Twitch Toolkit"
   },
   "tornados": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 5555,
+    "LocalCooldown": 555,
     "Mod": "Twitch Toolkit"
   },
   "clearweather": {
@@ -191,7 +191,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "trade": {
+  "tradercaravan": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
