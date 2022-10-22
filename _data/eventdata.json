@@ -191,14 +191,6 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "tradercaravan": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Twitch Toolkit"
-  },
   "orbitaltraderarrival": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
@@ -710,5 +702,13 @@
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
+  },
+  "trade": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit"
   }
 }
