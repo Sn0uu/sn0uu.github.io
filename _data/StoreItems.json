@@ -2860,7 +2860,7 @@
       "abr": "brain",
       "category": "Natural",
       "defname": "Brain",
-      "price": 1333
+      "price": 1500
     },
     {
       "abr": "brazier",
@@ -4780,13 +4780,13 @@
       "abr": "prestigecataphractarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphractPrestige",
-      "price": 6550
+      "price": 6825
     },
     {
       "abr": "prestigecataphracthelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetCataphractPrestige",
-      "price": 1925
+      "price": 2200
     },
     {
       "abr": "prestigegrenadierarmor",
@@ -4804,13 +4804,13 @@
       "abr": "prestigemarinearmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarinePrestige",
-      "price": 4217
+      "price": 4500
     },
     {
       "abr": "prestigemarinehelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorMarineHelmetPrestige",
-      "price": 1417
+      "price": 1700
     },
     {
       "abr": "prestigephoenixarmor",
@@ -4822,13 +4822,13 @@
       "abr": "prestigereconarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorReconPrestige",
-      "price": 3292
+      "price": 3567
     },
     {
       "abr": "prestigereconhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetReconPrestige",
-      "price": 1192
+      "price": 1467
     },
     {
       "abr": "prestigerobe",
@@ -6043,82 +6043,16 @@
       "price": 8
     },
     {
-      "abr": "concussiveturret",
-      "category": "Security",
-      "defname": "Turret_ConcussiveTurret",
-      "price": 3100
-    },
-    {
-      "abr": "empturret",
-      "category": "Security",
-      "defname": "Turret_STEMPTurret",
-      "price": 3433
-    },
-    {
-      "abr": "energyturret",
-      "category": "Security",
-      "defname": "Turret_EnergyTurret",
-      "price": 2675
-    },
-    {
       "abr": "goosegun",
       "category": "Ranged weapons",
       "defname": "GooseGun",
       "price": 232
     },
     {
-      "abr": "heavyturret",
-      "category": "Security",
-      "defname": "Turret_HeavyTurret",
-      "price": 2075
-    },
-    {
-      "abr": "machine-gunemplacement",
-      "category": "Misc",
-      "defname": "Turret_STMGEmp",
-      "price": 767
-    },
-    {
       "abr": "magneticshield",
       "category": "Power",
       "defname": "Building_RTMagneticShield",
       "price": 1633
-    },
-    {
-      "abr": "rifleemplacement",
-      "category": "Misc",
-      "defname": "Turret_STRifleEmp",
-      "price": 533
-    },
-    {
-      "abr": "shredderturret",
-      "category": "Security",
-      "defname": "Turret_ShredderTurret",
-      "price": 725
-    },
-    {
-      "abr": "sniperturret",
-      "category": "Security",
-      "defname": "Turret_SniperTurret",
-      "price": 1075
-    },
-    {
-      "abr": "standardturret",
-      "category": "Security",
-      "defname": "Turret_StandardTurret",
-      "price": 900
-    },
-    {
-      "abr": "stunningturret",
-      "category": "Security",
-      "defname": "Turret_StunningTurret",
-      "price": 450
-    },
-    {
-      "abr": "tazingturret",
-      "category": "Security",
-      "defname": "Turret_TazingTurret",
-      "price": 633
     },
     {
       "abr": "advancedholodeck",
@@ -7342,91 +7276,91 @@
       "abr": "beeresearch(unfinished)",
       "category": "Bee research",
       "defname": "RB_RandomTier4Research",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearch(unfinished)",
       "category": "Bee research",
       "defname": "RB_RandomTier5Research",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearchpapers(tier4)",
       "category": "Bee research",
       "defname": "RB_ResearchPapersNutTech",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearchpapers(tier4)",
       "category": "Bee research",
       "defname": "RB_ResearchPapersNutAdapt",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearchpapers(tier4)",
       "category": "Bee research",
       "defname": "RB_ResearchPapersAdaptTech",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearchpapers(tier4)",
       "category": "Bee research",
       "defname": "RB_ResearchPapersStoPsy",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearchpapers(tier4)",
       "category": "Bee research",
       "defname": "RB_ResearchPapersAgriSwamp",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearchpapers(tier4)",
       "category": "Bee research",
       "defname": "RB_ResearchPapersPlasAlloy",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearchpapers(tier4)",
       "category": "Bee research",
       "defname": "RB_ResearchPapersAgriWood",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearchpapers(tier5)",
       "category": "Bee research",
       "defname": "RB_ResearchPapersAgriCul",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearchpapers(tier5)",
       "category": "Bee research",
       "defname": "RB_ResearchPapersLuxHigh",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearchpapers(tier5)",
       "category": "Bee research",
       "defname": "RB_ResearchPapersMedTech",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearchpapers(tier5)",
       "category": "Bee research",
       "defname": "RB_ResearchPapersSynthTech",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearchpapers(tier5)",
       "category": "Bee research",
       "defname": "RB_ResearchPapersSynthOily",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearchpapers(tier5)",
       "category": "Bee research",
       "defname": "RB_ResearchPapersElectronicSynthetic",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "beeresearchtable",
@@ -9094,7 +9028,7 @@
       "abr": "microscyther",
       "category": "Animal",
       "defname": "MicroScyther",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "milddrone",
@@ -9466,7 +9400,7 @@
       "abr": "personalshuttle(hovermode)",
       "category": "Animal",
       "defname": "ShuttlePersonalRace",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "petdrone",
@@ -11863,5 +11797,5 @@
       "price": 3333
     }
   ],
-  "total": 1977
+  "total": 1966
 }
