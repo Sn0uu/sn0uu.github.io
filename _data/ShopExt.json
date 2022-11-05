@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -8,9 +8,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -26,7 +26,7 @@
       "name": "nudist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": 0
     },
@@ -93,9 +93,9 @@
         "intimidating",
         "veryintimidating"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -114,7 +114,7 @@
       "name": "kind",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -158,9 +158,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -176,7 +176,7 @@
       "name": "cannibal",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": 0
     },
@@ -212,9 +212,9 @@
       "data": {
         "canBypassLimit": false,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Neutral",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Neutral",
         "conflicts": [
           "kind",
           "charismatic",
@@ -246,7 +246,7 @@
       "name": "abrasive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": 0
     },
@@ -292,7 +292,7 @@
       "name": "toosmart",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -352,9 +352,9 @@
       "conflicts": [
         "wimp"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -370,7 +370,7 @@
       "name": "masochist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -382,9 +382,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -400,8 +400,8 @@
       "name": "nightowl",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 55,
+      "addPrice": 5,
+      "removePrice": 5,
       "degree": 0
     },
     {
@@ -417,13 +417,13 @@
         "naturalleader",
         "philanthropist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "ascetic",
           "jealous",
@@ -440,7 +440,7 @@
       "name": "greedy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -458,9 +458,9 @@
         "philanthropist",
         "magnetic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -482,7 +482,7 @@
       "name": "jealous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -496,9 +496,9 @@
         "jealous",
         "gourmand"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -516,7 +516,7 @@
       "name": "ascetic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -528,9 +528,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -546,8 +546,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 55,
+      "addPrice": 5,
+      "removePrice": 5,
       "degree": 0
     },
     {
@@ -558,9 +558,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -577,7 +577,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 5,
-      "removePrice": 55,
+      "removePrice": 5,
       "degree": 0
     },
     {
@@ -588,9 +588,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -607,7 +607,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 5,
-      "removePrice": 55,
+      "removePrice": 5,
       "degree": 0
     },
     {
@@ -626,9 +626,9 @@
         "veryinspirational",
         "magnetic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -652,7 +652,7 @@
       "name": "annoyingvoice",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -668,9 +668,9 @@
         "veryinspirational",
         "magnetic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -690,7 +690,7 @@
       "name": "creepybreathing",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -751,9 +751,9 @@
         "ironman",
         "lowpaintolerance"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -788,7 +788,7 @@
       "name": "wimp",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -820,7 +820,7 @@
       "name": "nimble",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -918,7 +918,7 @@
       "name": "fastlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -962,9 +962,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -980,7 +980,7 @@
       "name": "undergrounder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": 0
     },
@@ -1010,7 +1010,7 @@
       "name": "bodymodder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -1040,7 +1040,7 @@
       "name": "bodypurist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -1052,13 +1052,13 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -1070,7 +1070,7 @@
       "name": "misandrist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -1082,13 +1082,13 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -1100,7 +1100,7 @@
       "name": "misogynist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -1130,7 +1130,7 @@
       "name": "greatmemory",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -1178,13 +1178,13 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -1196,7 +1196,7 @@
       "name": "torturedartist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -1228,7 +1228,7 @@
       "name": "gourmand",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -1396,9 +1396,9 @@
       "data": {
         "canBypassLimit": false,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -1426,9 +1426,9 @@
       "data": {
         "canBypassLimit": false,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -1440,7 +1440,7 @@
       "name": "chemicalinterest",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 1
     },
@@ -1453,9 +1453,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1472,7 +1472,7 @@
       "name": "teetotaler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": -1
     },
@@ -1574,13 +1574,13 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -1592,7 +1592,7 @@
       "name": "depressive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": -2
     },
@@ -1628,7 +1628,7 @@
       "name": "iron-willed",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 2
     },
@@ -1679,13 +1679,13 @@
         "veryenduring",
         "toosmart"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "enduring",
           "veryenduring",
@@ -1700,7 +1700,7 @@
       "name": "nervous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": -1
     },
@@ -1715,13 +1715,13 @@
         "veryenduring",
         "toosmart"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "enduring",
           "veryenduring",
@@ -1736,7 +1736,7 @@
       "name": "volatile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": -2
     },
@@ -1749,9 +1749,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1768,7 +1768,7 @@
       "name": "neurotic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 1
     },
@@ -1800,7 +1800,7 @@
       "name": "veryneurotic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 2
     },
@@ -1848,7 +1848,7 @@
       "name": "industrious",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 2
     },
@@ -1896,7 +1896,7 @@
       "name": "hardworker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 1
     },
@@ -1917,9 +1917,9 @@
         "coordinated",
         "perfectionist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1944,7 +1944,7 @@
       "name": "lazy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": -1
     },
@@ -2124,9 +2124,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -2142,7 +2142,7 @@
       "name": "beautiful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 2
     },
@@ -2184,13 +2184,13 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -2202,7 +2202,7 @@
       "name": "ugly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": -1
     },
@@ -2262,7 +2262,7 @@
       "name": "super-immune",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 1
     },
@@ -2364,7 +2364,7 @@
       "name": "trigger-happy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": -1
     },
@@ -2432,7 +2432,7 @@
       "name": "xenophobe",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": 1
     },
@@ -2462,7 +2462,7 @@
       "name": "xenophile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": -1
     },
@@ -2474,9 +2474,9 @@
       "conflicts": [
         "ascetic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[KV] Consolidated Traits",
@@ -2492,7 +2492,7 @@
       "name": "aesthete",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": 0
     },
@@ -2536,7 +2536,7 @@
       "name": "animalaficionado",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -2574,7 +2574,7 @@
       "name": "animalabhorrent",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -2672,9 +2672,9 @@
         "coordinated",
         "rockhound"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[KV] Consolidated Traits",
@@ -2694,7 +2694,7 @@
       "name": "claustrophobic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -2707,9 +2707,9 @@
       "conflicts": [
         "heatlover"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[KV] Consolidated Traits",
@@ -2742,9 +2742,9 @@
       "data": {
         "canBypassLimit": false,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "[KV] Consolidated Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -2756,7 +2756,7 @@
       "name": "deepsleeper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -2773,13 +2773,13 @@
         "inventor",
         "savant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "[KV] Consolidated Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "toosmart",
           "fastlearner",
@@ -2796,7 +2796,7 @@
       "name": "dullard",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -2832,7 +2832,7 @@
       "name": "gourmet",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -2845,9 +2845,9 @@
       "conflicts": [
         "coldlover"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[KV] Consolidated Traits",
@@ -2864,7 +2864,7 @@
       "name": "heatlover",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": 0
     },
@@ -2908,13 +2908,13 @@
         "rockhound",
         "savant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "[KV] Consolidated Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Doom",
         "conflicts": [
           "industrious",
           "hardworker",
@@ -3120,7 +3120,7 @@
       "name": "ironman",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 1
     },
@@ -3134,9 +3134,9 @@
         "tough",
         "wimp"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[KV] Consolidated Traits",
@@ -3154,7 +3154,7 @@
       "name": "lowpaintolerance",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": -1
     },
@@ -3173,9 +3173,9 @@
         "coordinated",
         "dunce"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[KV] Consolidated Traits",
@@ -3198,7 +3198,7 @@
       "name": "inventor",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -3218,9 +3218,9 @@
       "data": {
         "canBypassLimit": false,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "[KV] Consolidated Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "carefulshooter",
           "trigger-happy",
@@ -3236,7 +3236,7 @@
       "name": "cranialnervepalsy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": -1
     },
@@ -3293,9 +3293,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[KV] Consolidated Traits",
@@ -3318,7 +3318,7 @@
       "name": "neatfreak",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -3330,13 +3330,13 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "[KV] Consolidated Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -3348,7 +3348,7 @@
       "name": "nibbler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": -1
     },
@@ -3378,7 +3378,7 @@
       "name": "glutton",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": 1
     },
@@ -3476,9 +3476,9 @@
         "inept",
         "coordinated"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[KV] Consolidated Traits",
@@ -3520,7 +3520,7 @@
       "name": "idealist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -3765,13 +3765,13 @@
         "annoyingvoice",
         "creepybreathing"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "[KV] Consolidated Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "abrasive",
           "annoyingvoice",
@@ -3786,7 +3786,7 @@
       "name": "sucker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": -1
     },
@@ -3822,7 +3822,7 @@
       "name": "haggler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 1
     },
@@ -3896,7 +3896,7 @@
       "name": "uncouth",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": -1
     },
@@ -3985,13 +3985,13 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "[KV] Consolidated Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -4004,7 +4004,7 @@
       "name": "weakconstitution",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": -1
     },
@@ -4036,7 +4036,7 @@
       "name": "strongconstitution",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 1
     },
@@ -4074,7 +4074,7 @@
       "name": "brownthumb",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4114,7 +4114,7 @@
       "name": "greenthumb",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4220,7 +4220,7 @@
       "name": "eccentric",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4284,7 +4284,7 @@
       "name": "coward",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4318,7 +4318,7 @@
       "name": "brave",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4332,9 +4332,9 @@
         "deftlydodger",
         "sluggish"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -4352,7 +4352,7 @@
       "name": "clumsy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4364,9 +4364,9 @@
       "conflicts": [
         "coldinclined"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -4382,7 +4382,7 @@
       "name": "heatinclined",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4394,9 +4394,9 @@
       "conflicts": [
         "heatinclined"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -4412,7 +4412,7 @@
       "name": "coldinclined",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4428,9 +4428,9 @@
       "data": {
         "canBypassLimit": false,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -4442,7 +4442,7 @@
       "name": "heavysleeper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4454,9 +4454,9 @@
       "conflicts": [
         "slob"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -4472,7 +4472,7 @@
       "name": "neat",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4540,7 +4540,7 @@
       "name": "workaholic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4552,9 +4552,9 @@
       "conflicts": [
         "squeamish"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -4570,7 +4570,7 @@
       "name": "ironstomach",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4582,9 +4582,9 @@
       "conflicts": [
         "animalhater"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -4600,8 +4600,8 @@
       "name": "animallover",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 55,
+      "addPrice": 500,
+      "removePrice": 5,
       "degree": 0
     },
     {
@@ -4613,9 +4613,9 @@
         "animallover",
         "menagerist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -4632,8 +4632,8 @@
       "name": "animalhater",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 55,
+      "addPrice": 500,
+      "removePrice": 5,
       "degree": 0
     },
     {
@@ -4644,9 +4644,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -4662,7 +4662,7 @@
       "name": "big-boned",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4704,9 +4704,9 @@
       "conflicts": [
         "rebel"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -4722,7 +4722,7 @@
       "name": "submissive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4734,13 +4734,13 @@
       "conflicts": [
         "kind"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "kind"
         ],
@@ -4752,7 +4752,7 @@
       "name": "vengeful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4764,9 +4764,9 @@
       "conflicts": [
         "bodymodder"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -4782,7 +4782,7 @@
       "name": "technophobe",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4794,9 +4794,9 @@
       "conflicts": [
         "anxious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -4812,7 +4812,7 @@
       "name": "fun-loving",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4828,13 +4828,13 @@
         "eccentric",
         "prodigy"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "fastlearner",
           "toosmart",
@@ -4850,7 +4850,7 @@
       "name": "dunce",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4862,9 +4862,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -4954,9 +4954,9 @@
       "conflicts": [
         "fun-loving"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -4972,7 +4972,7 @@
       "name": "anxious",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -4986,9 +4986,9 @@
         "asexual",
         "nudist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5006,7 +5006,7 @@
       "name": "insatiable",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5080,9 +5080,9 @@
       "conflicts": [
         "dogperson"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5098,7 +5098,7 @@
       "name": "catperson",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5110,9 +5110,9 @@
       "conflicts": [
         "catperson"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5128,7 +5128,7 @@
       "name": "dogperson",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5192,7 +5192,7 @@
       "name": "menagerist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5234,9 +5234,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5252,7 +5252,7 @@
       "name": "mountainlover",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5282,7 +5282,7 @@
       "name": "madsurgeon",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5312,7 +5312,7 @@
       "name": "drunkenmaster",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5324,13 +5324,13 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Doom",
         "conflicts": [
 
         ],
@@ -5342,7 +5342,7 @@
       "name": "kleptomaniac",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5393,13 +5393,13 @@
         "teetotaler",
         "lush"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "chemicalfascination",
           "chemicalinterest",
@@ -5457,13 +5457,13 @@
       "conflicts": [
         "heavysleeper"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "heavysleeper"
         ],
@@ -5476,7 +5476,7 @@
       "name": "insomniac",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5518,9 +5518,9 @@
       "conflicts": [
         "squeamish"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5536,7 +5536,7 @@
       "name": "desensitized",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5586,7 +5586,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -5600,7 +5600,7 @@
       "name": "academian",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5636,7 +5636,7 @@
       "name": "groundbreaker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5706,7 +5706,7 @@
       "name": "ecologist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5740,7 +5740,7 @@
       "name": "tycoon",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5770,7 +5770,7 @@
       "name": "thickskinned",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5800,7 +5800,7 @@
       "name": "thinskinned",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5894,13 +5894,13 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Android tiers",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -5912,7 +5912,7 @@
       "name": "mech",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 0
     },
@@ -5950,7 +5950,7 @@
       },
       "defName": "Intolerance",
       "name": "intolerance",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 55,
@@ -5964,9 +5964,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Android tiers",
@@ -5982,7 +5982,7 @@
       "name": "loveshumanity",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 1
     },
@@ -6012,7 +6012,7 @@
       "name": "hateshumanity",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1500,
       "removePrice": 55,
       "degree": 2
     },
@@ -6042,7 +6042,7 @@
       "name": "thrall",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 0
     }

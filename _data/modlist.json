@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "author": "spoonshortage",
     "name": "A Dog Said... Animal Prosthetics",
@@ -104,6 +104,12 @@
   {
     "author": "Roolo",
     "name": "Giddy-up! Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan",
     "steamId": null,
     "version": null
   },

@@ -1,4 +1,4 @@
-﻿{
+{
   "tornado": {
     "EventType": "Default",
     "HasGlobalCooldown": true,
@@ -703,7 +703,7 @@
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
-  "trade": {
+  "tradercaravan": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
