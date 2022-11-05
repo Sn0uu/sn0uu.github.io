@@ -631,9 +631,9 @@
         "stats": [],
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null
+        "karmaTypeForAdding": "Bad"
       },
       "defName": "CreepyBreathing",
       "name": "creepybreathing"
