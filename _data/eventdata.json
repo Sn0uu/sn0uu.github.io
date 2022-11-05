@@ -703,7 +703,7 @@
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
-  "tradercaravan": {
+  "trade": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,

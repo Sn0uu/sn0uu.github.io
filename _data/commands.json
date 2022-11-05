@@ -1124,24 +1124,6 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitAddon - More Stuff"
-    },
-    "description": null,
-    "name": "Clean the Map",
-    "usage": "!cleanup",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "cleanup"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
     "description": "Shows you the complete list of installed mods.",
@@ -1240,23 +1222,5 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "HelloWorld"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitRaids"
-    },
-    "description": null,
-    "name": "joinraid",
-    "usage": "!joinraid",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "JoinRaid"
   }
 ]

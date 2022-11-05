@@ -1,5 +1,17 @@
 [
   {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "10.0.1"
+  },
+  {
     "author": "spoonshortage",
     "name": "A Dog Said... Animal Prosthetics",
     "steamId": null,
@@ -18,10 +30,34 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and Ben Lubar",
+    "name": "Alpha Bees",
+    "steamId": "1558161673",
+    "version": "1.4.8315.17730"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Animal Tab",
+    "steamId": "712141500",
+    "version": "4.7.272"
+  },
+  {
     "author": "Inglix",
     "name": "Apparel Tainted Only When Corpse Rots",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "marcin212",
+    "name": "Architect Icons",
+    "steamId": "1195427067",
+    "version": "1.2.0.0"
   },
   {
     "author": "Razor 2.3",
@@ -36,16 +72,40 @@
     "version": null
   },
   {
+    "author": "Fluffy",
+    "name": "Backup Power",
+    "steamId": "2084493662",
+    "version": "1.10.175"
+  },
+  {
+    "author": "lbmaian",
+    "name": "Begone, Message!",
+    "steamId": "1951637504",
+    "version": "1.7"
+  },
+  {
+    "author": "Madeline",
+    "name": "Better ModMismatch Window",
+    "steamId": "1872244972",
+    "version": "1.1.3"
+  },
+  {
     "author": "TheGoofyOne",
     "name": "Better Spots",
     "steamId": null,
     "version": null
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Bionic icons",
-    "steamId": null,
-    "version": null
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.4.3509.1"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.4.1.0"
   },
   {
     "author": "dhultgren",
@@ -54,10 +114,10 @@
     "version": null
   },
   {
-    "author": "5katz",
-    "name": "Chatting on Comms",
-    "steamId": null,
-    "version": null
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1105.0"
   },
   {
     "author": "Hatti",
@@ -68,6 +128,24 @@
   {
     "author": "TheWireLord",
     "name": "Conduit Deconstruct",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bdew",
+    "name": "Cremate Auto Strip",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spdskatr and CaesarV6",
+    "name": "Damage Indicators [1.4]",
+    "steamId": "2016331497",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Alias",
+    "name": "De-generalize Work",
     "steamId": null,
     "version": null
   },
@@ -90,32 +168,68 @@
     "version": null
   },
   {
-    "author": "Eagle0600",
-    "name": "Dress Patients",
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Everybody Gets One",
+    "steamId": "1687566130",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Hauvega",
-    "name": "Equiums Wall Signs",
-    "steamId": null,
-    "version": null
+    "author": "TheEyeOfBrows",
+    "name": "Fluffy Breakdowns (1.4 Update)",
+    "steamId": "2584064444",
+    "version": "1.1.0"
   },
   {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
-    "steamId": null,
-    "version": null
+    "author": "Fluffy",
+    "name": "Follow Me",
+    "steamId": "715759739",
+    "version": "4.9.95"
   },
   {
-    "author": "Roolo",
-    "name": "Giddy-up! Caravan",
-    "steamId": null,
-    "version": null
+    "author": "Andreas Pardeike",
+    "name": "Goosegun",
+    "steamId": "2137597811",
+    "version": "1.2.0.0"
   },
   {
     "author": "Falconne",
     "name": "Heat Map",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "2.5.0.0"
+  },
+  {
+    "author": "SirKota",
+    "name": "InventoryTab",
     "steamId": null,
     "version": null
   },
@@ -126,22 +240,16 @@
     "version": null
   },
   {
-    "author": "dhultgren",
-    "name": "Keep Bed Ownership",
-    "steamId": null,
-    "version": null
+    "author": "krafs",
+    "name": "Level Up!",
+    "steamId": "1701592470",
+    "version": "4.1.0+6.Branch.main.Sha.4156a5719e52a99c97f2e34e62dc4c28e30ce7b1"
   },
   {
-    "author": "Falconne",
-    "name": "Labels on Floor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "bazoka81",
-    "name": "Lava Lamps",
-    "steamId": null,
-    "version": null
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
   },
   {
     "author": "juanlopez2008",
@@ -150,40 +258,34 @@
     "version": null
   },
   {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
+    "author": "Carny Senpai",
+    "name": "Looting Manager",
+    "steamId": "2002001082",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
-    "steamId": null,
-    "version": null
+    "author": "sumghai",
+    "name": "MedPod",
+    "steamId": "2153065191",
+    "version": "1.5.1"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Map Reroll",
-    "steamId": null,
-    "version": null
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
   },
   {
-    "author": "cucumpear",
-    "name": "Matching Embrasures",
-    "steamId": null,
-    "version": null
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "735241897",
+    "version": "1.0.1.0"
   },
   {
-    "author": "Neceros",
-    "name": "Medicine Expanded (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Alaestor",
-    "name": "Misc. Robots++",
-    "steamId": null,
-    "version": null
+    "author": "erdelf",
+    "name": "MinifyEverything",
+    "steamId": "872762753",
+    "version": "1.0.8333.23023"
   },
   {
     "author": "[KOR]Bichang",
@@ -192,20 +294,56 @@
     "version": null
   },
   {
-    "author": "Doug",
-    "name": "No Job Authors",
-    "steamId": null,
-    "version": null
+    "author": "aardvark",
+    "name": "More visible pause",
+    "steamId": "1736472227",
+    "version": "2.0.0.14"
   },
   {
-    "author": "JBloodthorn",
-    "name": "No Lazy Doctors",
-    "steamId": null,
-    "version": null
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.4.0"
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": "2009825774",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
+    "version": "1.0.0.0"
   },
   {
     "author": "Peppsen",
     "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jecrell and lbmaian",
+    "name": "Doors Expanded",
+    "steamId": "1316188771",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Textures Expanded - Variations",
     "steamId": null,
     "version": null
   },
@@ -234,22 +372,82 @@
     "version": null
   },
   {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.3.0.0.biotech.B4"
+  },
+  {
+    "author": "Andreas Pardeike and BleuSquid",
+    "name": "Puppeteer",
+    "steamId": "2594873651",
+    "version": "1.6.3.0"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.17"
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "2.0.0"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Fuse",
+    "steamId": "728314182",
+    "version": "1.6.0.0"
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Solar Flare Shield",
+    "steamId": "728315620",
+    "version": "1.7.0.0"
+  },
+  {
     "author": "mastertea",
     "name": "RandomPlus",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": null,
-    "version": null
+    "author": "Andreas Pardeike",
+    "name": "Range Finder",
+    "steamId": "1332119637",
+    "version": "2.3.0.0"
   },
   {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
+    "author": "Weilbyte",
+    "name": "RenameColony",
+    "steamId": "1359645236",
+    "version": "0.1.7"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
   },
   {
     "author": "Dakk Passerida",
@@ -258,10 +456,28 @@
     "version": null
   },
   {
-    "author": "Orpheusly",
-    "name": "Rimsential - Homebound",
+    "author": "Reiquard",
+    "name": "Research Info",
+    "steamId": "2290462337",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "RimSaves",
+    "steamId": "1713367505",
+    "version": "2022.0.1.14"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "RimThemes",
+    "steamId": "1668983184",
+    "version": "2021.0.1.7"
   },
   {
     "author": "Roolo and Updated by Ogliss",
@@ -276,16 +492,28 @@
     "version": null
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Set Owner for Prisoner Beds",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "jamaicancastle",
     "name": "Shoo!",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Show Me Your Hands",
+    "steamId": "2475965842",
+    "version": "1.4.1"
+  },
+  {
+    "author": "DarkFlame7",
+    "name": "Signs and Comments",
+    "steamId": "2576219203",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
   },
   {
     "author": "okradonkey",
@@ -294,13 +522,25 @@
     "version": null
   },
   {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": "1504723424",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.8.0"
+  },
+  {
     "author": "ArmoredAmpharos",
     "name": "SnowRats",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Alias, Nandonalt and Tejko",
+    "author": "Nandonalt and Tejko",
     "name": "Snowy Trees",
     "steamId": null,
     "version": null
@@ -312,14 +552,8 @@
     "version": null
   },
   {
-    "author": "zhrock11",
-    "name": "Stackable Chunks [1.3+]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Scurvyez",
-    "name": "StevesWalls",
+    "author": "Sam",
+    "name": "Tilled Soil",
     "steamId": null,
     "version": null
   },
@@ -336,10 +570,22 @@
     "version": null
   },
   {
-    "author": "UpsilonSigmaEta",
-    "name": "USE Do Not Drop Weapon",
-    "steamId": null,
-    "version": null
+    "author": "TimmyLiang",
+    "name": "TradeHelper",
+    "steamId": "2113372560",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "the_heye",
+    "name": "Twitch Chat",
+    "steamId": "2075845400",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MarvinKosh",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.8325.19264"
   },
   {
     "author": "Fisi",
@@ -348,7 +594,7 @@
     "version": null
   },
   {
-    "author": "Nephlite and  Maxim",
+    "author": "Nephlite and Maxim",
     "name": "Utility Columns",
     "steamId": null,
     "version": null
@@ -360,49 +606,43 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Ice Sheet",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki, Erin and Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Endangered",
+    "steamId": "2366589898",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tundra",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Trunken",
+    "author": "Oskar Potocki and Trunken",
     "name": "Vanilla Apparel Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Kikohi",
+    "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Expanded - Royalty Patches",
     "steamId": null,
     "version": null
   },
   {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded - Medical Module",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Trunken",
-    "name": "Vanilla Furniture Expanded - Production",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded - Spacer Module",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Social Interactions Expanded",
+    "steamId": "2439736083",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX and erdelf",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
@@ -432,16 +672,70 @@
     "version": null
   },
   {
-    "author": "Albion",
-    "name": "Xenohumans - Gen-spliced Xenos on the Rim",
+    "author": "Revolus",
+    "name": "What's Missing?",
+    "steamId": "2073082747",
+    "version": "2022.10.21.0"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "1.0.0"
+  },
+  {
+    "author": "民火",
+    "name": "Where is my weapon?",
+    "steamId": "1539028008",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.4.0.5"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0"
+  },
+  {
+    "author": "CodeOptimist",
+    "name": "While You're Up / PUAH+",
+    "steamId": "2034960453",
+    "version": "3.2.1.977"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Work Tab",
+    "steamId": "725219116",
+    "version": "3.21.303"
+  },
+  {
+    "author": "LordKuper",
+    "name": "Work Manager",
+    "steamId": "2029596262",
+    "version": "1.4.0.0"
   },
   {
     "author": "notfood",
     "name": "Yet Another Stockpile Presets",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Colony Manager",
+    "steamId": "715565262",
+    "version": "4.33.649"
   },
   {
     "author": "Ykara (Updated for 1.1 by Ogliss)",
@@ -468,26 +762,14 @@
     "version": null
   },
   {
-    "author": "XeoNovaDan (original) & KiameV (current)",
-    "name": "[KV] Hand 'n' Footwear",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings",
-    "steamId": null,
-    "version": null
+    "author": "Nals",
+    "name": "[NL] Dynamic Portraits",
+    "steamId": "2253730555",
+    "version": "1.0.0.0"
   },
   {
     "author": "Wemd",
     "name": "[WD] Expanded Floors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Wemd",
-    "name": "[WD] Partially-Passable Wind Turbines",
     "steamId": null,
     "version": null
   }
