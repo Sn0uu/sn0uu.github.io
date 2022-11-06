@@ -4,7 +4,7 @@
       "abr": "beer",
       "category": "Drugs",
       "defname": "Beer",
-      "price": -10
+      "price": 80
     },
     {
       "abr": "wort",
@@ -16,55 +16,55 @@
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "go-juice",
       "category": "Drugs",
       "defname": "GoJuice",
-      "price": -10
+      "price": 352
     },
     {
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": -10
+      "price": 468
     },
     {
       "abr": "penoxycyline",
       "category": "Drugs",
       "defname": "Penoxycyline",
-      "price": -10
+      "price": 120
     },
     {
       "abr": "flake",
       "category": "Drugs",
       "defname": "Flake",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": -10
+      "price": 68
     },
     {
       "abr": "yayo",
       "category": "Drugs",
       "defname": "Yayo",
-      "price": -10
+      "price": 140
     },
     {
       "abr": "smokeleafjoint",
       "category": "Drugs",
       "defname": "SmokeleafJoint",
-      "price": -10
+      "price": 72
     },
     {
       "abr": "wake-up",
       "category": "Drugs",
       "defname": "WakeUp",
-      "price": -10
+      "price": 232
     },
     {
       "abr": "archotecheye",
@@ -694,55 +694,55 @@
       "abr": "packagedsurvivalmeal",
       "category": "Meals",
       "defname": "MealSurvivalPack",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "nutrientpastemeal",
       "category": "Meals",
       "defname": "MealNutrientPaste",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "simplemeal",
       "category": "Meals",
       "defname": "MealSimple",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "finemeal",
       "category": "Meals",
       "defname": "MealFine",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "vegetarianfinemeal",
       "category": "Meals",
       "defname": "MealFine_Veg",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "carnivorefinemeal",
       "category": "Meals",
       "defname": "MealFine_Meat",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "lavishmeal",
       "category": "Meals",
       "defname": "MealLavish",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "vegetarianlavishmeal",
       "category": "Meals",
       "defname": "MealLavish_Veg",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "carnivorelavishmeal",
       "category": "Meals",
       "defname": "MealLavish_Meat",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "kibble",
@@ -862,7 +862,7 @@
       "abr": "medicine",
       "category": "Medicine",
       "defname": "MedicineIndustrial",
-      "price": -10
+      "price": 69
     },
     {
       "abr": "glitterworldmedicine",
@@ -928,7 +928,7 @@
       "abr": "corn",
       "category": "Vegetarian",
       "defname": "RawCorn",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "berries",
@@ -2176,7 +2176,7 @@
       "abr": "thrumbomeat",
       "category": "Meat",
       "defname": "Meat_Thrumbo",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "cobrameat",
@@ -5482,7 +5482,7 @@
       "abr": "finehoneymeal",
       "category": "Meals",
       "defname": "RB_FineHoney",
-      "price": -10
+      "price": 37
     },
     {
       "abr": "fireextinguisher",
@@ -5836,7 +5836,7 @@
       "abr": "lavishhoneymeal",
       "category": "Meals",
       "defname": "RB_LavishHoney",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "lever-actionrifle",
@@ -5908,7 +5908,7 @@
       "abr": "mead",
       "category": "Drugs",
       "defname": "RB_Mead",
-      "price": -10
+      "price": 80
     },
     {
       "abr": "meadfermentingbarrel",
@@ -6484,7 +6484,7 @@
       "abr": "simplehoneymeal",
       "category": "Meals",
       "defname": "RB_SimpleHoney",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "sittingcushion",
@@ -6848,7 +6848,7 @@
     },
     {
       "abr": "uprightpiano",
-      "category": "Recreation",
+      "category": "Furniture",
       "defname": "Joy_Piano",
       "price": -10
     },
@@ -6964,12 +6964,6 @@
       "abr": "woolyqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Wooly_Queen",
-      "price": -10
-    },
-    {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
       "price": -10
     },
     {
@@ -7210,7 +7204,13 @@
       "abr": "smallshelf",
       "category": "Furniture",
       "defname": "ShelfSmall",
-      "price": -10
+      "price": 35
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
   "total": 1202

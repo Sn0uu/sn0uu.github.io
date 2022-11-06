@@ -761,7 +761,7 @@
       "name": "nimble"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 55,
@@ -2153,7 +2153,7 @@
       "name": "trigger-happy"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 55,
@@ -2191,7 +2191,7 @@
       "name": "deadshot"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 500,
       "removePrice": 55,
@@ -2213,7 +2213,7 @@
       "name": "xenophobe"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 500,
       "removePrice": 55,
@@ -2235,7 +2235,7 @@
       "name": "xenophile"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 55,
