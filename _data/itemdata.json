@@ -3321,7 +3321,7 @@
   },
   "Silver": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3341,7 +3341,7 @@
   },
   "Gold": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3361,7 +3361,7 @@
   },
   "Steel": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3381,7 +3381,7 @@
   },
   "Plasteel": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3401,7 +3401,7 @@
   },
   "WoodLog": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3421,7 +3421,7 @@
   },
   "Uranium": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3441,7 +3441,7 @@
   },
   "Jade": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,

@@ -904,7 +904,7 @@
       "abr": "potatoes",
       "category": "Vegetarian",
       "defname": "RawPotatoes",
-      "price": -10
+      "price": 82
     },
     {
       "abr": "rawfungus",
@@ -1390,31 +1390,31 @@
       "abr": "sandstoneblocks",
       "category": "Stone blocks",
       "defname": "BlocksSandstone",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "graniteblocks",
       "category": "Stone blocks",
       "defname": "BlocksGranite",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "limestoneblocks",
       "category": "Stone blocks",
       "defname": "BlocksLimestone",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "slateblocks",
       "category": "Stone blocks",
       "defname": "BlocksSlate",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "marbleblocks",
       "category": "Stone blocks",
       "defname": "BlocksMarble",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "breachaxe",
