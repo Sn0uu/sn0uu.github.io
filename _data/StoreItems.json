@@ -748,7 +748,7 @@
       "abr": "kibble",
       "category": "Foods",
       "defname": "Kibble",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "pemmican",
@@ -1042,7 +1042,7 @@
       "abr": "cloth",
       "category": "Textiles",
       "defname": "Cloth",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "synthread",
