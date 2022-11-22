@@ -914,7 +914,7 @@
       "addPrice": 1500,
       "removePrice": 55,
       "degree": 0,
-      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
+      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced with artificial body parts or xenogenetics.",
       "stats": [],
       "conflicts": [
         "bodypurist"
@@ -940,7 +940,7 @@
       "addPrice": 1500,
       "removePrice": 55,
       "degree": 0,
-      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
+      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts and xenogenes are unethical and disgusting.",
       "stats": [],
       "conflicts": [
         "bodymodder"
@@ -1631,7 +1631,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 2500,
       "removePrice": 55,
       "degree": 2,
       "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
@@ -2267,6 +2267,50 @@
       },
       "defName": "AIRobot_BaseTrait",
       "name": "robot"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a rare male Apini, who narrowly escaped death by snoo-snoo.\nDrones have special eyes for spotting queens.",
+      "stats": [
+        "Binging on drug mental state disabled.",
+        "Binging on drug mental state disabled.",
+        "+6 intellectual",
+        "+4 social",
+        "-10% aiming time",
+        "+1.0 shooting accuracy",
+        "+12% mental break threshold",
+        "-50% plant work speed",
+        "-20% trap spring chance",
+        "+10.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Binging on drug mental state disabled.",
+          "Binging on drug mental state disabled.",
+          "+6 intellectual",
+          "+4 social",
+          "-10% aiming time",
+          "+1.0 shooting accuracy",
+          "+12% mental break threshold",
+          "-50% plant work speed",
+          "-20% trap spring chance",
+          "+10.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Apini Playable Race, Continued!",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ApiniDrone",
+      "name": "drone"
     }
   ],
   "races": [
@@ -2291,6 +2335,108 @@
       "enabled": false,
       "name": "human",
       "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+100% Flammability",
+          "+150% Psychic sensitivity",
+          "+20% Toxic resistance",
+          "-5.0C [-9.0F] Minimum comfortable temperature",
+          "+45.0C [81.0F] Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.90 Move speed",
+          "+480 Carrying capacity",
+          "+15% Mental break threshold",
+          "+50% Research speed",
+          "+50% Mining speed",
+          "+75.00% Social impact",
+          "+200% Plant work speed",
+          "+150% Plant harvest yield",
+          "+75% General labor speed",
+          "+150% Construction speed",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Genetically modified giant sentient bee-ings. Originally created by humans as a terraforming bio-tool for the proliferation of angiosperms, these flightless bees are found on countless terraformed rimworlds.\n Apini are often wiped out by the point a planet reaches urbworld status. \n They possess some mamalian DNA, such as complex lung structure. Apini will also happily intergrate themselves into human \"hives\" if they feel like they have purpose.",
+      "defName": "Apini",
+      "enabled": false,
+      "name": "apini",
+      "price": 1667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+200% Psychic sensitivity",
+          "+20% Toxic resistance",
+          "+5.0C [9.0F] Minimum comfortable temperature",
+          "+55.0C [99.0F] Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+$1500 Market value",
+          "+6.00 Move speed",
+          "+200 Carrying capacity",
+          "+12% Mental break threshold",
+          "+50% Research speed",
+          "+150% Mining speed",
+          "+25.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+125% General labor speed",
+          "+150% Construction speed",
+          "+40.0% Armor - Blunt",
+          "+40.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "An azure offshoot of the Apini, Azuri are simple-minded ravenous insectoids with a swarm like structure. They propagate by laying their eggs in hapless Apini, eventually killing the host bee in the process.\nNoone knows where the Azuri originated from, but it is well known how they spread across the rim. Many an urbworld (with a government based on a basic set of ethics) have reached a level of development where the primitive Apini are an obstruction. However removing them would be considered genocide of sapient beings. To circumvent ethical laws, some leaders will stealthily import live Azuri eggs. \nThe Azuri are like wildfire; they will destroy all Apini hives they come across, hunting down any stragglers. Unfortunately, they do not prepare like Apini, often dying of starvation and cold (usually after they run out of to kill).\n\n“No, that's the beautiful part. When wintertime rolls around, the Azuri simply freeze to death”",
+      "defName": "Azuri",
+      "enabled": false,
+      "name": "azuri",
+      "price": 2500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+100% Flammability",
+          "+4.50 Move speed",
+          "+500 Carrying capacity",
+          "+150% Plant work speed",
+          "+130% Plant harvest yield",
+          "+60% General labor speed",
+          "+20.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+150% Psychic sensitivity",
+          "+20% Toxic resistance",
+          "-5.0C [-9.0F] Minimum comfortable temperature",
+          "+45.0C [81.0F] Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+15% Mental break threshold",
+          "+50% Research speed",
+          "+50% Mining speed",
+          "+75.00% Social impact",
+          "+150% Construction speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "What happens if you want to terraform a planet that has very poor or even no soil? What if there are hostile flora and fauna? The Apini terraform and survive by planting and harvesting flowers. You would need to create a race that was better at fighting and able to use an alternate food source.A more hearty alternative for planets where the Apini can't survive long enough to terraform the planet.And so with a slight change to the Apini DNA, splicing in Vulture/Carrior bee genes, the Necropini were born. Stronger and more resistant than normal Apini, and with the ability to make “meat honey”;the Necropini (or Death Bees) were created to terraform worlds that normal Apini would not survive on.",
+      "defName": "Necropini",
+      "enabled": false,
+      "name": "necropini",
+      "price": 1667
     }
   ]
 }

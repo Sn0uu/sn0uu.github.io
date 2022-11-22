@@ -30,6 +30,24 @@
     "version": null
   },
   {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jack7D1",
+    "name": "Apini Playable Race, Continued!",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -78,16 +96,34 @@
     "version": "1.10.175"
   },
   {
+    "author": "SpessCarp",
+    "name": "Beach",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "lbmaian",
     "name": "Begone, Message!",
     "steamId": "1951637504",
     "version": "1.7"
   },
   {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Trading Spot",
+    "steamId": "1180719658",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "TheGoofyOne",
     "name": "Better Spots",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Build From Inventory",
+    "steamId": "1691419062",
+    "version": "1.0.0.0"
   },
   {
     "author": "CrashM",
@@ -112,6 +148,12 @@
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.4.1115.0"
+  },
+  {
+    "author": "5katz",
+    "name": "Chatting on Comms",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hatti",
@@ -152,6 +194,12 @@
   {
     "author": "tikubonn",
     "name": "DontBlockDoor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dracoix",
+    "name": "Door Mat",
     "steamId": null,
     "version": null
   },
@@ -198,12 +246,6 @@
     "version": "4.9.95"
   },
   {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.4.1.1"
-  },
-  {
     "author": "Roolo",
     "name": "Giddy-up! Core",
     "steamId": null,
@@ -226,12 +268,6 @@
     "name": "Heat Map",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
   },
   {
     "author": "Jaxe",
@@ -372,10 +408,22 @@
     "version": null
   },
   {
-    "author": "neitsa",
-    "name": "Prepare Landing",
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.4.0.6"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0"
   },
   {
     "author": "Maltum",
@@ -424,12 +472,6 @@
     "name": "QualityBuilder",
     "steamId": "754637870",
     "version": "1.0.17"
-  },
-  {
-    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
-    "name": "Quarry",
-    "steamId": "2007576583",
-    "version": "2.0.0"
   },
   {
     "author": "Sandy",
@@ -486,6 +528,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "VinaLx and Owlchemist",
+    "name": "ResearchPowl",
+    "steamId": "2877856030",
+    "version": "1.4"
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
@@ -532,6 +580,12 @@
     "name": "Signs and Comments",
     "steamId": "2576219203",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
+    "steamId": "2645100914",
+    "version": "1.4"
   },
   {
     "author": "PeteTimesSix",
@@ -732,36 +786,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "民火",
-    "name": "Where is my weapon?",
-    "steamId": "1539028008",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.4.0.6"
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0"
-  },
-  {
-    "author": "CodeOptimist",
-    "name": "While You're Up / PUAH+",
-    "steamId": "2034960453",
-    "version": "3.2.1.977"
-  },
-  {
     "author": "Fluffy",
     "name": "Work Tab",
     "steamId": "725219116",
@@ -808,12 +832,6 @@
     "name": "[FSF] Filth Vanishes With Rain And Time",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Dynamic Portraits",
-    "steamId": "2253730555",
-    "version": "1.0.0.0"
   },
   {
     "author": "Wemd",
