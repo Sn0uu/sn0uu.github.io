@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 18000,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "tornados",
-		"price": 69000,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -79,11 +69,6 @@
 		"abr": "shortcircuit",
 		"price": 1200,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "toxicfallout",
-		"price": 6500,
-		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
@@ -431,5 +416,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 83
 }
