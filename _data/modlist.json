@@ -135,7 +135,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.5.1.0"
+    "version": "2.5.2.0"
   },
   {
     "author": "dhultgren",
@@ -147,7 +147,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1115.0"
+    "version": "1.4.1121.0"
   },
   {
     "author": "5katz",
@@ -182,6 +182,12 @@
   {
     "author": "Alias",
     "name": "De-generalize Work",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chevreau",
+    "name": "Diagonal Walls 2",
     "steamId": null,
     "version": null
   },
@@ -312,16 +318,28 @@
     "version": null
   },
   {
+    "author": "Smash Phil",
+    "name": "Loading In Progress",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Carny Senpai",
     "name": "Looting Manager",
     "steamId": "2002001082",
     "version": "1.0.0.0"
   },
   {
+    "author": "民火",
+    "name": "Lying Face",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "sumghai",
     "name": "MedPod",
     "steamId": "2153065191",
-    "version": "1.5.4"
+    "version": "1.5.6"
   },
   {
     "author": "Fluffy",
@@ -358,6 +376,12 @@
     "name": "Mortar Accuracy",
     "steamId": "1729446857",
     "version": "1.4.0"
+  },
+  {
+    "author": "alicetries",
+    "name": "MyRoom - I want that (Continued)",
+    "steamId": "2381546712",
+    "version": "1.4.1"
   },
   {
     "author": "Doug",
@@ -417,7 +441,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.4.0.6"
+    "version": "1.4.0.7"
   },
   {
     "author": "Haplo",
@@ -579,7 +603,7 @@
     "author": "Mlie",
     "name": "Show Me Your Hands",
     "steamId": "2475965842",
-    "version": "1.4.2"
+    "version": "1.4.4"
   },
   {
     "author": "DarkFlame7",
@@ -590,8 +614,8 @@
   {
     "author": "Owlchemist",
     "name": "Simple Utilities: Fridge",
-    "steamId": "2645100914",
-    "version": "1.4"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "PeteTimesSix",
@@ -690,6 +714,12 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "Carny Senpai",
+    "name": "Trait Rarity Colors",
+    "steamId": "1751884355",
+    "version": "1.4.0.0"
+  },
+  {
     "author": "the_heye",
     "name": "Twitch Chat",
     "steamId": "2075845400",
@@ -728,6 +758,36 @@
   {
     "author": "Oskar Potocki and Trunken",
     "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha and SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, dninemfive and Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
     "steamId": null,
     "version": null
   },
@@ -826,6 +886,18 @@
     "name": "Harvest Organs Post Mortem",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
   },
   {
     "author": "FrozenSnowFox",
