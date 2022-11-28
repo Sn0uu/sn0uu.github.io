@@ -644,7 +644,7 @@
       "addPrice": 3500,
       "removePrice": 55,
       "degree": 0,
-      "description": "Timmy loves fire. he will never extinguish fires, and will occasionally go on random fire starting sprees. he will be happy around flames, and happier when yielding an incendiary weapon.",
+      "description": "Timmy loves fire. he will never extinguish fires, and will occasionally go on random fire starting sprees. he will be happy around flames, and happier when wielding an incendiary weapon.",
       "stats": [
         "Only mental break \"FireStartingSpree\" allowed."
       ],
@@ -2366,9 +2366,9 @@
       },
       "description": "Genetically modified giant sentient bee-ings. Originally created by humans as a terraforming bio-tool for the proliferation of angiosperms, these flightless bees are found on countless terraformed rimworlds.\n Apini are often wiped out by the point a planet reaches urbworld status. \n They possess some mamalian DNA, such as complex lung structure. Apini will also happily intergrate themselves into human \"hives\" if they feel like they have purpose.",
       "defName": "Apini",
-      "enabled": false,
+      "enabled": true,
       "name": "apini",
-      "price": 1667
+      "price": 6667
     },
     {
       "data": {

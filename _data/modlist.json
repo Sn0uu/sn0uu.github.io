@@ -147,7 +147,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1121.0"
+    "version": "1.4.1122.0"
   },
   {
     "author": "5katz",
@@ -408,6 +408,12 @@
     "version": null
   },
   {
+    "author": "Turnovus",
+    "name": "Packs Are Not Belts",
+    "steamId": "2509511179",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Jecrell and lbmaian",
     "name": "Doors Expanded",
     "steamId": "1316188771",
@@ -441,7 +447,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.4.0.7"
+    "version": "1.4.0.8"
   },
   {
     "author": "Haplo",
@@ -756,24 +762,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and Trunken",
-    "name": "Vanilla Apparel Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, xrushha and SmashPhil",
-    "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, dninemfive and Kikohi",
     "name": "Vanilla Furniture Expanded - Farming",
     "steamId": null,
@@ -810,30 +798,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Non-Lethal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "bodlosh",
     "name": "WeaponStats",
     "steamId": null,
@@ -862,6 +826,12 @@
     "name": "Work Manager",
     "steamId": "2029596262",
     "version": "1.4.0.0"
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Caravan (Continued)",
+    "steamId": "2886919774",
+    "version": "1.4.2"
   },
   {
     "author": "notfood",
