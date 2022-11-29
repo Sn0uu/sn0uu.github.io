@@ -577,9 +577,9 @@
   },
   "passionshuffle": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 120,
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
@@ -703,7 +703,7 @@
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
-  "trade": {
+  "tradercaravan": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,

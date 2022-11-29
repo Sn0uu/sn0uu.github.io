@@ -1450,19 +1450,19 @@
       "abr": "knife",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Knife",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "ikwa",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Ikwa",
-      "price": -10
+      "price": 197
     },
     {
       "abr": "spear",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Spear",
-      "price": -10
+      "price": 322
     },
     {
       "abr": "revolver",
@@ -1576,7 +1576,7 @@
       "abr": "empgrenades",
       "category": "Grenades",
       "defname": "Weapon_GrenadeEMP",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "shortbow",
@@ -1600,7 +1600,7 @@
       "abr": "greatbow",
       "category": "Ranged weapons",
       "defname": "Bow_Great",
-      "price": -10
+      "price": 174
     },
     {
       "abr": "chargerifle",
@@ -6436,13 +6436,13 @@
       "abr": "advancedbionicantenna",
       "category": "Artificial",
       "defname": "ApiniAdvancedBionicAntenna",
-      "price": 583
+      "price": 5830
     },
     {
       "abr": "advancedbionicwing",
       "category": "Artificial",
       "defname": "ApiniAdvancedBionicWing",
-      "price": 667
+      "price": 6670
     },
     {
       "abr": "apini",
@@ -6490,7 +6490,7 @@
       "abr": "apiniroyaljelly",
       "category": "Meals",
       "defname": "ApiniJelly",
-      "price": -10
+      "price": 888
     },
     {
       "abr": "apiniruff",
@@ -6568,13 +6568,13 @@
       "abr": "bionicantenna",
       "category": "Artificial",
       "defname": "ApiniBionicAntenna",
-      "price": 417
+      "price": 4170
     },
     {
       "abr": "bionicwing",
       "category": "Artificial",
       "defname": "ApiniBionicWing",
-      "price": 583
+      "price": 5830
     },
     {
       "abr": "crushermandibles",
@@ -6736,7 +6736,7 @@
       "abr": "honeyglassscythe",
       "category": "Melee weapons",
       "defname": "ApiniScythe",
-      "price": 400
+      "price": 4000
     },
     {
       "abr": "insectantenna",
@@ -6778,7 +6778,7 @@
       "abr": "meathoney",
       "category": "Honey",
       "defname": "NpiniMeatHoney",
-      "price": 4
+      "price": 6
     },
     {
       "abr": "meathoneycapsule",
@@ -7030,13 +7030,13 @@
       "abr": "prostheticantenna",
       "category": "Artificial",
       "defname": "ApiniProstheticAntenna",
-      "price": 250
+      "price": 2500
     },
     {
       "abr": "prostheticwing",
       "category": "Artificial",
       "defname": "ApiniProstheticWing",
-      "price": 250
+      "price": 2500
     },
     {
       "abr": "refrigerator",
