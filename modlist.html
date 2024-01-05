@@ -4,6 +4,14 @@ layout: page
 permalink: /modlist
 ---
 
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+<script>
+  function addDarkmodeWidget() {
+    new Darkmode().showWidget();
+  }
+  window.addEventListener('load', addDarkmodeWidget);
+</script>
+
 <script src="{{- 'assets/js/filter.js' | relative_url -}}"></script>
 <link rel="stylesheet" href="{{- 'assets/css/core.css' | relative_url -}} " />
 <script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
