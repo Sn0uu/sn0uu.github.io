@@ -1,18 +1,18 @@
-﻿{
+{
   "tornado": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 5555,
+    "LocalCooldown": 555,
     "Mod": "Twitch Toolkit"
   },
   "tornados": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 5555,
+    "LocalCooldown": 555,
     "Mod": "Twitch Toolkit"
   },
   "clearweather": {
@@ -184,14 +184,6 @@
     "Mod": "Twitch Toolkit"
   },
   "resourcepodcrash": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Twitch Toolkit"
-  },
-  "tradercaravan": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -448,7 +440,7 @@
     "Mod": "Twitch Toolkit"
   },
   "pawn": {
-    "EventType": "PawnKind",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -464,7 +456,7 @@
     "Mod": "Twitch Toolkit"
   },
   "trait": {
-    "EventType": "Trait",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -472,7 +464,7 @@
     "Mod": "Twitch Toolkit"
   },
   "removetrait": {
-    "EventType": "Trait",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -488,7 +480,7 @@
     "Mod": "Twitch Toolkit"
   },
   "item": {
-    "EventType": "Item",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -576,7 +568,7 @@
     "Mod": "ToolkitUtils"
   },
   "surgery": {
-    "EventType": "Item",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -585,14 +577,14 @@
   },
   "passionshuffle": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 120,
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "replacetrait": {
-    "EventType": "Trait",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -608,7 +600,7 @@
     "Mod": "ToolkitUtils"
   },
   "fullheal": {
-    "EventType": "Variable",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -632,7 +624,7 @@
     "Mod": "ToolkitUtils"
   },
   "backpack": {
-    "EventType": "Item",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -640,7 +632,7 @@
     "Mod": "ToolkitUtils"
   },
   "settraits": {
-    "EventType": "Trait",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -648,7 +640,7 @@
     "Mod": "ToolkitUtils"
   },
   "cleartraits": {
-    "EventType": "Trait",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -656,7 +648,7 @@
     "Mod": "ToolkitUtils"
   },
   "use": {
-    "EventType": "Item",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -664,7 +656,7 @@
     "Mod": "ToolkitUtils"
   },
   "wear": {
-    "EventType": "Item",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -672,7 +664,7 @@
     "Mod": "ToolkitUtils"
   },
   "equip": {
-    "EventType": "Item",
+    "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
@@ -710,5 +702,13 @@
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
+  },
+  "tradercaravan": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit"
   }
 }
