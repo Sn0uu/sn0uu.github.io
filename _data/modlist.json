@@ -1,23 +1,5 @@
 [
   {
-    "author": "Andreas Pardeike",
-    "name": "Harmony",
-    "steamId": "2009463077",
-    "version": "1.5.0.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "10.0.1"
-  },
-  {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Qarsoon Meel",
     "name": "Abilities Cooldown Notification",
     "steamId": null,
@@ -30,88 +12,10 @@
     "version": null
   },
   {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.4.1.1"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Jack7D1",
-    "name": "Apini Playable Race, Continued!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson and Ben Lubar",
-    "name": "Alpha Bees",
-    "steamId": "1558161673",
-    "version": "1.4.8315.17730"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Animal Tab",
-    "steamId": "712141500",
-    "version": "4.7.272"
-  },
-  {
-    "author": "Inglix",
-    "name": "Apparel Tainted Only When Corpse Rots",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "marcin212",
-    "name": "Architect Icons",
-    "steamId": "1195427067",
-    "version": "1.2.0.0"
-  },
-  {
     "author": "Razor 2.3",
     "name": "Auto-Cut Blight",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Ben",
-    "name": "Automatic Night Owl",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Fluffy",
-    "name": "Backup Power",
-    "steamId": "2084493662",
-    "version": "1.10.175"
-  },
-  {
-    "author": "SpessCarp",
-    "name": "Beach",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "lbmaian",
-    "name": "Begone, Message!",
-    "steamId": "1951637504",
-    "version": "1.7"
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Trading Spot",
-    "steamId": "1180719658",
-    "version": "1.0.0.0"
   },
   {
     "author": "TheGoofyOne",
@@ -120,22 +24,10 @@
     "version": null
   },
   {
-    "author": "Uuugggg",
-    "name": "Build From Inventory",
-    "steamId": "1691419062",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "CrashM",
-    "name": "CM Color Coded Mood Bar [1.1+]",
-    "steamId": "2006605356",
-    "version": "1.4.3509.1"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Camera+",
-    "steamId": "867467808",
-    "version": "2.5.2.0"
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "dhultgren",
@@ -144,44 +36,8 @@
     "version": null
   },
   {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.4.1122.0"
-  },
-  {
     "author": "5katz",
     "name": "Chatting on Comms",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hatti",
-    "name": "CleaningArea",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "TheWireLord",
-    "name": "Conduit Deconstruct",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "bdew",
-    "name": "Cremate Auto Strip",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Spdskatr and CaesarV6",
-    "name": "Damage Indicators [1.4]",
-    "steamId": "2016331497",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Alias",
-    "name": "De-generalize Work",
     "steamId": null,
     "version": null
   },
@@ -199,13 +55,7 @@
   },
   {
     "author": "tikubonn",
-    "name": "DontBlockDoor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dracoix",
-    "name": "Door Mat",
+    "name": "Don't Block Door",
     "steamId": null,
     "version": null
   },
@@ -216,70 +66,22 @@
     "version": null
   },
   {
-    "author": "Carny Senpai",
-    "name": "Enable Oversized Weapons",
-    "steamId": "2543371889",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Falconne",
-    "name": "Better Workbench Management",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Everybody Gets One",
-    "steamId": "1687566130",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Kosaro",
     "name": "Fahrenheit and Celsius",
     "steamId": null,
     "version": null
   },
   {
-    "author": "TheEyeOfBrows",
-    "name": "Fluffy Breakdowns (1.4 Update)",
-    "steamId": "2584064444",
-    "version": "1.1.3"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Follow Me",
-    "steamId": "715759739",
-    "version": "4.9.95"
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
+    "author": "Ykara (Updated for 1.1 by Ogliss)",
+    "name": "Harvest Everything!",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Caravan",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Goosegun",
-    "steamId": "2137597811",
-    "version": "1.2.0.0"
   },
   {
     "author": "Falconne",
-    "name": "Heat Map",
+    "name": "Heat Map (Continued)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Jaxe",
-    "name": "Interaction Bubbles",
-    "steamId": "1516158345",
-    "version": "2.5.0.0"
   },
   {
     "author": "SirKota",
@@ -288,46 +90,10 @@
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Just Ignore Me Passing",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Falconne",
-    "name": "Labels on Floor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "krafs",
-    "name": "Level Up!",
-    "steamId": "1701592470",
-    "version": "4.1.0+6.Branch.main.Sha.4156a5719e52a99c97f2e34e62dc4c28e30ce7b1"
-  },
-  {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "juanlopez2008",
     "name": "LightsOut",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Loading In Progress",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Carny Senpai",
-    "name": "Looting Manager",
-    "steamId": "2002001082",
-    "version": "1.0.0.0"
   },
   {
     "author": "民火",
@@ -336,98 +102,8 @@
     "version": null
   },
   {
-    "author": "sumghai",
-    "name": "MedPod",
-    "steamId": "2153065191",
-    "version": "1.5.6"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Medical Tab",
-    "steamId": "715565817",
-    "version": "3.4.91"
-  },
-  {
-    "author": "NotFood",
-    "name": "MendAndRecycle",
-    "steamId": "735241897",
-    "version": "1.0.1.0"
-  },
-  {
-    "author": "erdelf",
-    "name": "MinifyEverything",
-    "steamId": "872762753",
-    "version": "1.0.8333.23023"
-  },
-  {
-    "author": "[KOR]Bichang",
-    "name": "More Sculpture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "aardvark",
-    "name": "More visible pause",
-    "steamId": "1736472227",
-    "version": "2.0.0.14"
-  },
-  {
-    "author": "Hob Took",
-    "name": "Mortar Accuracy",
-    "steamId": "1729446857",
-    "version": "1.4.0"
-  },
-  {
-    "author": "alicetries",
-    "name": "MyRoom - I want that (Continued)",
-    "steamId": "2381546712",
-    "version": "1.4.1"
-  },
-  {
-    "author": "Doug",
-    "name": "No Job Authors",
-    "steamId": "2009825774",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Mehni",
-    "name": "Numbers",
-    "steamId": "1414302321",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Ogre",
-    "name": "OgreStack",
-    "steamId": "1447140290",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Peppsen",
     "name": "P-Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Turnovus",
-    "name": "Packs Are Not Belts",
-    "steamId": "2509511179",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Jecrell and lbmaian",
-    "name": "Doors Expanded",
-    "steamId": "1316188771",
-    "version": "1.4.1.1"
-  },
-  {
-    "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Vanilla Textures Expanded - Variations",
     "steamId": null,
     "version": null
   },
@@ -436,30 +112,6 @@
     "name": "Perspective: Doors",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Fluffy",
-    "name": "Pharmacist",
-    "steamId": "1365242717",
-    "version": "2.9.140"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.4.0.8"
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0"
   },
   {
     "author": "Maltum",
@@ -474,118 +126,16 @@
     "version": null
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.B4"
-  },
-  {
-    "author": "Andreas Pardeike and BleuSquid",
-    "name": "Puppeteer",
-    "steamId": "2594873651",
-    "version": "1.6.3.0"
-  },
-  {
-    "author": "legodude17",
-    "name": "Quality Colors",
-    "steamId": "2420141361",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Hatti",
-    "name": "QualityBuilder",
-    "steamId": "754637870",
-    "version": "1.0.17"
-  },
-  {
-    "author": "Sandy",
-    "name": "RPG Style Inventory Revamped",
-    "steamId": "2478833213",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Ratys",
-    "name": "RT Fuse",
-    "steamId": "728314182",
-    "version": "1.6.0.0"
-  },
-  {
-    "author": "Ratys",
-    "name": "RT Solar Flare Shield",
-    "steamId": "728315620",
-    "version": "1.7.0.0"
-  },
-  {
     "author": "mastertea",
     "name": "RandomPlus",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Range Finder",
-    "steamId": "1332119637",
-    "version": "2.3.0.0"
-  },
-  {
-    "author": "Mlie",
-    "name": "Realistic Human Sounds (Continued)",
-    "steamId": "2013191418",
-    "version": "1.4.2"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
-    "version": "1.1.0.0"
-  },
-  {
     "author": "Dakk Passerida",
     "name": "Replantable Anima Trees",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Reiquard",
-    "name": "Research Info",
-    "steamId": "2290462337",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "VinaLx and Owlchemist",
-    "name": "ResearchPowl",
-    "steamId": "2877856030",
-    "version": "1.4"
-  },
-  {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "aRandomKiwi",
-    "name": "RimSaves",
-    "steamId": "1713367505",
-    "version": "2022.0.1.14"
-  },
-  {
-    "author": "aRandomKiwi",
-    "name": "RimThemes",
-    "steamId": "1668983184",
-    "version": "2021.0.1.7"
   },
   {
     "author": "Roolo and Updated by Ogliss",
@@ -606,46 +156,16 @@
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Show Me Your Hands",
-    "steamId": "2475965842",
-    "version": "1.4.4"
-  },
-  {
-    "author": "DarkFlame7",
-    "name": "Signs and Comments",
-    "steamId": "2576219203",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Owlchemist",
     "name": "Simple Utilities: Fridge",
     "steamId": null,
     "version": null
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": "927155256",
-    "version": "1.4.6.0"
-  },
-  {
     "author": "okradonkey",
     "name": "Single Plant Texture Patch (Continued)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Sarg",
-    "name": "Smart Speed",
-    "steamId": "1504723424",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Weilbyte",
-    "name": "Snap Out!",
-    "steamId": "1319782555",
-    "version": "0.8.1"
   },
   {
     "author": "ArmoredAmpharos",
@@ -660,28 +180,10 @@
     "version": null
   },
   {
-    "author": "crazedmonkey231",
-    "name": "Spread The Word",
-    "steamId": "2829387657",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Linkolas",
     "name": "Stabilize",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "zhrock11",
-    "name": "Stackable Chunks [1.4+]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sparr",
-    "name": "TicksPerSecond",
-    "steamId": "2231840984",
-    "version": "1.0.0.0"
   },
   {
     "author": "Sam",
@@ -696,106 +198,10 @@
     "version": null
   },
   {
-    "author": "Hodlhodl and Saschahi",
-    "name": "ToolkitExt",
-    "steamId": "2824222570",
-    "version": "1.1.1.3"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "2091359241",
-    "version": "1.0.5.0"
-  },
-  {
     "author": "Smash Phil",
     "name": "Trade Ships Drop Spot",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "TimmyLiang",
-    "name": "TradeHelper",
-    "steamId": "2113372560",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Carny Senpai",
-    "name": "Trait Rarity Colors",
-    "steamId": "1751884355",
-    "version": "1.4.0.0"
-  },
-  {
-    "author": "the_heye",
-    "name": "Twitch Chat",
-    "steamId": "2075845400",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "MarvinKosh",
-    "name": "Ugh You Got Me",
-    "steamId": "1542424705",
-    "version": "1.0.8325.19264"
-  },
-  {
-    "author": "Fisi",
-    "name": "Underground Wires",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nephlite and Maxim",
-    "name": "Utility Columns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Utility Hands",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Erin and Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Endangered",
-    "steamId": "2366589898",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, dninemfive and Kikohi",
-    "name": "Vanilla Furniture Expanded - Farming",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded - Medical Module",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Trunken",
-    "name": "Vanilla Furniture Expanded - Production",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded - Spacer Module",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Social Interactions Expanded",
-    "steamId": "2439736083",
-    "version": "1.0.0.1"
-  },
-  {
-    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX and erdelf",
-    "name": "Vanilla Textures Expanded",
-    "steamId": "2016436324",
-    "version": "1.0.0"
   },
   {
     "author": "bodlosh",
@@ -804,70 +210,10 @@
     "version": null
   },
   {
-    "author": "Revolus",
-    "name": "What's Missing?",
-    "steamId": "2073082747",
-    "version": "2022.10.21.0"
-  },
-  {
-    "author": "Epicguru (James B)",
-    "name": "What's That Mod",
-    "steamId": "2258431182",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Work Tab",
-    "steamId": "725219116",
-    "version": "3.21.303"
-  },
-  {
-    "author": "LordKuper",
-    "name": "Work Manager",
-    "steamId": "2029596262",
-    "version": "1.4.0.0"
-  },
-  {
-    "author": "YAYO",
-    "name": "Yayo's Caravan (Continued)",
-    "steamId": "2886919774",
-    "version": "1.4.2"
-  },
-  {
     "author": "notfood",
     "name": "Yet Another Stockpile Presets",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Fluffy",
-    "name": "Colony Manager",
-    "steamId": "715565262",
-    "version": "4.33.649"
-  },
-  {
-    "author": "Ykara (Updated for 1.1 by Ogliss)",
-    "name": "Harvest Everything!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Smuffle",
-    "name": "Harvest Organs Post Mortem",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and XeoNovaDan",
-    "name": "Vanilla Furniture Expanded - Security",
-    "steamId": "1845154007",
-    "version": "1.1.1.0"
   },
   {
     "author": "FrozenSnowFox",

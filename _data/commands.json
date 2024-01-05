@@ -210,7 +210,7 @@
     },
     "description": null,
     "name": "Join queue",
-    "usage": "!join",
+    "usage": "!joinqueue",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "JoinQueue"
@@ -1128,7 +1128,7 @@
     },
     "description": "Shows you the complete list of installed mods.",
     "name": "Installed mods",
-    "usage": "!rwmods",
+    "usage": "!installedmods",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "InstalledMods"
@@ -1222,23 +1222,5 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "HelloWorld"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitRaids"
-    },
-    "description": null,
-    "name": "joinraid",
-    "usage": "!joinraid",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "JoinRaid"
   }
 ]
