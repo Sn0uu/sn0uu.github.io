@@ -1,3 +1,26 @@
+/* Base theme styles */
+body {
+  --bg-color: #fff; /* Light background color */
+  --text-color: #000; /* Light text color */
+  /* ... other light theme variables ... */
+}
+
+/* Dark theme styles */
+@media (prefers-color-scheme: dark) {
+  body {
+    --bg-color: #000; /* Dark background color */
+    --text-color: #fff; /* Dark text color */
+    /* ... other dark theme variables ... */
+  }
+}
+
+/* Usage of the CSS variables */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  /* ... apply variables elsewhere as needed ... */
+}
+
 .tab {
     overflow: hidden;
     border: 1px solid #cccccc;
