@@ -2,27 +2,27 @@
 	"incitems" : [
 	{
 		"abr": "clearweather",
-		"price": 400,
+		"price": 1400,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "rain",
-		"price": 350,
+		"price": 1350,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
+		"price": 1650,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "foggyrain",
-		"price": 300,
+		"price": 1500,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rainythunderstorm",
-		"price": 250,
+		"price": 2250,
 		"karmatype": "Neutral"
 	},
 	{
@@ -37,42 +37,42 @@
 	},
 	{
 		"abr": "fog",
-		"price": 300,
+		"price": 1500,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "heatwave",
-		"price": 750,
+		"price": 1750,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "eclipse",
-		"price": 450,
+		"price": 3456,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "aurora",
-		"price": 200,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 2700,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
+		"price": 4150,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "resourcepodcrash",
-		"price": 300,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -82,12 +82,12 @@
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 350,
+		"price": 2350,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 5150,
 		"karmatype": "Bad"
 	},
 	{
@@ -97,22 +97,22 @@
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
+		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicsoothe",
-		"price": 250,
+		"price": 1250,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 150,
+		"price": 3150,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "herdmigration",
-		"price": 200,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -127,7 +127,7 @@
 	},
 	{
 		"abr": "shipchunkdrop",
-		"price": 300,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -137,17 +137,17 @@
 	},
 	{
 		"abr": "visitorgroup",
-		"price": 200,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "skillincrease",
-		"price": 200,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "party",
-		"price": 400,
+		"price": 1400,
 		"karmatype": "Good"
 	},
 	{
@@ -162,7 +162,7 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
+		"price": 2501,
 		"karmatype": "Bad"
 	},
 	{
@@ -192,12 +192,12 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 50,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "item",
-		"price": 50,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -212,7 +212,7 @@
 	},
 	{
 		"abr": "randominspire",
-		"price": 450,
+		"price": 1450,
 		"karmatype": "Good"
 	},
 	{
@@ -226,28 +226,18 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reviveall",
-		"price": 22664,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "reviveme",
 		"price": 8888,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 1800,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -267,12 +257,12 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 1200,
+		"price": 800,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -312,12 +302,12 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 1000,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
-		"price": 1000,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -326,5 +316,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 65
+	"total": 63
 }
