@@ -48,6 +48,10 @@ title: Snow's Store
 {%- endfor -%}
 
 <div class="tab">
+    {%- if kindsForDisplay.size > 0 -%}
+        {%- include tab.html id='kinds' -%}
+    {%- endif -%}
+    
     {%- if itemsForDisplay.size > 0 -%}
         {%- include tab.html id='items' -%}
     {%- endif -%}
@@ -66,10 +70,6 @@ title: Snow's Store
 
     {%- if traitsForDisplay.size > 0 -%}
         {%- include tab.html id='traits' -%}
-    {%- endif -%}
-
-    {%- if kindsForDisplay.size > 0 -%}
-        {%- include tab.html id='kinds' -%}
     {%- endif -%}
 </div>
 
