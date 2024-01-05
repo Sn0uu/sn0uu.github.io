@@ -8,6 +8,8 @@ title: Snow's Store
 <script src="{{- 'assets/js/filter.js' | relative_url -}}"></script>
 <script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
 
+<button id="theme-toggle">Toggle Dark Mode</button>
+
 {%- assign itemsForDisplay = '' | split: ',' -%}
 {%- assign eventsForDisplay = site.data.StoreIncidents.incitems | where_exp: "incident", "incident.price > 0" | sort: "abr" -%}
 {%- assign animalsForDisplay = site.data.StoreItems.items | where: "category", "Animal" | where_exp: "animal", "animal.price > 0" | sort: "abr" -%}
