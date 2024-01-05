@@ -38,7 +38,7 @@ permalink: /modlist
         </thead>
 
         <tbody>
-            <strong>{{- site.data.modlist | size -}} mods</strong>
+            <strong><span id="modcount">{{- site.data.modlist | size -}}</span>&nbsp; mods</strong>
             {%- for mod in site.data.modlist -%}
                 {%- capture link -%}
                     {%- if mod.steamId == nil or mod.steamId == "" or mod.steamId == "0" -%}
