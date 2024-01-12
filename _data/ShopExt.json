@@ -2153,7 +2153,7 @@
       "name": "trigger-happy"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 5000,
       "removePrice": 55,

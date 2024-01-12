@@ -266,9 +266,9 @@
   "wildman": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 9999999,
     "Mod": "Twitch Toolkit"
   },
   "rarethrumbos": {
