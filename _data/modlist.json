@@ -1,19 +1,7 @@
 [
   {
-    "author": "Qarsoon Meel",
-    "name": "Abilities Cooldown Notification",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Razor 2.3",
-    "name": "Auto-Cut Blight",
+    "author": "Inglix",
+    "name": "Apparel Tainted Only When Corpse Rots",
     "steamId": null,
     "version": null
   },
@@ -24,38 +12,20 @@
     "version": null
   },
   {
-    "author": "Falconne",
-    "name": "Better Workbench Management",
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
     "steamId": null,
     "version": null
   },
   {
-    "author": "dhultgren",
-    "name": "Change Caravan Loadout",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "5katz",
-    "name": "Chatting on Comms",
+    "author": "Alias",
+    "name": "De-generalize Work",
     "steamId": null,
     "version": null
   },
   {
     "author": "Chevreau",
     "name": "Diagonal Walls 2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mehni",
-    "name": "Dismiss Trader (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "tikubonn",
-    "name": "Don't Block Door",
     "steamId": null,
     "version": null
   },
@@ -84,8 +54,8 @@
     "version": null
   },
   {
-    "author": "SirKota",
-    "name": "InventoryTab",
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
     "steamId": null,
     "version": null
   },
@@ -96,8 +66,14 @@
     "version": null
   },
   {
-    "author": "民火",
-    "name": "Lying Face",
+    "author": "Papymaj5",
+    "name": "No Debris",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vesper",
+    "name": "Not My Fault",
     "steamId": null,
     "version": null
   },
@@ -108,44 +84,14 @@
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Perspective: Doors",
+    "author": "Zylle",
+    "name": "Sand Castles",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Maltum",
-    "name": "Prestige Specialist Armours",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Madara Uchiha",
-    "name": "Prisoners Need Recruiting",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "mastertea",
-    "name": "RandomPlus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dakk Passerida",
-    "name": "Replantable Anima Trees",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo and Updated by Ogliss",
-    "name": "RunAndGun",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Search and Destroy",
+    "author": "AUTOMATIC",
+    "name": "Set Owner for Prisoner Beds",
     "steamId": null,
     "version": null
   },
@@ -156,26 +102,8 @@
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Simple Utilities: Fridge",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "okradonkey",
     "name": "Single Plant Texture Patch (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ArmoredAmpharos",
-    "name": "SnowRats",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nandonalt and Tejko",
-    "name": "Snowy Trees",
     "steamId": null,
     "version": null
   },
@@ -186,20 +114,20 @@
     "version": null
   },
   {
-    "author": "Sam",
-    "name": "Tilled Soil",
+    "author": "Meow",
+    "name": "Tradable Meals",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Proxyer",
-    "name": "Tiny Table",
+    "author": "Meow",
+    "name": "Tradable Stone Blocks",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Smash Phil",
-    "name": "Trade Ships Drop Spot",
+    "author": "Janson",
+    "name": "Weapon Tech",
     "steamId": null,
     "version": null
   },
@@ -210,8 +138,8 @@
     "version": null
   },
   {
-    "author": "notfood",
-    "name": "Yet Another Stockpile Presets",
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
     "steamId": null,
     "version": null
   },
@@ -228,8 +156,8 @@
     "version": null
   },
   {
-    "author": "Wemd",
-    "name": "[WD] Expanded Floors",
+    "author": "FrozenSnowFox",
+    "name": "[FSF] No Default Shelf Storage",
     "steamId": null,
     "version": null
   }
