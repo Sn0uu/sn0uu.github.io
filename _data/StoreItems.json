@@ -25,12 +25,6 @@
       "price": 4
     },
     {
-      "abr": "aimanager",
-      "category": "Production",
-      "defname": "FM_AIManager",
-      "price": 15666
-    },
-    {
       "abr": "alpaca",
       "category": "Animals",
       "defname": "Alpaca",
@@ -67,298 +61,130 @@
       "price": 50
     },
     {
-      "abr": "ancientairconditioner",
-      "category": "Misc",
-      "defname": "AncientAirConditioner",
-      "price": 2
-    },
-    {
-      "abr": "ancientatm",
-      "category": "Misc",
-      "defname": "AncientATM",
-      "price": 2
-    },
-    {
       "abr": "ancientbarrel",
       "category": "Misc",
       "defname": "AncientBarrel",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientbed",
       "category": "Misc",
       "defname": "AncientBed",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "ancientcommsconsole",
       "category": "Misc",
       "defname": "AncientCommsConsole",
-      "price": 24
+      "price": -10
     },
     {
       "abr": "ancientconcretebarrier",
       "category": "Misc",
       "defname": "AncientConcreteBarrier",
-      "price": 102
-    },
-    {
-      "abr": "ancientcontainer",
-      "category": "Misc",
-      "defname": "AncientContainer",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientcrate",
       "category": "Misc",
       "defname": "AncientCrate",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "ancientcryptosleepcasket",
       "category": "Misc",
       "defname": "AncientCryptosleepCasket",
-      "price": 1234
+      "price": -10
     },
     {
       "abr": "ancientdisplaybank",
       "category": "Misc",
       "defname": "AncientDisplayBank",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "ancientenemyterminal",
       "category": "Misc",
       "defname": "AncientEnemyTerminal",
-      "price": 12
-    },
-    {
-      "abr": "ancientengineblock",
-      "category": "Misc",
-      "defname": "AncientRustedEngineBlock",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientequipmentblocks",
       "category": "Misc",
       "defname": "AncientEquipmentBlocks",
-      "price": 24
-    },
-    {
-      "abr": "ancientfence",
-      "category": "Misc",
-      "defname": "AncientFence",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientgenerator",
       "category": "Misc",
       "defname": "AncientGenerator",
-      "price": 2
-    },
-    {
-      "abr": "ancientgiantwheel",
-      "category": "Misc",
-      "defname": "AncientGiantWheel",
-      "price": 2
-    },
-    {
-      "abr": "ancienthydrant",
-      "category": "Misc",
-      "defname": "AncientHydrant",
-      "price": 2
-    },
-    {
-      "abr": "ancientkitchensink",
-      "category": "Misc",
-      "defname": "AncientKitchenSink",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientlamppost",
       "category": "Misc",
       "defname": "AncientLamppost",
-      "price": 100
-    },
-    {
-      "abr": "ancientlargecrate",
-      "category": "Misc",
-      "defname": "AncientLargeCrate",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientlockerbank",
       "category": "Misc",
       "defname": "AncientLockerBank",
-      "price": 10
-    },
-    {
-      "abr": "ancientlongcrate",
-      "category": "Misc",
-      "defname": "AncientLongCrate",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientmachine",
       "category": "Misc",
       "defname": "AncientMachine",
-      "price": 36
-    },
-    {
-      "abr": "ancientmechdropbeacon",
-      "category": "Misc",
-      "defname": "AncientMechDropBeacon",
-      "price": 2
-    },
-    {
-      "abr": "ancientmega-cannonbarrel",
-      "category": "Misc",
-      "defname": "AncientMegaCannonBarrel",
-      "price": 2
-    },
-    {
-      "abr": "ancientmega-cannonplatform",
-      "category": "Misc",
-      "defname": "AncientMegaCannonTripod",
-      "price": 2
-    },
-    {
-      "abr": "ancientmicrowave",
-      "category": "Misc",
-      "defname": "AncientMicrowave",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientmilitarycrate",
       "category": "Misc",
       "defname": "AncientMilitaryCrate",
-      "price": 4
-    },
-    {
-      "abr": "ancientnavbeacon",
-      "category": "Misc",
-      "defname": "AncientShipBeacon",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientoperatingtable",
       "category": "Misc",
       "defname": "AncientOperatingTable",
-      "price": 2
-    },
-    {
-      "abr": "ancientoven",
-      "category": "Misc",
-      "defname": "AncientOven",
-      "price": 2
-    },
-    {
-      "abr": "ancientpipes",
-      "category": "Misc",
-      "defname": "AncientPipes",
-      "price": 2
-    },
-    {
-      "abr": "ancientpostbox",
-      "category": "Misc",
-      "defname": "AncientPostbox",
-      "price": 2
-    },
-    {
-      "abr": "ancientrazorwire",
-      "category": "Misc",
-      "defname": "AncientRazorWire",
-      "price": 2
-    },
-    {
-      "abr": "ancientrefrigerator",
-      "category": "Misc",
-      "defname": "AncientRefrigerator",
-      "price": 2
-    },
-    {
-      "abr": "ancientsecurityturret",
-      "category": "Misc",
-      "defname": "AncientSecurityTurret",
-      "price": 2
-    },
-    {
-      "abr": "ancientshoppingcart",
-      "category": "Misc",
-      "defname": "AncientShoppingCart",
-      "price": 2
-    },
-    {
-      "abr": "ancientsmallcrate",
-      "category": "Misc",
-      "defname": "AncientSmallCrate",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientspacercrate",
       "category": "Misc",
       "defname": "AncientSpacerCrate",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "ancientstoragecylinder",
       "category": "Misc",
       "defname": "AncientStorageCylinder",
-      "price": 24
-    },
-    {
-      "abr": "ancientstove",
-      "category": "Misc",
-      "defname": "AncientStove",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientsystemrack",
       "category": "Misc",
       "defname": "AncientSystemRack",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "ancientterminal",
       "category": "Misc",
       "defname": "AncientTerminal_Worshipful",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "ancientterminal",
       "category": "Misc",
       "defname": "AncientTerminal",
-      "price": 12
-    },
-    {
-      "abr": "ancienttoilet",
-      "category": "Misc",
-      "defname": "AncientToilet",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientunstablefuelnode",
       "category": "Misc",
       "defname": "AncientFuelNode",
-      "price": 36
-    },
-    {
-      "abr": "ancientvendingmachine",
-      "category": "Misc",
-      "defname": "AncientVendingMachine",
-      "price": 2
-    },
-    {
-      "abr": "ancientwashingmachine",
-      "category": "Misc",
-      "defname": "AncientWashingMachine",
-      "price": 2
-    },
-    {
-      "abr": "ancientwheel",
-      "category": "Misc",
-      "defname": "AncientWheel",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "animalbed",
@@ -370,7 +196,7 @@
       "abr": "animalflap",
       "category": "Misc",
       "defname": "AnimalFlap",
-      "price": 176
+      "price": -10
     },
     {
       "abr": "animalsleepingbox",
@@ -406,19 +232,19 @@
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": 9334
+      "price": -10
     },
     {
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": 9334
+      "price": -10
     },
     {
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": 9334
+      "price": -10
     },
     {
       "abr": "arcticfox",
@@ -457,12 +283,6 @@
       "price": 4916
     },
     {
-      "abr": "arrowsign",
-      "category": "Misc",
-      "defname": "SignArrow_Wood",
-      "price": 40
-    },
-    {
       "abr": "artbench",
       "category": "Production",
       "defname": "TableSculpting",
@@ -470,7 +290,7 @@
     },
     {
       "abr": "assaultrifle",
-      "category": "Ranged weapons",
+      "category": "Rifles",
       "defname": "Gun_AssaultRifle",
       "price": 1600
     },
@@ -496,7 +316,7 @@
       "abr": "autocleaner",
       "category": "Items",
       "defname": "AutocleanerItem",
-      "price": 1184
+      "price": 2468
     },
     {
       "abr": "autodoor",
@@ -506,7 +326,7 @@
     },
     {
       "abr": "autopistol",
-      "category": "Ranged weapons",
+      "category": "Pistols",
       "defname": "Gun_Autopistol",
       "price": 464
     },
@@ -517,22 +337,10 @@
       "price": 418
     },
     {
-      "abr": "backuppowercontrolbox",
-      "category": "Misc",
-      "defname": "BackupPower_Attachment",
-      "price": 358
-    },
-    {
       "abr": "barricade",
       "category": "Misc",
       "defname": "Barricade",
       "price": 38
-    },
-    {
-      "abr": "basicmanagerdesk",
-      "category": "Production",
-      "defname": "FM_BasicManagerStation",
-      "price": 524
     },
     {
       "abr": "battery",
@@ -587,18 +395,6 @@
       "category": "Vegetarian",
       "defname": "RawBerries",
       "price": 4
-    },
-    {
-      "abr": "bigshelf",
-      "category": "Furniture",
-      "defname": "LWM_BigShelf",
-      "price": 514
-    },
-    {
-      "abr": "billboard",
-      "category": "Misc",
-      "defname": "SignBillboard",
-      "price": 950
     },
     {
       "abr": "billiardstable",
@@ -704,7 +500,7 @@
     },
     {
       "abr": "bolt-actionrifle",
-      "category": "Ranged weapons",
+      "category": "Rifles",
       "defname": "Gun_BoltActionRifle",
       "price": 850
     },
@@ -805,12 +601,6 @@
       "price": 332
     },
     {
-      "abr": "cairn",
-      "category": "Misc",
-      "defname": "SignCairn",
-      "price": 100
-    },
-    {
       "abr": "camelhide",
       "category": "Leathers",
       "defname": "Leather_Camel",
@@ -826,7 +616,7 @@
       "abr": "cannibalplatter",
       "category": "Misc",
       "defname": "CannibalPlatter",
-      "price": 440
+      "price": -10
     },
     {
       "abr": "cape",
@@ -908,7 +698,7 @@
     },
     {
       "abr": "chainshotgun",
-      "category": "Ranged weapons",
+      "category": "Shotguns",
       "defname": "Gun_ChainShotgun",
       "price": 1350
     },
@@ -920,13 +710,13 @@
     },
     {
       "abr": "chargelance",
-      "category": "Ranged weapons",
+      "category": "Rifles",
       "defname": "Gun_ChargeLance",
       "price": 4516
     },
     {
       "abr": "chargerifle",
-      "category": "Ranged weapons",
+      "category": "Rifles",
       "defname": "Gun_ChargeRifle",
       "price": 3366
     },
@@ -1015,22 +805,10 @@
       "price": 3434
     },
     {
-      "abr": "circuitbreaker",
-      "category": "Power",
-      "defname": "Building_RTCircuitBreaker",
-      "price": 556
-    },
-    {
       "abr": "cloth",
       "category": "Textiles",
       "defname": "Cloth",
       "price": 4
-    },
-    {
-      "abr": "clothingrack",
-      "category": "Furniture",
-      "defname": "LWM_Clothing_Rack",
-      "price": 340
     },
     {
       "abr": "club",
@@ -1090,25 +868,25 @@
       "abr": "connectorfence(left)",
       "category": "Misc",
       "defname": "ConnectorFenceL",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "connectorfence(right)",
       "category": "Misc",
       "defname": "ConnectorFenceR",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "connectorwall(left)",
       "category": "Misc",
       "defname": "rgh_ConnectorWallL",
-      "price": 34
+      "price": -10
     },
     {
       "abr": "connectorwall(right)",
       "category": "Misc",
       "defname": "rgh_ConnectorWallR",
-      "price": 34
+      "price": -10
     },
     {
       "abr": "cooler",
@@ -1150,7 +928,7 @@
       "abr": "count-downactivator",
       "category": "Misc",
       "defname": "ActivatorCountdown",
-      "price": 214
+      "price": -10
     },
     {
       "abr": "cow",
@@ -1222,79 +1000,79 @@
       "abr": "dia.conduit",
       "category": "Misc",
       "defname": "diagonalConduit",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "dia.doorway1",
       "category": "Misc",
       "defname": "rgh_DiagonalDoorwayA",
-      "price": 34
+      "price": -10
     },
     {
       "abr": "dia.doorway2",
       "category": "Misc",
       "defname": "rgh_DiagonalDoorwayB",
-      "price": 34
+      "price": -10
     },
     {
       "abr": "dia.fence",
       "category": "Misc",
       "defname": "DiagonalFence",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "dia.sandbags",
       "category": "Misc",
       "defname": "DiagonalSandbags",
-      "price": 36
+      "price": -10
     },
     {
       "abr": "dia.wall(thick)",
       "category": "Misc",
       "defname": "rgh_FilledWall",
-      "price": 34
+      "price": -10
     },
     {
       "abr": "dia.wall(thin)",
       "category": "Misc",
       "defname": "rgh_DiagonalWall",
-      "price": 34
+      "price": -10
     },
     {
       "abr": "diagonalgoldtile",
       "category": "Misc",
       "defname": "DiagonalTileGold",
-      "price": 1166
+      "price": -10
     },
     {
       "abr": "diagonalgranitetile",
       "category": "Misc",
       "defname": "DiagonalTileGranite",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "diagonallimestonetile",
       "category": "Misc",
       "defname": "DiagonalTileLimestone",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "diagonalmarbletile",
       "category": "Misc",
       "defname": "DiagonalTileMarble",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "diagonalpavedtile",
       "category": "Misc",
       "defname": "DiagonalPavedTile",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "diagonalsandstonetile",
       "category": "Misc",
       "defname": "DiagonalTileSandstone",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "diagonalsilvertile",
@@ -1306,13 +1084,13 @@
       "abr": "diagonalslatetile",
       "category": "Misc",
       "defname": "DiagonalTileSlate",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "diagonalsteeltile",
       "category": "Misc",
       "defname": "DiagonalTileSteel",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "diningchair",
@@ -1361,12 +1139,6 @@
       "category": "Furniture",
       "defname": "BedrollDouble",
       "price": 580
-    },
-    {
-      "abr": "doublewiderefrigerator",
-      "category": "Furniture",
-      "defname": "owl_doublerefrigerator",
-      "price": 934
     },
     {
       "abr": "drape",
@@ -1456,13 +1228,13 @@
       "abr": "effigy",
       "category": "Misc",
       "defname": "Effigy",
-      "price": 356
+      "price": -10
     },
     {
       "abr": "eggbox",
       "category": "Misc",
       "defname": "EggBox",
-      "price": 158
+      "price": -10
     },
     {
       "abr": "elbowblade",
@@ -1580,7 +1352,7 @@
     },
     {
       "abr": "emplauncher",
-      "category": "Ranged weapons",
+      "category": "EMP",
       "defname": "Gun_EmpLauncher",
       "price": 1684
     },
@@ -1648,19 +1420,19 @@
       "abr": "filling1",
       "category": "Misc",
       "defname": "rgh_FillingA",
-      "price": 34
+      "price": -10
     },
     {
       "abr": "filling2",
       "category": "Misc",
       "defname": "rgh_FillingB",
-      "price": 34
+      "price": -10
     },
     {
       "abr": "filling3",
       "category": "Misc",
       "defname": "rgh_FillingC",
-      "price": 34
+      "price": -10
     },
     {
       "abr": "finemeal",
@@ -1733,12 +1505,6 @@
       "category": "Security",
       "defname": "Turret_FoamTurret",
       "price": 2050
-    },
-    {
-      "abr": "foodbasket",
-      "category": "Furniture",
-      "defname": "LWM_Food_Basket",
-      "price": 540
     },
     {
       "abr": "foot",
@@ -1852,13 +1618,13 @@
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": 166
+      "price": -10
     },
     {
       "abr": "glowpod",
       "category": "Special",
       "defname": "GlowPod",
-      "price": 166
+      "price": -10
     },
     {
       "abr": "goat",
@@ -1936,7 +1702,7 @@
       "abr": "grave",
       "category": "Misc",
       "defname": "Grave",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "greatbow",
@@ -1955,12 +1721,6 @@
       "category": "Animals",
       "defname": "Bear_Grizzly",
       "price": 2334
-    },
-    {
-      "abr": "groundplaque",
-      "category": "Misc",
-      "defname": "SignPlaque",
-      "price": 916
     },
     {
       "abr": "ground-penetratingscanner",
@@ -1993,12 +1753,6 @@
       "price": 1150
     },
     {
-      "abr": "hampers",
-      "category": "Furniture",
-      "defname": "LWM_FabricHamper",
-      "price": 766
-    },
-    {
       "abr": "hand",
       "category": "Natural",
       "defname": "Hand",
@@ -2015,18 +1769,6 @@
       "category": "Prosthetic",
       "defname": "HandTalon",
       "price": 1184
-    },
-    {
-      "abr": "hangingsign",
-      "category": "Misc",
-      "defname": "SignHanging",
-      "price": 40
-    },
-    {
-      "abr": "hangingsign",
-      "category": "Misc",
-      "defname": "SignHangingIndustrial",
-      "price": 34
     },
     {
       "abr": "hare",
@@ -2059,18 +1801,6 @@
       "price": 2
     },
     {
-      "abr": "hayloft",
-      "category": "Furniture",
-      "defname": "LWM_Hayloft",
-      "price": 574
-    },
-    {
-      "abr": "hazardsign",
-      "category": "Misc",
-      "defname": "SignHazard",
-      "price": 64
-    },
-    {
       "abr": "headwrap",
       "category": "Headgear",
       "defname": "Apparel_Headwrap",
@@ -2078,7 +1808,7 @@
     },
     {
       "abr": "healermechserum",
-      "category": "Misc",
+      "category": "Drugs",
       "defname": "MechSerumHealer",
       "price": 4334
     },
@@ -2108,7 +1838,7 @@
     },
     {
       "abr": "heavysmg",
-      "category": "Ranged weapons",
+      "category": "Submachine guns",
       "defname": "Gun_HeavySMG",
       "price": 1184
     },
@@ -2122,7 +1852,7 @@
       "abr": "hermeticcrate",
       "category": "Misc",
       "defname": "AncientHermeticCrate",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "high-explosiveshell",
@@ -2131,22 +1861,10 @@
       "price": 184
     },
     {
-      "abr": "highwaysign",
-      "category": "Misc",
-      "defname": "SignHighway",
-      "price": 64
-    },
-    {
       "abr": "hilt",
       "category": "Inert relics",
       "defname": "RelicInertSwordHandle",
       "price": 1666
-    },
-    {
-      "abr": "holographicsign",
-      "category": "Misc",
-      "defname": "SignHologram",
-      "price": 488
     },
     {
       "abr": "hood",
@@ -2195,12 +1913,6 @@
       "category": "Furniture",
       "defname": "HospitalBed",
       "price": 1334
-    },
-    {
-      "abr": "housesign",
-      "category": "Misc",
-      "defname": "SignHome",
-      "price": 40
     },
     {
       "abr": "humanleather",
@@ -2254,7 +1966,7 @@
       "abr": "ideogram",
       "category": "Misc",
       "defname": "Ideogram",
-      "price": 616
+      "price": -10
     },
     {
       "abr": "iedantigrainwarheadtrap",
@@ -2330,7 +2042,7 @@
     },
     {
       "abr": "incendiarylauncher",
-      "category": "Ranged weapons",
+      "category": "Incendiary",
       "defname": "Gun_IncendiaryLauncher",
       "price": 1134
     },
@@ -2344,19 +2056,13 @@
       "abr": "incenseshrine",
       "category": "Misc",
       "defname": "IncenseShrine",
-      "price": 544
-    },
-    {
-      "abr": "industrialsign",
-      "category": "Misc",
-      "defname": "SignIndustrial",
-      "price": 64
+      "price": -10
     },
     {
       "abr": "infinitechemreactor",
       "category": "Special",
       "defname": "InfiniteChemreactor",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "insectjelly",
@@ -2479,12 +2185,6 @@
       "price": 934
     },
     {
-      "abr": "largewallsign",
-      "category": "Misc",
-      "defname": "SignWallLargeLit",
-      "price": 254
-    },
-    {
       "abr": "lavishmeal",
       "category": "Meals",
       "defname": "MealLavish",
@@ -2540,7 +2240,7 @@
     },
     {
       "abr": "lmg",
-      "category": "Ranged weapons",
+      "category": "Machine guns",
       "defname": "Gun_LMG",
       "price": 1416
     },
@@ -2612,7 +2312,7 @@
     },
     {
       "abr": "machinepistol",
-      "category": "Ranged weapons",
+      "category": "Pistols",
       "defname": "Gun_MachinePistol",
       "price": 734
     },
@@ -2621,24 +2321,6 @@
       "category": "Production",
       "defname": "TableMachining",
       "price": 1516
-    },
-    {
-      "abr": "magneticshield",
-      "category": "Power",
-      "defname": "Building_RTMagneticShield",
-      "price": 3266
-    },
-    {
-      "abr": "makeshiftfuse",
-      "category": "Power",
-      "defname": "Building_RTMakeshiftFuse",
-      "price": 240
-    },
-    {
-      "abr": "managerdesk",
-      "category": "Production",
-      "defname": "FM_ManagerStation",
-      "price": 1016
     },
     {
       "abr": "marbleblocks",
@@ -2659,70 +2341,46 @@
       "price": 2116
     },
     {
-      "abr": "mealtrayrack",
-      "category": "Furniture",
-      "defname": "LWM_MealRack",
-      "price": 510
-    },
-    {
-      "abr": "meathook",
-      "category": "Furniture",
-      "defname": "LWM_Meat_Hook",
-      "price": 508
-    },
-    {
       "abr": "mechassembler",
       "category": "Misc",
       "defname": "MechAssembler",
-      "price": 934
+      "price": -10
     },
     {
       "abr": "mechcapsule",
       "category": "Misc",
       "defname": "MechCapsule",
-      "price": 934
+      "price": -10
     },
     {
       "abr": "mechdropbeacon",
       "category": "Misc",
       "defname": "MechDropBeacon",
-      "price": 210
+      "price": -10
     },
     {
       "abr": "mechhigh-shield",
       "category": "Misc",
       "defname": "ShieldGeneratorMortar",
-      "price": 3334
+      "price": -10
     },
     {
       "abr": "mechlow-shield",
       "category": "Misc",
       "defname": "ShieldGeneratorBullets",
-      "price": 3334
+      "price": -10
     },
     {
       "abr": "mechnode",
       "category": "Special",
       "defname": "Gloomlight",
-      "price": 666
-    },
-    {
-      "abr": "mechanoiddetritus",
-      "category": "Misc",
-      "defname": "AncientMechDetritus",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "medicine",
       "category": "Medicine",
       "defname": "MedicineIndustrial",
       "price": 60
-    },
-    {
-      "abr": "medicinecabinet",
-      "category": "Furniture",
-      "defname": "LWM_Medicine_Cabinet",
-      "price": 406
     },
     {
       "abr": "meditationthrone",
@@ -2773,18 +2431,6 @@
       "price": 1666
     },
     {
-      "abr": "mendingkit",
-      "category": "Manufactured",
-      "defname": "MendingKit",
-      "price": 34
-    },
-    {
-      "abr": "mendingworkbench",
-      "category": "Production",
-      "defname": "TableMending",
-      "price": 1166
-    },
-    {
       "abr": "milk",
       "category": "Animal products",
       "defname": "Milk",
@@ -2798,7 +2444,7 @@
     },
     {
       "abr": "minigun",
-      "category": "Ranged weapons",
+      "category": "Heavy",
       "defname": "Gun_Minigun",
       "price": 3866
     },
@@ -2881,24 +2527,6 @@
       "price": 3400
     },
     {
-      "abr": "naturesign",
-      "category": "Misc",
-      "defname": "SignNature",
-      "price": 144
-    },
-    {
-      "abr": "neoncocktailsign",
-      "category": "Misc",
-      "defname": "SignWallNeonCocktail",
-      "price": 126
-    },
-    {
-      "abr": "neonopensign",
-      "category": "Misc",
-      "defname": "SignWallNeonOpen",
-      "price": 126
-    },
-    {
       "abr": "neuralsupercharger",
       "category": "Misc",
       "defname": "NeuralSupercharger",
@@ -2941,12 +2569,6 @@
       "price": 34
     },
     {
-      "abr": "obelisksign",
-      "category": "Misc",
-      "defname": "SignObelisk",
-      "price": 568
-    },
-    {
       "abr": "orbitalbombardmenttargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterBombardment",
@@ -2962,7 +2584,7 @@
       "abr": "orbitalpowerbeamtargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterPowerBeam",
-      "price": 4000
+      "price": 42000
     },
     {
       "abr": "orbitaltradebeacon",
@@ -3011,24 +2633,6 @@
       "category": "Prosthetic",
       "defname": "Painstopper",
       "price": 734
-    },
-    {
-      "abr": "pallet",
-      "category": "Furniture",
-      "defname": "LWM_Pallet",
-      "price": 440
-    },
-    {
-      "abr": "palletwithwrapping",
-      "category": "Furniture",
-      "defname": "LWM_Pallet_Covered",
-      "price": 642
-    },
-    {
-      "abr": "panelsign",
-      "category": "Misc",
-      "defname": "SignPanel",
-      "price": 254
     },
     {
       "abr": "panther",
@@ -3082,7 +2686,7 @@
       "abr": "penmarker",
       "category": "Misc",
       "defname": "PenMarker",
-      "price": 208
+      "price": -10
     },
     {
       "abr": "pendant",
@@ -3100,25 +2704,25 @@
       "abr": "personacore",
       "category": "Misc",
       "defname": "AIPersonaCore",
-      "price": 13334
+      "price": -10
     },
     {
       "abr": "personamonosword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_MonoSwordBladelink",
-      "price": 10000
+      "price": -10
     },
     {
       "abr": "personaplasmasword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_PlasmaSwordBladelink",
-      "price": 10000
+      "price": -10
     },
     {
       "abr": "personazeushammer",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_ZeusHammerBladelink",
-      "price": 10000
+      "price": -10
     },
     {
       "abr": "pew",
@@ -3247,18 +2851,6 @@
       "price": 3850
     },
     {
-      "abr": "prestigegrenadierarmor",
-      "category": "Armor",
-      "defname": "Apparel_ArmorGrenadierPrestige",
-      "price": 9334
-    },
-    {
-      "abr": "prestigelocustarmor",
-      "category": "Armor",
-      "defname": "Apparel_ArmorLocustPrestige",
-      "price": 8866
-    },
-    {
       "abr": "prestigemarinearmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarinePrestige",
@@ -3269,12 +2861,6 @@
       "category": "Headgear",
       "defname": "Apparel_ArmorMarineHelmetPrestige",
       "price": 2834
-    },
-    {
-      "abr": "prestigephoenixarmor",
-      "category": "Armor",
-      "defname": "Apparel_ArmorPhoenixPrestige",
-      "price": 14300
     },
     {
       "abr": "prestigereconarmor",
@@ -3316,19 +2902,19 @@
       "abr": "proximityactivator",
       "category": "Misc",
       "defname": "ActivatorProximity",
-      "price": 214
+      "price": -10
     },
     {
       "abr": "psychicanimalpulser",
       "category": "Artifacts",
       "defname": "PsychicAnimalPulser",
-      "price": 2334
+      "price": -10
     },
     {
       "abr": "psychicemanator",
       "category": "Special",
       "defname": "PsychicEmanator",
-      "price": 4334
+      "price": -10
     },
     {
       "abr": "psychicfoilhelmet",
@@ -3346,7 +2932,7 @@
       "abr": "psychicinsanitylance",
       "category": "Utility",
       "defname": "Apparel_PsychicInsanityLance",
-      "price": 2166
+      "price": -10
     },
     {
       "abr": "psychicreader",
@@ -3364,13 +2950,13 @@
       "abr": "psychicshocklance",
       "category": "Utility",
       "defname": "Apparel_PsychicShockLance",
-      "price": 1834
+      "price": -10
     },
     {
       "abr": "psychicsoothepulser",
       "category": "Artifacts",
       "defname": "PsychicSoothePulser",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "psychitetea",
@@ -3566,7 +3152,7 @@
     },
     {
       "abr": "pumpshotgun",
-      "category": "Ranged weapons",
+      "category": "Shotguns",
       "defname": "Gun_PumpShotgun",
       "price": 850
     },
@@ -3631,12 +3217,6 @@
       "price": 666
     },
     {
-      "abr": "refrigerator",
-      "category": "Furniture",
-      "defname": "owl_refrigerator",
-      "price": 484
-    },
-    {
       "abr": "reinforcedbarrel",
       "category": "Misc",
       "defname": "ReinforcedBarrel",
@@ -3656,13 +3236,13 @@
     },
     {
       "abr": "resurrectormechserum",
-      "category": "Misc",
+      "category": "Drugs",
       "defname": "MechSerumResurrector",
       "price": 5666
     },
     {
       "abr": "revolver",
-      "category": "Ranged weapons",
+      "category": "Pistols",
       "defname": "Gun_Revolver",
       "price": 452
     },
@@ -3691,12 +3271,6 @@
       "price": 4
     },
     {
-      "abr": "roadledsign",
-      "category": "Misc",
-      "defname": "SignRoadLED",
-      "price": 950
-    },
-    {
       "abr": "robe",
       "category": "Misc",
       "defname": "Apparel_Robe",
@@ -3709,22 +3283,10 @@
       "price": 3584
     },
     {
-      "abr": "roomsign",
-      "category": "Misc",
-      "defname": "RoomSign",
-      "price": 66
-    },
-    {
       "abr": "royalbed",
       "category": "Furniture",
       "defname": "RoyalBed",
       "price": 2934
-    },
-    {
-      "abr": "rusticarchsign",
-      "category": "Misc",
-      "defname": "SignArchWoodRustic",
-      "price": 522
     },
     {
       "abr": "rusticrug(broad)",
@@ -3743,12 +3305,6 @@
       "category": "Misc",
       "defname": "SacrificialFlag",
       "price": 396
-    },
-    {
-      "abr": "safe",
-      "category": "Furniture",
-      "defname": "LWM_Safe",
-      "price": 2034
     },
     {
       "abr": "sandbags",
@@ -3772,13 +3328,13 @@
       "abr": "securitycrate",
       "category": "Misc",
       "defname": "AncientSecurityCrate",
-      "price": 24
+      "price": -10
     },
     {
       "abr": "sensorcluster",
       "category": "Misc",
       "defname": "Ship_SensorCluster",
-      "price": 6016
+      "price": -10
     },
     {
       "abr": "shadecone",
@@ -3820,43 +3376,43 @@
       "abr": "shieldcore",
       "category": "Misc",
       "defname": "BroadshieldCore",
-      "price": 1166
+      "price": -10
     },
     {
       "abr": "shipcomputercore",
       "category": "Misc",
       "defname": "Ship_ComputerCore",
-      "price": 19484
+      "price": -10
     },
     {
       "abr": "shipcryptosleepcasket",
       "category": "Misc",
       "defname": "Ship_CryptosleepCasket",
-      "price": 3450
+      "price": -10
     },
     {
       "abr": "shipengine",
       "category": "Misc",
       "defname": "Ship_Engine",
-      "price": 11850
+      "price": -10
     },
     {
       "abr": "shiplandingbeacon",
       "category": "Misc",
       "defname": "ShipLandingBeacon",
-      "price": 370
+      "price": -10
     },
     {
       "abr": "shipreactor",
       "category": "Misc",
       "defname": "Ship_Reactor",
-      "price": 18134
+      "price": -10
     },
     {
       "abr": "shipstructuralbeam",
       "category": "Misc",
       "defname": "Ship_Beam",
-      "price": 3550
+      "price": -10
     },
     {
       "abr": "shortbow",
@@ -3887,12 +3443,6 @@
       "category": "Production",
       "defname": "SimpleResearchBench",
       "price": 700
-    },
-    {
-      "abr": "simplesign",
-      "category": "Misc",
-      "defname": "SimpleSign",
-      "price": 66
     },
     {
       "abr": "skilltrainer(animals)",
@@ -3967,12 +3517,6 @@
       "price": 2500
     },
     {
-      "abr": "skip",
-      "category": "Furniture",
-      "defname": "LWM_DeepStorage_Skip",
-      "price": 610
-    },
-    {
       "abr": "skull",
       "category": "Misc",
       "defname": "Skull",
@@ -3995,12 +3539,6 @@
       "category": "Furniture",
       "defname": "SlabDoubleBed",
       "price": 576
-    },
-    {
-      "abr": "slabsign",
-      "category": "Misc",
-      "defname": "SignSlab",
-      "price": 470
     },
     {
       "abr": "slateblocks",
@@ -4058,7 +3596,7 @@
     },
     {
       "abr": "smokelauncher",
-      "category": "Ranged weapons",
+      "category": "Smoke",
       "defname": "Gun_SmokeLauncher",
       "price": 1266
     },
@@ -4088,7 +3626,7 @@
     },
     {
       "abr": "sniperrifle",
-      "category": "Ranged weapons",
+      "category": "Sniper rifles",
       "defname": "Gun_SniperRifle",
       "price": 1766
     },
@@ -4097,24 +3635,6 @@
       "category": "Animals",
       "defname": "Snowhare",
       "price": 166
-    },
-    {
-      "abr": "snowrat",
-      "category": "Animals",
-      "defname": "SnowRat",
-      "price": 134
-    },
-    {
-      "abr": "snowratmeat",
-      "category": "Meat",
-      "defname": "Meat_SnowRat",
-      "price": 6
-    },
-    {
-      "abr": "snowratwool",
-      "category": "Wools",
-      "defname": "WoolRat",
-      "price": 8
     },
     {
       "abr": "solargenerator",
@@ -4237,12 +3757,6 @@
       "price": 14
     },
     {
-      "abr": "table(1x1)",
-      "category": "Furniture",
-      "defname": "Table1x1c",
-      "price": 106
-    },
-    {
       "abr": "table(1x2)",
       "category": "Furniture",
       "defname": "Table1x2c",
@@ -4360,7 +3874,7 @@
       "abr": "techprofsubpersonacore",
       "category": "Misc",
       "defname": "TechprofSubpersonaCore",
-      "price": 3334
+      "price": -10
     },
     {
       "abr": "telescope",
@@ -4474,7 +3988,7 @@
       "abr": "tradingspot",
       "category": "Misc",
       "defname": "TradingSpot",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "transportpod",
@@ -4540,7 +4054,7 @@
       "abr": "unstablepowercell",
       "category": "Special",
       "defname": "UnstablePowerCell",
-      "price": 1334
+      "price": -10
     },
     {
       "abr": "uranium",
@@ -4564,7 +4078,7 @@
       "abr": "vanometricpowercell",
       "category": "Special",
       "defname": "VanometricPowerCell",
-      "price": 4000
+      "price": -10
     },
     {
       "abr": "vegetarianfinemeal",
@@ -4609,12 +4123,6 @@
       "price": 194
     },
     {
-      "abr": "verybigshelves",
-      "category": "Furniture",
-      "defname": "LWM_VeryBigShelf",
-      "price": 1100
-    },
-    {
       "abr": "visagemask",
       "category": "Headgear",
       "defname": "Apparel_VisageMask",
@@ -4637,30 +4145,6 @@
       "category": "Misc",
       "defname": "Wall",
       "price": 34
-    },
-    {
-      "abr": "walllight",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallLight",
-      "price": 32
-    },
-    {
-      "abr": "wallsign",
-      "category": "Misc",
-      "defname": "SignWallBasic",
-      "price": 40
-    },
-    {
-      "abr": "wallsign",
-      "category": "Misc",
-      "defname": "SignWallLED",
-      "price": 64
-    },
-    {
-      "abr": "wallsunlight",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallSunLight",
-      "price": 64
     },
     {
       "abr": "warmask",
@@ -4696,25 +4180,7 @@
       "abr": "waterproofconduit",
       "category": "Misc",
       "defname": "WaterproofConduit",
-      "price": 64
-    },
-    {
-      "abr": "weaponscabinet",
-      "category": "Furniture",
-      "defname": "LWM_WeaponsCabinet",
-      "price": 508
-    },
-    {
-      "abr": "weaponslocker",
-      "category": "Furniture",
-      "defname": "LWM_WeaponsLocker",
-      "price": 474
-    },
-    {
-      "abr": "wetfloorsign",
-      "category": "Misc",
-      "defname": "SignWetFloor",
-      "price": 32
+      "price": -10
     },
     {
       "abr": "wildboar",
@@ -4726,7 +4192,7 @@
       "abr": "windturbine",
       "category": "Misc",
       "defname": "WindTurbine",
-      "price": 884
+      "price": 442
     },
     {
       "abr": "wolfmeat",
@@ -4745,24 +4211,6 @@
       "category": "Raw resources",
       "defname": "WoodLog",
       "price": 4
-    },
-    {
-      "abr": "woodenarchsign",
-      "category": "Misc",
-      "defname": "SignArchWood",
-      "price": 402
-    },
-    {
-      "abr": "woodenpanelsign",
-      "category": "Misc",
-      "defname": "SignPanelWood",
-      "price": 280
-    },
-    {
-      "abr": "woodensigns",
-      "category": "Misc",
-      "defname": "SignWoodenMulti",
-      "price": 80
     },
     {
       "abr": "wood-firedgenerator",
@@ -4873,17 +4321,1739 @@
       "price": 13916
     },
     {
-      "abr": "zombrella",
+      "abr": "connectoremb.(left)",
       "category": "Misc",
-      "defname": "Zombrella",
-      "price": 6666
+      "defname": "rgh_ConnectorEmbrasureL",
+      "price": -10
     },
     {
-      "abr": "zombgrella",
+      "abr": "connectoremb.(right)",
       "category": "Misc",
-      "defname": "Zombgrella",
-      "price": 1284
+      "defname": "rgh_ConnectorEmbrasureR",
+      "price": -10
+    },
+    {
+      "abr": "dia.embrasure(thick)",
+      "category": "Misc",
+      "defname": "rgh_FilledEmbrasure",
+      "price": -10
+    },
+    {
+      "abr": "dia.embrasure(thin)",
+      "category": "Misc",
+      "defname": "rgh_DiagonalEmbrasure",
+      "price": -10
+    },
+    {
+      "abr": "emb.filling1",
+      "category": "Misc",
+      "defname": "rgh_EmbrasureFillingA",
+      "price": -10
+    },
+    {
+      "abr": "emb.filling2",
+      "category": "Misc",
+      "defname": "rgh_EmbrasureFillingB",
+      "price": -10
+    },
+    {
+      "abr": "emb.filling3",
+      "category": "Misc",
+      "defname": "rgh_EmbrasureFillingC",
+      "price": -10
+    },
+    {
+      "abr": "ancientcoilgun",
+      "category": "Rare/unique",
+      "defname": "Gun_AntiqueGaussRifle",
+      "price": 1833
+    },
+    {
+      "abr": "ancientexperimentalrifle",
+      "category": "Rare/unique",
+      "defname": "Gun_AncientExperimentalRifle",
+      "price": 1667
+    },
+    {
+      "abr": "ancienthybridrifle",
+      "category": "Rare/unique",
+      "defname": "Gun_AncientHybridRifle",
+      "price": 1333
+    },
+    {
+      "abr": "ancientlever-actionrifle",
+      "category": "Rare/unique",
+      "defname": "Gun_VintageLeverActionRifle",
+      "price": 833
+    },
+    {
+      "abr": "ancientlmg",
+      "category": "Rare/unique",
+      "defname": "Gun_AncientExportLMG",
+      "price": 1000
+    },
+    {
+      "abr": "ancientmarksmancarbine",
+      "category": "Rifles",
+      "defname": "Gun_AncientMarksmanCarbine",
+      "price": 1000
+    },
+    {
+      "abr": "ancientprototyperifle",
+      "category": "Rare/unique",
+      "defname": "Gun_PrototypeRifle",
+      "price": 1667
+    },
+    {
+      "abr": "ancientrecoillessrifle",
+      "category": "Rifles",
+      "defname": "Gun_AncientRecoillessRifle",
+      "price": 1667
+    },
+    {
+      "abr": "ancientruggedassaultrifle",
+      "category": "Rare/unique",
+      "defname": "Gun_AncientRuggedAssaultRifle",
+      "price": 667
+    },
+    {
+      "abr": "ancientruggedspecialistcarbine",
+      "category": "Rare/unique",
+      "defname": "Gun_AncientRuggedSpecialistCarbine",
+      "price": 833
+    },
+    {
+      "abr": "ancientservicerifle",
+      "category": "Rifles",
+      "defname": "Gun_AncientServiceRifle",
+      "price": 667
+    },
+    {
+      "abr": "ancientspecialistbattlerifle",
+      "category": "Rare/unique",
+      "defname": "Gun_SpecialOperationsRifle",
+      "price": 1250
+    },
+    {
+      "abr": "ancientturretrifle",
+      "category": "Rare/unique",
+      "defname": "Gun_TurretRifle",
+      "price": 833
+    },
+    {
+      "abr": "anti-materielrifle",
+      "category": "Heavy",
+      "defname": "Gun_AntiMaterielRifle",
+      "price": 1333
+    },
+    {
+      "abr": "assassin'scarbine",
+      "category": "Rare/unique",
+      "defname": "Gun_AssasinsCarbine",
+      "price": 1000
+    },
+    {
+      "abr": "automaticsniperrifle",
+      "category": "Rare/unique",
+      "defname": "Gun_AutomaticSniperRifle",
+      "price": 1333
+    },
+    {
+      "abr": "battlerifle",
+      "category": "Rifles",
+      "defname": "Gun_BattleRifle",
+      "price": 833
+    },
+    {
+      "abr": "bionicjaw",
+      "category": "Bionic",
+      "defname": "BionicJaw",
+      "price": 1308
+    },
+    {
+      "abr": "bolt-actionpistol",
+      "category": "Pistols",
+      "defname": "Gun_BoltActionPistol",
+      "price": 217
+    },
+    {
+      "abr": "bookcase",
+      "category": "Furniture",
+      "defname": "Bookcase",
+      "price": 70
+    },
+    {
+      "abr": "breech-loadingrifle",
+      "category": "Rifles",
+      "defname": "Gun_BreechLoadingRifle",
+      "price": 300
+    },
+    {
+      "abr": "breech-loadingsniperrifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_BreechLoadingSniper",
+      "price": 467
+    },
+    {
+      "abr": "campingluggages",
+      "category": "Furniture",
+      "defname": "CampingLuggages",
+      "price": 81
+    },
+    {
+      "abr": "canopy",
+      "category": "Furniture",
+      "defname": "Canopy",
+      "price": 306
+    },
+    {
+      "abr": "cavalryrifle",
+      "category": "Rifles",
+      "defname": "Gun_StubbyLeverActionRifle",
+      "price": 417
+    },
+    {
+      "abr": "chargedlmg",
+      "category": "Machine guns",
+      "defname": "Gun_ChargedLMG",
+      "price": 1583
+    },
+    {
+      "abr": "chargedmarksmanrifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_ChargedMarksmanRifle",
+      "price": 1583
+    },
+    {
+      "abr": "chargedpistol",
+      "category": "Pistols",
+      "defname": "Gun_ChargedPistol",
+      "price": 1133
+    },
+    {
+      "abr": "chargedservicerifle",
+      "category": "Rifles",
+      "defname": "Gun_ChargedServiceRifle",
+      "price": 1833
+    },
+    {
+      "abr": "chargedsniperrifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_ChargedSniperRifle",
+      "price": 1833
+    },
+    {
+      "abr": "chargedsubmachinegun",
+      "category": "Submachine guns",
+      "defname": "Gun_ChargedSubmachineGun",
+      "price": 1267
+    },
+    {
+      "abr": "checkpointrifle",
+      "category": "Rifles",
+      "defname": "Gun_CheckpointRifle",
+      "price": 1083
+    },
+    {
+      "abr": "civilchargedrifle",
+      "category": "Rifles",
+      "defname": "Gun_ChargedCivilRifle",
+      "price": 2167
+    },
+    {
+      "abr": "civilrifle",
+      "category": "Rifles",
+      "defname": "Gun_CivilRifle",
+      "price": 583
+    },
+    {
+      "abr": "civilshotgun",
+      "category": "Shotguns",
+      "defname": "Gun_CivilShotgun",
+      "price": 417
+    },
+    {
+      "abr": "civilsubmachinegun",
+      "category": "Submachine guns",
+      "defname": "Gun_CivilSubmachineGun",
+      "price": 467
+    },
+    {
+      "abr": "coachgun",
+      "category": "Shotguns",
+      "defname": "Gun_Coachgun",
+      "price": 367
+    },
+    {
+      "abr": "colonialassaultrifle",
+      "category": "Rifles",
+      "defname": "Gun_BalancedBullpupRifle",
+      "price": 867
+    },
+    {
+      "abr": "commonwealthassaultrifle",
+      "category": "Rifles",
+      "defname": "Gun_WeightedBullpupRifle",
+      "price": 833
+    },
+    {
+      "abr": "commonwealthbattlerifle",
+      "category": "Rifles",
+      "defname": "Gun_CommonwealthBattleRifle",
+      "price": 833
+    },
+    {
+      "abr": "commonwealthcarbine",
+      "category": "Rifles",
+      "defname": "Gun_WeightedBullpupCarbine",
+      "price": 800
+    },
+    {
+      "abr": "commonwealthlmg",
+      "category": "Machine guns",
+      "defname": "Gun_WeightedLightSupportWeapon",
+      "price": 833
+    },
+    {
+      "abr": "compactlmg",
+      "category": "Machine guns",
+      "defname": "Gun_CompactLightMachineGun",
+      "price": 733
+    },
+    {
+      "abr": "compositeplatecarrier",
+      "category": "Armor",
+      "defname": "Apparel_Osprey",
+      "price": 483
+    },
+    {
+      "abr": "convertedsurplusbolt-actionrifle",
+      "category": "Rifles",
+      "defname": "Gun_ConvertedBoltActionRifle",
+      "price": 750
+    },
+    {
+      "abr": "couch",
+      "category": "Furniture",
+      "defname": "Couch",
+      "price": 783
+    },
+    {
+      "abr": "cowboyrevolver",
+      "category": "Pistols",
+      "defname": "Gun_CowboyRevolver",
+      "price": 225
+    },
+    {
+      "abr": "cowboyrifle",
+      "category": "Rifles",
+      "defname": "Gun_CowboyRifle",
+      "price": 383
+    },
+    {
+      "abr": "defencerifle",
+      "category": "Rifles",
+      "defname": "Gun_DefenceRifle",
+      "price": 833
+    },
+    {
+      "abr": "double-barreledshotgun",
+      "category": "Shotguns",
+      "defname": "Gun_DoubleBarreledShotgun",
+      "price": 367
+    },
+    {
+      "abr": "federalsubmachinegun",
+      "category": "Submachine guns",
+      "defname": "Gun_FederalSubmachineGun",
+      "price": 567
+    },
+    {
+      "abr": "floodlight",
+      "category": "Furniture",
+      "defname": "FloodLight",
+      "price": 162
+    },
+    {
+      "abr": "foldingtent",
+      "category": "Furniture",
+      "defname": "FoldingTent",
+      "price": 392
+    },
+    {
+      "abr": "gaussassaultrifle",
+      "category": "Rifles",
+      "defname": "Gun_GaussAssaultRifle",
+      "price": 1000
+    },
+    {
+      "abr": "gausslmg",
+      "category": "Machine guns",
+      "defname": "Gun_GaussMachineGun",
+      "price": 917
+    },
+    {
+      "abr": "gaussmarksmanrifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_GaussMarksmanRifle",
+      "price": 917
+    },
+    {
+      "abr": "gausspistol",
+      "category": "Pistols",
+      "defname": "Gun_GaussPistol",
+      "price": 467
+    },
+    {
+      "abr": "gausssubmachinegun",
+      "category": "Submachine guns",
+      "defname": "Gun_GaussSubmachineGun",
+      "price": 600
+    },
+    {
+      "abr": "gold-platedruggedcarbine",
+      "category": "Rare/unique",
+      "defname": "Gun_GoldPlatedRuggedAssaultRifle",
+      "price": 1667
+    },
+    {
+      "abr": "gpmg",
+      "category": "Machine guns",
+      "defname": "Gun_GPMG",
+      "price": 1000
+    },
+    {
+      "abr": "hiddenconduit",
+      "category": "Misc",
+      "defname": "HiddenConduit",
+      "price": 8
+    },
+    {
+      "abr": "huntingrevolver",
+      "category": "Pistols",
+      "defname": "Gun_LargeRevolver",
+      "price": 833
+    },
+    {
+      "abr": "improvisedcoilgungun",
+      "category": "Rifles",
+      "defname": "Gun_ImprovisedCoilgun",
+      "price": 750
+    },
+    {
+      "abr": "improvisedrifle",
+      "category": "Rifles",
+      "defname": "Gun_ImprovisedRifle",
+      "price": 200
+    },
+    {
+      "abr": "industrialtent",
+      "category": "Furniture",
+      "defname": "ModernTent",
+      "price": 392
+    },
+    {
+      "abr": "infantryautomaticrifle",
+      "category": "Machine guns",
+      "defname": "Gun_InfantryAutomaticRifle",
+      "price": 1067
+    },
+    {
+      "abr": "katana",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_Katana",
+      "price": 483
+    },
+    {
+      "abr": "lever-actionbrushgun",
+      "category": "Rifles",
+      "defname": "Gun_LeverActionBrushGun",
+      "price": 500
+    },
+    {
+      "abr": "lever-actionhuntingrifle",
+      "category": "Rifles",
+      "defname": "Gun_LargeLeverActionRifle",
+      "price": 500
+    },
+    {
+      "abr": "lever-actionrifle",
+      "category": "Rifles",
+      "defname": "Gun_LeverActionRifle",
+      "price": 383
+    },
+    {
+      "abr": "lever-actionshotgun",
+      "category": "Shotguns",
+      "defname": "Gun_LeverActionShotgun",
+      "price": 433
+    },
+    {
+      "abr": "lever-actionsniperrifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_LeverActionSniper",
+      "price": 550
+    },
+    {
+      "abr": "magnumrevolver",
+      "category": "Pistols",
+      "defname": "Gun_MagnumRevolver",
+      "price": 300
+    },
+    {
+      "abr": "marksmanrifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_MarksmanRifle",
+      "price": 750
+    },
+    {
+      "abr": "matchlockarquebus",
+      "category": "Rifles",
+      "defname": "Gun_MatchlockArquebus",
+      "price": 150
+    },
+    {
+      "abr": "matchlockpistol",
+      "category": "Pistols",
+      "defname": "Gun_MatchlockPistol",
+      "price": 133
+    },
+    {
+      "abr": "medquarry",
+      "category": "Misc",
+      "defname": "QRY_MediQuarry",
+      "price": 442
+    },
+    {
+      "abr": "miniquarry",
+      "category": "Misc",
+      "defname": "QRY_MiniQuarry",
+      "price": 260
+    },
+    {
+      "abr": "modernisedcolonialassaultrifle",
+      "category": "Rifles",
+      "defname": "Gun_ModernisedBullpupRifle",
+      "price": 1033
+    },
+    {
+      "abr": "modernisedcommonwealthassaultrifle",
+      "category": "Rifles",
+      "defname": "Gun_ModernisedCommonwealthRifle",
+      "price": 1000
+    },
+    {
+      "abr": "modernisedcommonwealthbattlerifle",
+      "category": "Rifles",
+      "defname": "Gun_ModernisedBattleRifle",
+      "price": 1000
+    },
+    {
+      "abr": "modernisedlever-actionrifle",
+      "category": "Rare/unique",
+      "defname": "Gun_ModernisedLeverActionRifle",
+      "price": 833
+    },
+    {
+      "abr": "modernisedmatchlockarquebus",
+      "category": "Rare/unique",
+      "defname": "Gun_ModernisedArquebus",
+      "price": 333
+    },
+    {
+      "abr": "modernisedpolicecarbine",
+      "category": "Rifles",
+      "defname": "Gun_ModernisedPoliceCarbine",
+      "price": 933
+    },
+    {
+      "abr": "modernisedpolicesubmachinegun",
+      "category": "Submachine guns",
+      "defname": "Gun_ModernisedPoliceSubmachineGun",
+      "price": 667
+    },
+    {
+      "abr": "modernisedruggedassaultrifle",
+      "category": "Rifles",
+      "defname": "Gun_ModernisedRuggedAssaultRifle",
+      "price": 967
+    },
+    {
+      "abr": "modernisedruggedcovertrifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_ModernisedRuggedCovertRifle",
+      "price": 1000
+    },
+    {
+      "abr": "modernisedservicecarbine",
+      "category": "Rifles",
+      "defname": "Gun_ModernisedServiceCarbine",
+      "price": 917
+    },
+    {
+      "abr": "modernisedservicelmg",
+      "category": "Machine guns",
+      "defname": "Gun_ModernisedServiceLMG",
+      "price": 1000
+    },
+    {
+      "abr": "modernisedservicerifle",
+      "category": "Rifles",
+      "defname": "Gun_ModernisedServiceRifle",
+      "price": 1000
+    },
+    {
+      "abr": "moderniseduniversalassaultrifle",
+      "category": "Rifles",
+      "defname": "Gun_ModernisedUniversalRifle",
+      "price": 1033
+    },
+    {
+      "abr": "modifiedcommonwealthlmg",
+      "category": "Rare/unique",
+      "defname": "Gun_ModifiedLightSupportWeapon",
+      "price": 1000
+    },
+    {
+      "abr": "modularassaultrifle",
+      "category": "Rifles",
+      "defname": "Gun_ModularAssaultRifle",
+      "price": 833
+    },
+    {
+      "abr": "modularlmg",
+      "category": "Machine guns",
+      "defname": "Gun_ModularLMG",
+      "price": 750
+    },
+    {
+      "abr": "mountedanti-tankrifle",
+      "category": "Security",
+      "defname": "Turret_AntiTankTurret",
+      "price": 1667
+    },
+    {
+      "abr": "mountedchargedlmg",
+      "category": "Security",
+      "defname": "Turret_ChargedLMGTurret",
+      "price": 1400
+    },
+    {
+      "abr": "mountedgatlinggun",
+      "category": "Security",
+      "defname": "Turret_GatlingGunTurret",
+      "price": 725
+    },
+    {
+      "abr": "mountedgausslmg",
+      "category": "Security",
+      "defname": "Turret_GaussLMGTurret",
+      "price": 958
+    },
+    {
+      "abr": "mountedgpmg",
+      "category": "Security",
+      "defname": "Turret_GPMGTurret",
+      "price": 600
+    },
+    {
+      "abr": "mountedgrenademachinegun",
+      "category": "Security",
+      "defname": "Turret_GMGTurret",
+      "price": 2333
+    },
+    {
+      "abr": "mountedlmg",
+      "category": "Security",
+      "defname": "Turret_LMGTurret",
+      "price": 525
+    },
+    {
+      "abr": "mountedminigun",
+      "category": "Security",
+      "defname": "Turret_MinigunTurret",
+      "price": 1000
+    },
+    {
+      "abr": "novel",
+      "category": "Books",
+      "defname": "Novel",
+      "price": 267
+    },
+    {
+      "abr": "ornatedoor",
+      "category": "Misc",
+      "defname": "OrnateDoor",
+      "price": 1175
+    },
+    {
+      "abr": "personalisedsecuritypdw",
+      "category": "Rare/unique",
+      "defname": "Gun_PersonalisedBullpupPDW",
+      "price": 867
+    },
+    {
+      "abr": "policecarbine",
+      "category": "Rifles",
+      "defname": "Gun_CompactCarbine",
+      "price": 767
+    },
+    {
+      "abr": "policerifle",
+      "category": "Rifles",
+      "defname": "Gun_PoliceRifle",
+      "price": 833
+    },
+    {
+      "abr": "policeshotgun",
+      "category": "Shotguns",
+      "defname": "Gun_SemiAutomaticShotgun",
+      "price": 583
+    },
+    {
+      "abr": "policesubmachinegun",
+      "category": "Submachine guns",
+      "defname": "Gun_PoliceSubmachineGun",
+      "price": 500
+    },
+    {
+      "abr": "quadlauncher",
+      "category": "Rare/unique",
+      "defname": "Gun_QuadLauncher",
+      "price": 833
+    },
+    {
+      "abr": "quarry",
+      "category": "Misc",
+      "defname": "QRY_Quarry",
+      "price": 617
+    },
+    {
+      "abr": "quarryplatform",
+      "category": "Misc",
+      "defname": "QRY_Platform",
+      "price": 168
+    },
+    {
+      "abr": "railgun",
+      "category": "Sniper rifles",
+      "defname": "Gun_GaussSniper",
+      "price": 1500
+    },
+    {
+      "abr": "recoillesssubmachinegun",
+      "category": "Submachine guns",
+      "defname": "Gun_RecoillessSubmachineGun",
+      "price": 833
+    },
+    {
+      "abr": "reconrifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_ReconRifle",
+      "price": 1000
+    },
+    {
+      "abr": "reproductionassaultrifle",
+      "category": "Rifles",
+      "defname": "Gun_VintageAssaultRifle",
+      "price": 1667
+    },
+    {
+      "abr": "reproductionbattlerifle",
+      "category": "Rifles",
+      "defname": "Gun_VintageBattleRifle",
+      "price": 1167
+    },
+    {
+      "abr": "reproductionbreech-loadingrifle",
+      "category": "Rifles",
+      "defname": "Gun_ReproductionBreechLoadingRifle",
+      "price": 300
+    },
+    {
+      "abr": "reproductiongpmg",
+      "category": "Machine guns",
+      "defname": "Gun_VintageGPMG",
+      "price": 1333
+    },
+    {
+      "abr": "reproductionlmg",
+      "category": "Machine guns",
+      "defname": "Gun_VintageLightMachineGun",
+      "price": 1667
+    },
+    {
+      "abr": "reproductionmachinepistol",
+      "category": "Pistols",
+      "defname": "Gun_VintageMachinePistol",
+      "price": 833
+    },
+    {
+      "abr": "reproductionsniperrifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_VintageSniper",
+      "price": 1333
+    },
+    {
+      "abr": "reproductionsubmachinegun",
+      "category": "Submachine guns",
+      "defname": "Gun_VintageSubmachineGun",
+      "price": 1667
+    },
+    {
+      "abr": "riotshotgun",
+      "category": "Shotguns",
+      "defname": "Gun_RiotShotgun",
+      "price": 500
+    },
+    {
+      "abr": "ruggedassaultrifle",
+      "category": "Rifles",
+      "defname": "Gun_RuggedAssaultRifle",
+      "price": 800
+    },
+    {
+      "abr": "ruggedcarbine",
+      "category": "Rifles",
+      "defname": "Gun_RuggedCarbine",
+      "price": 667
+    },
+    {
+      "abr": "ruggedcovertrifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_RuggedSpecialistRifle",
+      "price": 833
+    },
+    {
+      "abr": "ruggedlmg",
+      "category": "Machine guns",
+      "defname": "Gun_RuggedLMG",
+      "price": 767
+    },
+    {
+      "abr": "ruggedmarksmanrifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_RuggedMarksmansRifle",
+      "price": 750
+    },
+    {
+      "abr": "ruggedshotgun",
+      "category": "Shotguns",
+      "defname": "Gun_RuggedShotgun",
+      "price": 500
+    },
+    {
+      "abr": "ruggedsubmachinegun",
+      "category": "Submachine guns",
+      "defname": "Gun_RuggedSubmachineGun",
+      "price": 567
+    },
+    {
+      "abr": "sawn-offshotgun",
+      "category": "Shotguns",
+      "defname": "Gun_SawnOffShotgun",
+      "price": 333
+    },
+    {
+      "abr": "schematic",
+      "category": "Books",
+      "defname": "Schematic",
+      "price": 250
+    },
+    {
+      "abr": "securitypdw",
+      "category": "Submachine guns",
+      "defname": "Gun_BullpupPDW",
+      "price": 700
+    },
+    {
+      "abr": "servicecarbine",
+      "category": "Rifles",
+      "defname": "Gun_ServiceCarbine",
+      "price": 750
+    },
+    {
+      "abr": "servicelmg",
+      "category": "Machine guns",
+      "defname": "Gun_ServiceLMG",
+      "price": 833
+    },
+    {
+      "abr": "servicepistol",
+      "category": "Pistols",
+      "defname": "Gun_ServicePistol",
+      "price": 317
+    },
+    {
+      "abr": "servicerifle",
+      "category": "Rifles",
+      "defname": "Gun_ServiceRifle",
+      "price": 833
+    },
+    {
+      "abr": "smallbookcase",
+      "category": "Furniture",
+      "defname": "BookcaseSmall",
+      "price": 35
+    },
+    {
+      "abr": "smartemplauncher",
+      "category": "EMP",
+      "defname": "Gun_SmartEMPLauncher",
+      "price": 1000
+    },
+    {
+      "abr": "smartincendiarylauncher",
+      "category": "Incendiary",
+      "defname": "Gun_SmartIncendiaryLauncher",
+      "price": 733
+    },
+    {
+      "abr": "smartsmokelauncher",
+      "category": "Smoke",
+      "defname": "Gun_SmartSmokeLauncher",
+      "price": 733
+    },
+    {
+      "abr": "specialpurposerifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_SpecialPurposeRifle",
+      "price": 1000
+    },
+    {
+      "abr": "specialistbattlerifle",
+      "category": "Rifles",
+      "defname": "Gun_HeavyCombatRifle",
+      "price": 1083
+    },
+    {
+      "abr": "specialistcarbine",
+      "category": "Rifles",
+      "defname": "Gun_CombatCarbine",
+      "price": 1000
+    },
+    {
+      "abr": "specialistemplauncher",
+      "category": "EMP",
+      "defname": "Gun_SpecialistEMPLauncher",
+      "price": 917
+    },
+    {
+      "abr": "specialistincendiarylauncher",
+      "category": "Incendiary",
+      "defname": "Gun_SpecialistIncendiaryLauncher",
+      "price": 650
+    },
+    {
+      "abr": "specialistmarksmanrifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_SniperSupportRifle",
+      "price": 1167
+    },
+    {
+      "abr": "specialistsmokelauncher",
+      "category": "Smoke",
+      "defname": "Gun_SpecialistSmokeLauncher",
+      "price": 650
+    },
+    {
+      "abr": "sportingrifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_SportingRifle",
+      "price": 1667
+    },
+    {
+      "abr": "sportingshotgun",
+      "category": "Shotguns",
+      "defname": "Gun_HuntingShotgun",
+      "price": 833
+    },
+    {
+      "abr": "bigshelf",
+      "category": "Furniture",
+      "defname": "LWM_BigShelf",
+      "price": 257
+    },
+    {
+      "abr": "clothingrack",
+      "category": "Furniture",
+      "defname": "LWM_Clothing_Rack",
+      "price": 170
+    },
+    {
+      "abr": "foodbasket",
+      "category": "Furniture",
+      "defname": "LWM_Food_Basket",
+      "price": 270
+    },
+    {
+      "abr": "hampers",
+      "category": "Furniture",
+      "defname": "LWM_FabricHamper",
+      "price": 383
+    },
+    {
+      "abr": "hayloft",
+      "category": "Furniture",
+      "defname": "LWM_Hayloft",
+      "price": 287
+    },
+    {
+      "abr": "mealtrayrack",
+      "category": "Furniture",
+      "defname": "LWM_MealRack",
+      "price": 255
+    },
+    {
+      "abr": "meathook",
+      "category": "Furniture",
+      "defname": "LWM_Meat_Hook",
+      "price": 254
+    },
+    {
+      "abr": "medicinecabinet",
+      "category": "Furniture",
+      "defname": "LWM_Medicine_Cabinet",
+      "price": 203
+    },
+    {
+      "abr": "pallet",
+      "category": "Furniture",
+      "defname": "LWM_Pallet",
+      "price": 220
+    },
+    {
+      "abr": "palletwithwrapping",
+      "category": "Furniture",
+      "defname": "LWM_Pallet_Covered",
+      "price": 321
+    },
+    {
+      "abr": "airwireheadset",
+      "category": "Headgear",
+      "defname": "Apparel_AirwireHeadset",
+      "price": 383
+    },
+    {
+      "abr": "architecapsule",
+      "category": "Misc",
+      "defname": "ArchiteCapsule",
+      "price": 1167
+    },
+    {
+      "abr": "arrayheadset",
+      "category": "Headgear",
+      "defname": "Apparel_ArrayHeadset",
+      "price": 600
+    },
+    {
+      "abr": "babydecoration",
+      "category": "Furniture",
+      "defname": "BabyDecoration",
+      "price": 205
+    },
+    {
+      "abr": "babyfood",
+      "category": "Foods",
+      "defname": "BabyFood",
+      "price": 2
+    },
+    {
+      "abr": "bandnode",
+      "category": "Misc",
+      "defname": "BandNode",
+      "price": 892
+    },
+    {
+      "abr": "bandwidthpack",
+      "category": "Utility",
+      "defname": "Apparel_PackBandwidth",
+      "price": 2275
+    },
+    {
+      "abr": "basicsubcore",
+      "category": "Manufactured",
+      "defname": "SubcoreBasic",
+      "price": 333
+    },
+    {
+      "abr": "blackboard",
+      "category": "Furniture",
+      "defname": "Blackboard",
+      "price": 56
+    },
+    {
+      "abr": "bloodtorch",
+      "category": "Misc",
+      "defname": "SanguphageMeetingTorch",
+      "price": 41
+    },
+    {
+      "abr": "controlpack",
+      "category": "Utility",
+      "defname": "Apparel_PackControl",
+      "price": 658
+    },
+    {
+      "abr": "controlsublink(high)",
+      "category": "Mechtech",
+      "defname": "ControlSublinkHigh",
+      "price": 2000
+    },
+    {
+      "abr": "controlsublink(standard)",
+      "category": "Mechtech",
+      "defname": "ControlSublink",
+      "price": 2000
+    },
+    {
+      "abr": "crib",
+      "category": "Furniture",
+      "defname": "Crib",
+      "price": 86
+    },
+    {
+      "abr": "deathrestaccelerator",
+      "category": "Misc",
+      "defname": "DeathrestAccelerator",
+      "price": 1183
+    },
+    {
+      "abr": "deathrestcapacityserum",
+      "category": "Drugs",
+      "defname": "DeathrestCapacitySerum",
+      "price": 1667
+    },
+    {
+      "abr": "deathrestcasket",
+      "category": "Misc",
+      "defname": "DeathrestCasket",
+      "price": 492
+    },
+    {
+      "abr": "detoxifierkidney",
+      "category": "Bionic",
+      "defname": "DetoxifierKidney",
+      "price": 1800
+    },
+    {
+      "abr": "detoxifierlung",
+      "category": "Bionic",
+      "defname": "DetoxifierLung",
+      "price": 1542
+    },
+    {
+      "abr": "embryo",
+      "category": "Misc",
+      "defname": "HumanEmbryo",
+      "price": 83
+    },
+    {
+      "abr": "facemask",
+      "category": "Headgear",
+      "defname": "Apparel_ClothMask",
+      "price": 38
+    },
+    {
+      "abr": "flamebow",
+      "category": "Ranged weapons",
+      "defname": "Flamebow",
+      "price": 75
+    },
+    {
+      "abr": "gasmask",
+      "category": "Headgear",
+      "defname": "Apparel_GasMask",
+      "price": 176
+    },
+    {
+      "abr": "geneassembler",
+      "category": "Misc",
+      "defname": "GeneAssembler",
+      "price": 917
+    },
+    {
+      "abr": "genebank",
+      "category": "Production",
+      "defname": "GeneBank",
+      "price": 242
+    },
+    {
+      "abr": "geneextractor",
+      "category": "Misc",
+      "defname": "GeneExtractor",
+      "price": 1117
+    },
+    {
+      "abr": "geneprocessor",
+      "category": "Misc",
+      "defname": "GeneProcessor",
+      "price": 850
+    },
+    {
+      "abr": "genepack",
+      "category": "Misc",
+      "defname": "Genepack",
+      "price": 167
+    },
+    {
+      "abr": "glucosoidpump",
+      "category": "Misc",
+      "defname": "GlucosoidPump",
+      "price": 858
+    },
+    {
+      "abr": "growthvat",
+      "category": "Misc",
+      "defname": "GrowthVat",
+      "price": 733
+    },
+    {
+      "abr": "heavybandolier",
+      "category": "Misc",
+      "defname": "Apparel_Bandolier",
+      "price": 271
+    },
+    {
+      "abr": "hemogenamplifier",
+      "category": "Misc",
+      "defname": "HemogenAmplifier",
+      "price": 917
+    },
+    {
+      "abr": "hemogenpack",
+      "category": "Foods",
+      "defname": "HemogenPack",
+      "price": 8
+    },
+    {
+      "abr": "hemopump",
+      "category": "Misc",
+      "defname": "Hemopump",
+      "price": 600
+    },
+    {
+      "abr": "highsubcore",
+      "category": "Manufactured",
+      "defname": "SubcoreHigh",
+      "price": 1667
+    },
+    {
+      "abr": "iedtoxtrap",
+      "category": "Security",
+      "defname": "TrapIED_ToxGas",
+      "price": 192
+    },
+    {
+      "abr": "integratorheadset",
+      "category": "Headgear",
+      "defname": "Apparel_IntegratorHeadset",
+      "price": 4058
+    },
+    {
+      "abr": "kidhelmet",
+      "category": "Headgear",
+      "defname": "Apparel_KidHelmet",
+      "price": 79
+    },
+    {
+      "abr": "kidpants",
+      "category": "Misc",
+      "defname": "Apparel_KidPants",
+      "price": 74
+    },
+    {
+      "abr": "kidparka",
+      "category": "Misc",
+      "defname": "Apparel_KidParka",
+      "price": 172
+    },
+    {
+      "abr": "kidromper",
+      "category": "Misc",
+      "defname": "Apparel_KidRomper",
+      "price": 112
+    },
+    {
+      "abr": "kidshirt",
+      "category": "Misc",
+      "defname": "Apparel_KidShirt",
+      "price": 74
+    },
+    {
+      "abr": "kidtribalwear",
+      "category": "Misc",
+      "defname": "Apparel_KidTribal",
+      "price": 108
+    },
+    {
+      "abr": "largemechgestator",
+      "category": "Misc",
+      "defname": "LargeMechGestator",
+      "price": 1367
+    },
+    {
+      "abr": "largemechrecharger",
+      "category": "Misc",
+      "defname": "StandardRecharger",
+      "price": 950
+    },
+    {
+      "abr": "mechbooster",
+      "category": "Misc",
+      "defname": "MechBooster",
+      "price": 575
+    },
+    {
+      "abr": "mechgestationprocessor",
+      "category": "Mechtech",
+      "defname": "MechFormfeeder",
+      "price": 2000
+    },
+    {
+      "abr": "mechgestator",
+      "category": "Misc",
+      "defname": "MechGestator",
+      "price": 683
+    },
+    {
+      "abr": "mechrecharger",
+      "category": "Misc",
+      "defname": "BasicRecharger",
+      "price": 500
+    },
+    {
+      "abr": "mechanoidtransponder",
+      "category": "Misc",
+      "defname": "MechanoidTransponder",
+      "price": 333
+    },
+    {
+      "abr": "mechbandantenna",
+      "category": "Misc",
+      "defname": "BurnoutMechlinkBooster",
+      "price": 417
+    },
+    {
+      "abr": "mechbanddish",
+      "category": "Misc",
+      "defname": "MechbandDish",
+      "price": 1325
+    },
+    {
+      "abr": "mechcommanderhelmet",
+      "category": "Headgear",
+      "defname": "Apparel_ArmorHelmetMechCommander",
+      "price": 2150
+    },
+    {
+      "abr": "mechlink",
+      "category": "Mechtech",
+      "defname": "Mechlink",
+      "price": 833
+    },
+    {
+      "abr": "mechlordhelmet",
+      "category": "Headgear",
+      "defname": "Apparel_ArmorHelmetMechlordHelmet",
+      "price": 8892
+    },
+    {
+      "abr": "mechlordsuit",
+      "category": "Armor",
+      "defname": "Apparel_MechlordSuit",
+      "price": 11692
+    },
+    {
+      "abr": "nanostructuringchip",
+      "category": "Manufactured",
+      "defname": "NanostructuringChip",
+      "price": 2500
+    },
+    {
+      "abr": "ovum",
+      "category": "Misc",
+      "defname": "HumanOvum",
+      "price": 83
+    },
+    {
+      "abr": "pollutionpump",
+      "category": "Misc",
+      "defname": "PollutionPump",
+      "price": 315
+    },
+    {
+      "abr": "poluxseed",
+      "category": "Misc",
+      "defname": "PoluxSeed",
+      "price": 2000
+    },
+    {
+      "abr": "powerfocuschip",
+      "category": "Manufactured",
+      "defname": "PowerfocusChip",
+      "price": 1667
+    },
+    {
+      "abr": "psychofluidpump",
+      "category": "Misc",
+      "defname": "PsychofluidPump",
+      "price": 2042
+    },
+    {
+      "abr": "remoterepairer",
+      "category": "Mechtech",
+      "defname": "RemoteRepairer",
+      "price": 2000
+    },
+    {
+      "abr": "remoteshielder",
+      "category": "Mechtech",
+      "defname": "RemoteShielder",
+      "price": 2000
+    },
+    {
+      "abr": "repairprobe",
+      "category": "Mechtech",
+      "defname": "RepairProbe",
+      "price": 2000
+    },
+    {
+      "abr": "safe",
+      "category": "Furniture",
+      "defname": "LWM_Safe",
+      "price": 1017
+    },
+    {
+      "abr": "sash",
+      "category": "Misc",
+      "defname": "Apparel_Sash",
+      "price": 89
+    },
+    {
+      "abr": "schooldesk",
+      "category": "Furniture",
+      "defname": "SchoolDesk",
+      "price": 104
+    },
+    {
+      "abr": "signalchip",
+      "category": "Manufactured",
+      "defname": "SignalChip",
+      "price": 833
+    },
+    {
+      "abr": "skip",
+      "category": "Furniture",
+      "defname": "LWM_DeepStorage_Skip",
+      "price": 305
+    },
+    {
+      "abr": "smarttoxbomblauncher",
+      "category": "Toxbomb",
+      "defname": "Gun_SmartToxbombLauncher",
+      "price": 800
+    },
+    {
+      "abr": "specialisttoxbomblauncher",
+      "category": "Toxbomb",
+      "defname": "Gun_SpecialistToxbombLauncher",
+      "price": 717
+    },
+    {
+      "abr": "standardsubcore",
+      "category": "Manufactured",
+      "defname": "SubcoreRegular",
+      "price": 500
+    },
+    {
+      "abr": "subcoreencoder",
+      "category": "Production",
+      "defname": "SubcoreEncoder",
+      "price": 525
+    },
+    {
+      "abr": "subcoreripscanner",
+      "category": "Misc",
+      "defname": "SubcoreRipscanner",
+      "price": 3208
+    },
+    {
+      "abr": "subcoresoftscanner",
+      "category": "Misc",
+      "defname": "SubcoreSoftscanner",
+      "price": 1642
+    },
+    {
+      "abr": "submachinegun",
+      "category": "Submachine guns",
+      "defname": "Gun_SubmachineGun",
+      "price": 433
+    },
+    {
+      "abr": "surplusautomaticshotgun",
+      "category": "Shotguns",
+      "defname": "Gun_SurplusAutomaticShotgun",
+      "price": 667
+    },
+    {
+      "abr": "surplusbattlerifle",
+      "category": "Rifles",
+      "defname": "Gun_AutomaticBattleRifle",
+      "price": 917
+    },
+    {
+      "abr": "surplusbolt-actionrifle",
+      "category": "Rifles",
+      "defname": "Gun_SurplusBoltActionRifle",
+      "price": 417
+    },
+    {
+      "abr": "surplusbolt-actionsniperrifle",
+      "category": "Sniper rifles",
+      "defname": "Gun_SurplusBoltActionSniperRifle",
+      "price": 583
+    },
+    {
+      "abr": "surplusemplauncher",
+      "category": "EMP",
+      "defname": "Gun_SurplusEMPLauncher",
+      "price": 833
+    },
+    {
+      "abr": "surplusincendiarylauncher",
+      "category": "Incendiary",
+      "defname": "Gun_SurplusIncendiaryLauncher",
+      "price": 567
+    },
+    {
+      "abr": "surpluslmg",
+      "category": "Machine guns",
+      "defname": "Gun_SurplusLMG",
+      "price": 800
+    },
+    {
+      "abr": "surplussemi-automaticpistol",
+      "category": "Pistols",
+      "defname": "Gun_SurplusSemiAutomaticPistol",
+      "price": 300
+    },
+    {
+      "abr": "surplussmokelauncher",
+      "category": "Smoke",
+      "defname": "Gun_SurplusSmokeLauncher",
+      "price": 567
+    },
+    {
+      "abr": "surplussubmachinegun",
+      "category": "Submachine guns",
+      "defname": "Gun_ServiceSubmachineGun",
+      "price": 433
+    },
+    {
+      "abr": "surplustoxbomblauncher",
+      "category": "Toxbomb",
+      "defname": "Gun_SurplusToxbombLauncher",
+      "price": 633
+    },
+    {
+      "abr": "survivalrevolver",
+      "category": "Pistols",
+      "defname": "Gun_SurvivalRevolver",
+      "price": 217
+    },
+    {
+      "abr": "survivalrifle",
+      "category": "Rifles",
+      "defname": "Gun_SurvivalRifle",
+      "price": 433
+    },
+    {
+      "abr": "tacticalservicerifle",
+      "category": "Rifles",
+      "defname": "Gun_TacticalServiceRifle",
+      "price": 1167
+    },
+    {
+      "abr": "tacticalsubmachinegun",
+      "category": "Submachine guns",
+      "defname": "Gun_TacticalSubmachineGun",
+      "price": 750
+    },
+    {
+      "abr": "teepee",
+      "category": "Furniture",
+      "defname": "Teepee",
+      "price": 342
+    },
+    {
+      "abr": "tent",
+      "category": "Furniture",
+      "defname": "Tent",
+      "price": 342
+    },
+    {
+      "abr": "textbook",
+      "category": "Books",
+      "defname": "TextBook",
+      "price": 267
+    },
+    {
+      "abr": "toxgrenades",
+      "category": "Grenades",
+      "defname": "Weapon_GrenadeTox",
+      "price": 525
+    },
+    {
+      "abr": "toxpack",
+      "category": "Utility",
+      "defname": "Apparel_PackTox",
+      "price": 241
+    },
+    {
+      "abr": "toxshell",
+      "category": "Mortar shells",
+      "defname": "Shell_Toxic",
+      "price": 92
+    },
+    {
+      "abr": "toxalope",
+      "category": "Animals",
+      "defname": "Toxalope",
+      "price": 583
+    },
+    {
+      "abr": "toxalopemeat",
+      "category": "Meat",
+      "defname": "Meat_Toxalope",
+      "price": 3
+    },
+    {
+      "abr": "toxbomblauncher",
+      "category": "Toxbomb",
+      "defname": "Gun_ToxbombLauncher",
+      "price": 633
+    },
+    {
+      "abr": "toxifiergenerator",
+      "category": "Misc",
+      "defname": "ToxifierGenerator",
+      "price": 600
+    },
+    {
+      "abr": "toxipotatoes",
+      "category": "Vegetarian",
+      "defname": "RawToxipotato",
+      "price": 1
+    },
+    {
+      "abr": "toybox",
+      "category": "Furniture",
+      "defname": "ToyBox",
+      "price": 274
+    },
+    {
+      "abr": "universalassaultrifle",
+      "category": "Rifles",
+      "defname": "Gun_PolymerBullpupRifle",
+      "price": 867
+    },
+    {
+      "abr": "universallmg",
+      "category": "Machine guns",
+      "defname": "Gun_PolymerLightSupportWeapon",
+      "price": 867
+    },
+    {
+      "abr": "universalsubmachinegun",
+      "category": "Submachine guns",
+      "defname": "Gun_PolymerSubmachineGun",
+      "price": 667
+    },
+    {
+      "abr": "urbanpistol",
+      "category": "Pistols",
+      "defname": "Gun_UrbanPistol",
+      "price": 367
+    },
+    {
+      "abr": "verybigshelves",
+      "category": "Furniture",
+      "defname": "LWM_VeryBigShelf",
+      "price": 550
+    },
+    {
+      "abr": "vikingtent",
+      "category": "Furniture",
+      "defname": "VikingTent",
+      "price": 383
+    },
+    {
+      "abr": "walllamp",
+      "category": "Furniture",
+      "defname": "WallLamp",
+      "price": 49
+    },
+    {
+      "abr": "wallsunlamp",
+      "category": "Furniture",
+      "defname": "MURWallSunLamp",
+      "price": 97
+    },
+    {
+      "abr": "walltorchlamp",
+      "category": "Misc",
+      "defname": "TorchWallLamp",
+      "price": 31
+    },
+    {
+      "abr": "wasterat",
+      "category": "Animals",
+      "defname": "WasteRat",
+      "price": 58
+    },
+    {
+      "abr": "wasteratmeat",
+      "category": "Meat",
+      "defname": "Meat_WasteRat",
+      "price": 3
+    },
+    {
+      "abr": "wastepackatomizer",
+      "category": "Misc",
+      "defname": "WastepackAtomizer",
+      "price": 4067
+    },
+    {
+      "abr": "weaponscabinet",
+      "category": "Furniture",
+      "defname": "LWM_WeaponsCabinet",
+      "price": 254
+    },
+    {
+      "abr": "weaponslocker",
+      "category": "Furniture",
+      "defname": "LWM_WeaponsLocker",
+      "price": 237
+    },
+    {
+      "abr": "woodencanopy",
+      "category": "Furniture",
+      "defname": "WoodenCanopy",
+      "price": 104
+    },
+    {
+      "abr": "woodpile",
+      "category": "Furniture",
+      "defname": "WoodPile",
+      "price": 212
+    },
+    {
+      "abr": "xenogerm",
+      "category": "Misc",
+      "defname": "Xenogerm",
+      "price": 167
     }
   ],
-  "total": 814
+  "total": 1009
 }

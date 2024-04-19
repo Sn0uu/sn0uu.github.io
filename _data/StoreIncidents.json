@@ -176,6 +176,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -212,7 +217,7 @@
 	},
 	{
 		"abr": "randominspire",
-		"price": 450,
+		"price": 555,
 		"karmatype": "Good"
 	},
 	{
@@ -311,6 +316,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "randomchildhood",
 		"price": 1000,
 		"karmatype": "Neutral"
@@ -326,5 +336,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 65
+	"total": 67
 }
