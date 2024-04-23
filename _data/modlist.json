@@ -81,7 +81,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.5.5.0"
+    "version": "1.5.9.0"
   },
   {
     "author": "Spdskatr and CaesarV6",
@@ -280,12 +280,6 @@
     "name": "Replace Stuff",
     "steamId": "1372003680",
     "version": "1.1.0.0"
-  },
-  {
-    "author": "Reiquard",
-    "name": "Research Info",
-    "steamId": "2290462337",
-    "version": "1.0.0.0"
   },
   {
     "author": "Fluffy",
