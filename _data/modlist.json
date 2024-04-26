@@ -96,6 +96,18 @@
     "version": null
   },
   {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sky",
+    "name": "Deep Storage Plus (Continued)",
+    "steamId": "2589072911",
+    "version": "1.5.0"
+  },
+  {
     "author": "merthsoft",
     "name": "Designator Shapes",
     "steamId": "1235181370",
@@ -150,12 +162,6 @@
     "version": "3.0.0.0"
   },
   {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "krafs",
     "name": "Level Up!",
     "steamId": "1701592470",
@@ -178,6 +184,12 @@
     "name": "Map Preview",
     "steamId": "2800857642",
     "version": "1.12.13.0"
+  },
+  {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "3226161877",
+    "version": "1.0.1.0"
   },
   {
     "author": "erdelf",
