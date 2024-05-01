@@ -96,18 +96,6 @@
     "version": null
   },
   {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sky",
-    "name": "Deep Storage Plus (Continued)",
-    "steamId": "2589072911",
-    "version": "1.5.0"
-  },
-  {
     "author": "merthsoft",
     "name": "Designator Shapes",
     "steamId": "1235181370",
@@ -160,6 +148,12 @@
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
     "version": "3.0.0.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage (Unofficial 1.5)",
+    "steamId": "3220688225",
+    "version": "1.4.1.4"
   },
   {
     "author": "krafs",
@@ -297,7 +291,7 @@
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   {
     "author": "Jaxe",
@@ -339,7 +333,7 @@
     "author": "Mlie",
     "name": "Show Me Your Hands",
     "steamId": "2475965842",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   {
     "author": "PeteTimesSix",
@@ -426,8 +420,14 @@
     "version": "1.0.8847.22466"
   },
   {
-    "author": "Janson",
-    "name": "Weapon Tech",
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
   },
