@@ -114,6 +114,12 @@
     "version": null
   },
   {
+    "author": "SirKota",
+    "name": "InventoryTab",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "dhultgren",
     "name": "Keep Bed Ownership",
     "steamId": null,
@@ -210,7 +216,7 @@
     "version": null
   },
   {
-    "author": "Nandonalt and Tejko",
+    "author": "Alias, Tejko and Nandonalt",
     "name": "Snowy Trees",
     "steamId": null,
     "version": null
@@ -230,6 +236,12 @@
   {
     "author": "Meow",
     "name": "Tradable Stone Blocks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg",
+    "name": "Vanilla Apparel Expanded",
     "steamId": null,
     "version": null
   },
